@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Message Course Dashboard Banner Reset Date -->
-    <string name="course_dashboard_banner_reset_date"><b>It looks like you missed some important deadlines based on our suggested schedule.</b>
-        To keep yourself on track, you can update this schedule and shift the past due assignments into the future. Don’t worry—you won’t lose any of the progress you’ve made when you shift your due dates.</string>
+    <string name="course_dashboard_banner_reset_date"><b>ང་ཚོས་སྦྱོང་རིམ་བསྒྲིགས་པའི་རེའུ་མིག་ལྟར་བྱས་ན་ཁྱེད་ཀྱིས་གལ་ཆེའི་དུས་བཀག་རེ་ཟུང་ཤོར་ཡོད་པ་འདྲ།</b>
+         ཁྱེད་རང་དུས་ལྟར་འགྲོ་ཐུབ་པ་ལ་ཁྱེད་ཀྱིས་རེའུ་མིག་འདི་ལ་བསྐྱར་བཅོས་བྱས་ཏེ་དུས་བཀག་སྔ་མར་སྤྲད་པ་དེ་གཞུག་གི་དུས་བཀག་ལ་བརྗེ་ཆོག ཁྱེད་ཀྱིས་དུས་བཀག་བརྗེ་བསྒྱུར་བྱེད་སྐབས་ཁྱེད་རང་གི་སྦྱོང་བའི་གནས་རིམ་གང་ཡང་བརླག་མི་སྲིད་པས་སེམས་བདེ་བོ་བྱས་ཆོག</string>
     <!-- Label Course Dates Banner Reset Date Button -->
-    <string name="course_dates_banner_reset_date_button">Shift due dates</string>
+    <string name="course_dates_banner_reset_date_button">དུས་བཀག་ཟླ་ཚེས་བརྗེས།</string>
 
     <!-- Title Course Schedule  -->
-    <string name="course_schedule_title">Course Schedule</string>
+    <string name="course_schedule_title">སློབ་ཚན་གྱི་སྦྱོང་རིམ་རེའུ་མིག</string>
     <!-- Message Course Dates Info Banner -->
-    <string name="course_dates_info_banner">We built a suggested schedule to help you stay on track. But don’t worry – it’s flexible so you can learn at your own pace.
-        If you happen to fall behind, you’ll be able to adjust the dates to keep yourself on track.</string>
+    <string name="course_dates_info_banner">ང་ཚོས་ཁྱེད་རང་དུས་ལྟར་འགྲོ་ཐུབ་པར་ཕན་ཐོགས་པའི་ང་ཚོའི་བསམ་ཚུལ་ལྟར་དུས་ཚོད་རེའུ་མིག་ཅིག་བསྒྲིགས་ཡོད། འོན་ཀྱང་། དེ་ནི་ཁྱེད་རང་ཉིད་ཀྱི་འདོད་མོས་ལྟར་སྦྱོང་བ་བྱས་ཀྱང་ཆོག་པ་ཞིག་ཡིན་པས་ཐུགས་སེམས་ལྷོད་ལྷོད་བྱས་ཆོག 
+        གལ་སྲིད་ཁྱེད་རང་རྗེས་ལུས་ཐེབས་སོང་ན་རང་ཉིད་དུས་ལྟར་འགྲོ་ཐུབ་སླད་ཁྱེད་ཀྱིས་བསྐྱར་དུ་དུས་བཀག་དེ་བསྐྱར་སྒྲིག་བྱེད་ཆོག་པ་ཡིན།</string>
     <!-- Message Course Dates Banner Upgrade to Complete Graded -->
-    <string name="course_dates_banner_upgrade_to_graded">To complete graded assignments as part of this course, you can upgrade today.</string>
+    <string name="course_dates_banner_upgrade_to_graded">སློབ་ཚན་འདིའི་ཆ་ཤས་སུ་གྱུར་བའི་གནས་རིམ་ཡོད་པའི་ལས་འགན་དག་ཆ་ཚང་འགྲུབ་པ་ལ་ཁྱེད་ཀྱིས་ད་ལྟ་རང་རིམ་སྤར་བྱེད་ཆོག</string>
     <!-- Message Course Dates Banner Upgrade to Reset -->
-    <string name="course_dates_banner_upgrade_to_reset">You are auditing this course,
-        which means that you are unable to participate in graded assignments. It looks like you missed some important deadlines based on our suggested schedule. To complete graded assignments as part of this course and shift the past due assignments into the future, you can upgrade today.</string>
+    <string name="course_dates_banner_upgrade_to_reset">ཁྱེད་རང་སློབ་ཚན་འདིའི་ནང་ཟུར་ཞུགས་ཀྱི་ངོ་བོར་གནས་འདུག
+        འདིའི་དོན་ནི་ཁྱེད་རང་གནས་རིམ་ཡོད་པའི་ལས་འགན་ནང་མཉམ་ཞུགས་བྱ་མི་ཐུབ་པའི་དོན་ཡིན། ང་ཚོས་སྦྱོང་རིམ་བསྒྲིགས་པའི་རེའུ་མིག་ལྟར་བྱས་ན་ཁྱེད་ཀྱིས་གལ་ཆེའི་དུས་བཀག་རེ་ཟུང་ཤོར་ཡོད་པ་འདྲ། སློབ་ཚན་འདིའི་ཆ་ཤས་སུ་གྱུར་བའི་གནས་རིམ་ཡོད་པའི་ལས་འགན་དག་ཆ་ཚང་འགྲུབ་པ་དང་། དུས་བཀག་སྔ་མར་སྤྲད་པ་དེ་གཞུག་གི་དུས་བཀག་ལ་བརྗེ་བསྒྱུར་བྱ་ཕྱིར་ཁྱེད་ཀྱིས་ད་ལྟ་རང་རིམ་སྤར་བྱེད་ཆོག</string>
     <!-- Message Course Dates Banner Reset Date -->
-    <string name="course_dates_banner_reset_date">It looks like you missed some important deadlines based on our suggested schedule.
-        To keep yourself on track, you can update this schedule and shift the past due assignments into the future. Don’t worry—you won’t lose any of the progress you’ve made when you shift your due dates.</string>
+    <string name="course_dates_banner_reset_date">ང་ཚོས་སྦྱོང་རིམ་བསྒྲིགས་པའི་རེའུ་མིག་ལྟར་བྱས་ན་ཁྱེད་ཀྱིས་གལ་ཆེའི་དུས་བཀག་རེ་ཟུང་ཤོར་ཡོད་པ་འདྲ།
+        ཁྱེད་རང་དུས་ལྟར་འགྲོ་ཐུབ་པ་ལ་ཁྱེད་ཀྱིས་རེའུ་མིག་འདི་ལ་བསྐྱར་བཅོས་བྱས་ཏེ། སྔ་མར་སྤྲད་པའི་ལས་འགན་གྱི་དུས་བཀག་དེ་གཞུག་གི་དུས་བཀག་ལ་བརྗེ་ཆོག ཁྱེད་ཀྱིས་དུས་བཀག་བརྗེ་བསྒྱུར་བྱེད་སྐབས་ཁྱེད་རང་གི་སྦྱོང་བའི་གནས་རིམ་གང་ཡང་བརླག་མི་སྲིད་པས་སེམས་བདེ་བོ་བྱས་ཆོག</string>
     <!-- Label Course Card Graded Message -->
-    <string name="value_prop_course_card_message">Upgrade to access more features</string>
+    <string name="value_prop_course_card_message">ཁྱད་ཆོས་གང་མང་བཀོལ་འདོད་ན་རིམ་སྤར་བྱོས།</string>
 
     <!-- Open in browser message -->
-    <string name="open_in_browser_message">This part of the course may work best in a web browser.</string>
+    <string name="open_in_browser_message">སློབ་ཚན་གྱི་ཆ་ཤས་འདིའི་རིགས་ནི་དྲ་ཚིགས་ཤིག་གི་ནང་གཟིགས་ན་ལས་ཀ་ཡག་པོ་བྱེད་སྲིད།</string>
     <!-- Open in browser Title -->
-    <string name="open_in_browser_text"><u>Open in browser</u></string>
+    <string name="open_in_browser_text"><u>དྲ་ཚིགས་ནང་སྒོ་ཕྱེས།</u></string>
 </resources>

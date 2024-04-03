@@ -2,67 +2,67 @@
 <resources>
     <!-- region: Course Date types -->
     <!-- Label used when the date is Today -->
-    <string name="date_type_today">Today</string>
+    <string name="date_type_today">དེ་རིང་།</string>
     <!-- Label used when an assignment is for verified user only -->
-    <string name="date_type_verified_only">Verified Only</string>
+    <string name="date_type_verified_only">ཁུངས་སྐྱེལ་བྱས་པ་ཁོ་ན།</string>
     <!-- Label used when an assignment is completed -->
-    <string name="date_type_completed">Completed</string>
+    <string name="date_type_completed">ཆ་ཚང་གྲུབ་ཟིན་པ།Completed</string>
     <!-- Label used when an assignment is past due -->
-    <string name="date_type_past_due">Past Due</string>
+    <string name="date_type_past_due">དུས་བཀག་ཡོལ་ཞིན་པ།</string>
     <!-- Label used when an assignment is due next -->
-    <string name="date_type_due_next">Due Next</string>
+    <string name="date_type_due_next">དུས་བཀག་རྗེས་མ།</string>
     <!-- Label used when an assignment is not yet released -->
-    <string name="date_type_not_yet_released">Not Yet Released</string>
+    <string name="date_type_not_yet_released">ད་དུང་སྤེལ་མི་འདུག</string>
     <!-- endregion -->
 
     <!-- region: Sync to calendar -->
     <!-- Title Sync to calendar  -->
-    <string name="sync_to_calendar">Sync to calendar</string>
+    <string name="sync_to_calendar">ལོ་ཐོ་དང་མཉམ་སྒྲིག་བྱེད།</string>
     <!-- Title Sync to calendar  -->
-    <string name="sync_to_calendar_message">Automatically sync all deadlines and due dates for this course to your calendar.</string>
+    <string name="sync_to_calendar_message">སློབ་ཚན་འདིའི་དུས་བཀག་ཡོངས་དང་དུས་བཀག་ཟླ་ཚེས་དང་བཅས་པ་རང་འགུལ་གྱིས་ཁྱེད་ཀྱི་ལོ་ཐོ་དང་སྦྲེལ་འགྲོ་བ་ཡིན།</string>
     <!-- Title to request calendar permission  -->
-    <string name="title_request_calendar_permission">\“{platform_name}\” Would Like to Access Your Calendar</string>
+    <string name="title_request_calendar_permission">\“{platform_name}\” ཁྱེད་ཀྱི་ལོ་ཐོ་སྔོགས་འདོད་འདུག་གམ།</string>
     <!-- Message to request calendar permission  -->
-    <string name="message_request_calendar_permission">{platform_name} would like to use your calendar list to subscribe to your personalized {platform_name} calendar for this course.</string>
+    <string name="message_request_calendar_permission">དྲ་ཚིགས་{platform_name} འདིས་ཁྱེད་ཀྱི་ལོ་ཐོའི་ཐོ་གཞུང་བཀོལ་སྤྱོད་བྱས་ཏེ་སློབ་ཚན་འདིའི་ནང་ཁྱེད་རང་སྒེར་གྱིས་བཟོས་པའི་{platform_name} དུས་ཚོད་རེའུ་མིག་གི་ལོ་ཐོ་དེ་སྔོན་མངགས་བྱེད་འདོད་འདུག</string>
     <!-- Title to add calendar for course  -->
-    <string name="title_add_course_calendar">Add Calendar \“{course_name}\”</string>
+    <string name="title_add_course_calendar">ལོ་ཐོ་སྣོན། \“{course_name}\”</string>
     <!-- Message to add calendar for course  -->
-    <string name="message_add_course_calendar">Would you like to add the {platform_name} calendar \“{course_name}\” ? \n\nYou can edit or remove your course calendar any time in Calendar or Settings.</string>
+    <string name="message_add_course_calendar">ཁྱེད་རང་ {platform_name} འདི་ལོ་ཐོ་\“{course_name}\” ལ་སྣོན་འདོད་འདུག་གམ། \n\nཁྱེད་ཀྱིས་ནམ་ཡིན་རུང་རང་གི་སློབ་ཚན་ལོ་ཐོ་དེ་ལོ་ཐོ་དང་སྒྲིག་འགོད་གཉིས་ཀྱི་ནང་ནས་བསྐྱར་སྒྲིག་དང་ཡང་ན་བསུབ་པ་གཉིས་ཆ་བྱེད་ཐུབ།</string>
     <!-- Success Message after calendar for course added first time -->
-    <string name="message_for_alert_after_course_calendar_added">\“{course_name}\” has been added to your phone\'s calendar.</string>
+    <string name="message_for_alert_after_course_calendar_added">\“{course_name}\” འདི་ཁྱེད་ཀྱི་ཁ་པར་གྱི་ལོ་ཐོའི་ནང་བསྣན་ཟིན་འདུག</string>
     <!-- Success Message after calendar for course added -->
-    <string name="message_after_course_calendar_added">Your course calendar has been added.</string>
+    <string name="message_after_course_calendar_added">ཁྱེད་ཀྱི་སློབ་ཚན་གྱི་ལོ་ཐོ་བསྣན་ཟིན།</string>
     <!-- Title to remove calendar for course  -->
-    <string name="title_remove_course_calendar">Remove calendar \“{course_name}\”</string>
+    <string name="title_remove_course_calendar">ལོ་ཐོ་སུབ། \“{course_name}\”</string>
     <!-- Message to remove calendar for course  -->
-    <string name="message_remove_course_calendar">Would you like to remove the {platform_name} calendar \“{course_name}\” ?</string>
+    <string name="message_remove_course_calendar">ཁྱེད་ཀྱིས་ {platform_name} ལོ་ཐོ་ \“{course_name}\” བསུབ་འདོད་འདུག་གམ།</string>
     <!-- Success Message after calendar for course removed -->
-    <string name="message_after_course_calendar_removed">Your course calendar has been removed.</string>
+    <string name="message_after_course_calendar_removed">ཁྱེད་ཀྱི་སློབ་ཚན་གྱི་ལོ་ཐོ་བསུབ་ཟིན།</string>
     <!-- Success Message after calendar for course update -->
-    <string name="message_after_course_calendar_updated">Your course calendar has been updated.</string>
+    <string name="message_after_course_calendar_updated">ཁྱེད་ཀྱི་སློབ་ཚན་གྱི་ལོ་ཐོ་བསྐྱར་གསོ་བྱས་ཟིན།</string>
     <!-- Title course calendar is out-of-date  -->
-    <string name="title_calendar_out_of_date">Your course calendar is out of date</string>
+    <string name="title_calendar_out_of_date">ཁྱེད་ཀྱི་སློབ་ཚན་གྱི་ལོ་ཐོའི་དུས་ཡུན་རྫོགས་འདུག</string>
     <!-- Message course calendar is out-of-date  -->
-    <string name="message_calendar_out_of_date">Your course dates have been shifted and your course calendar is no longer up to date with your new schedule.</string>
+    <string name="message_calendar_out_of_date">ཁྱེད་ཀྱི་སློབ་ཚན་གྱི་དུས་ཚོད་འགྱུར་བ་གཏང་འདུག་མོད། ཁྱོད་ཀྱི་སློབ་ཚན་གྱི་ལོ་ཐོ་དེ་དུས་ཚོད་གསར་པའི་རེའུ་མིག་བཞིན་བསྐྱར་སྒྲིག་བྱས་མི་འདུག</string>
     <!-- Error message while creating calendar for the course events -->
-    <string name="adding_calendar_error_message">Error Adding Calendar, Please try later</string>
+    <string name="adding_calendar_error_message">ལོ་ཐོ་གསར་སྣོན་ལ་གནད་དོན་ཞིག་བྱུང་སོང་། རྗེས་ནས་བསྐྱར་དུ་ཚོད་ལྟ་བྱ་རོགས།</string>
     <!-- Alert dialog remove course calendar button -->
-    <string name="label_remove_course_calendar">Remove Course Calendar</string>
+    <string name="label_remove_course_calendar">སློབ་ཚན་གྱི་ལོ་ཐོ་བསུབ།</string>
     <!-- Title syncing calendar dialog  -->
-    <string name="title_syncing_calendar">Syncing calendar...</string>
+    <string name="title_syncing_calendar">ལོ་ཐོ་དང་མཉམ་སྒྲིག་བྱེད་བཞིན་ཡོད་་་</string>
     <!-- endregion -->
 
     <!-- Message on shift course dates successfully on Assessment -->
-    <string name="assessment_shift_dates_success_msg">Your due dates have been successfully shifted to help you stay on track.</string>
+    <string name="assessment_shift_dates_success_msg">ཁྱེད་རང་དུས་ལྟར་གནས་ཐུབ་པ་ལ་ཕན་ཐོགས་ཡོང་ཕྱིར་ཁྱེད་ཀྱི་དུས་བཀག་རྣམས་བདེ་ལེགས་ངང་འགྱུར་བ་བཏང་ཟིན།</string>
     <!-- Label to view shifted dates -->
-    <string name="assessment_view_all_dates"><u>View all dates</u></string>
+    <string name="assessment_view_all_dates"><u>ཟླ་ཚེས་ཆ་ཚང་སྟོན།</u></string>
 
     <!-- region: Course dates error -->
     <!-- Error Message when course dates are not available -->
-    <string name="course_dates_unavailable_message">Course dates are not currently available.</string>
+    <string name="course_dates_unavailable_message">ད་སྔ་སློབ་ཚན་གྱི་ཟླ་ཚེས་གང་ཡང་མི་འདུག</string>
     <!-- Message Course Dates Reset Successful -->
-    <string name="course_dates_reset_successful">Your dates have been successfully shifted.</string>
+    <string name="course_dates_reset_successful">ཁྱེད་ཀྱི་ཟླ་ཚེས་བདེ་ལེགས་ངང་འགྱུར་བ་བཏང་ཟིན།</string>
     <!-- Message Course Dates Reset Unsuccessful -->
-    <string name="course_dates_reset_unsuccessful">Your dates could not be shifted. Please try again.</string>
+    <string name="course_dates_reset_unsuccessful">ཁྱེད་ཀྱི་ཟླ་ཚེས་རྣམས་འགྱུར་བ་གཏོང་ཉན་ས་མ་རེད། བསྐྱར་དུ་ཚོད་ལྟ་བྱེད་རོགས།</string>
     <!-- endregion -->
 </resources>

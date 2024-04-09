@@ -10,43 +10,43 @@
     <!-- Title of alert shown when course enrollment request fails -->
     <string name="enrollment_error_title">ཞུགས་ཐོར་གནད་དོན་བྱུང་སོང་།</string>
     <!-- Error message shown in alert when course enrollment request fails -->
-    <string name="enrollment_error_message">We are unable to enroll you in this course at this time using the {platform_name} mobile application. Please try again on your web browser.</string>
+    <string name="enrollment_error_message">ང་ཚོས་ཁ་པར་གྱི་མ་ལག་{platform_name} འདི་སྦྱད་དེ་ད་ཐེངས་ཁྱེད་རང་སློབ་ཚན་འདིའི་ནང་ཞུགས་ཐོར་བཀོད་ཐུབ་མ་སོང་བས། དྲ་ཚིགས་འདིའི་ནང་བསྐྱར་དུ་ཚོད་ལྟ་ཞིག་བྱ་རོགས།</string>
     <!-- Error message shown when a course section is not available on mobile -->
-    <string name="not_available_on_mobile">Not available on Mobile</string>
+    <string name="not_available_on_mobile">ཁ་པར་ནང་བཀོལ་ཆོག་པ་ཞིག་མི་འདུག</string>
 
     <!-- Network error messages -->
     <!-- Error shown when  user attempts an action but needs an internet connection -->
-    <string name="network_not_connected">You are not connected to the Internet.</string>
+    <string name="network_not_connected">ཁྱེད་རང་དྲ་རྒྱར་མཐུད་མི་འདུག</string>
     <!-- Concise error shown when user attempts an action but needs an internet connection -->
-    <string name="network_not_connected_short">Network not reachable</string>
+    <string name="network_not_connected_short">དྲ་རྒྱར་མཐུད་ཐུབ་ཀྱི་མི་འདུག</string>
     <!-- Alert dialog title shown when a network request fails -->
-    <string name="reset_no_network_title">Connection Error</string>
+    <string name="reset_no_network_title"> དྲ་རྒྱ་དང་མཐུད་རྒྱུར་གནད་དོན་བྱུང་སོང་།</string>
     <!-- Alert dialog content shown when a network request fails because the user has no internet connection -->
-    <string name="reset_no_network_message">You are not connected to the Internet. Please check your Internet connection.</string>
+    <string name="reset_no_network_message">ཁྱེད་རང་དྲ་རྒྱར་མཐུད་མི་འདུག དྲ་རྒྱའི་འབྲེལ་མཐུད་ལ་བསྐྱར་ཞིབ་ཅིག་བྱ་རོགས།</string>
     <!-- An error ocurred due to some kind of network failure -->
-    <string name="network_connected_error">Connection error. Please check your Internet connection.</string>
+    <string name="network_connected_error">དྲ་རྒྱ་དང་མཐུད་རྒྱུར་གནད་དོན་བྱུང་སོང་། དྲ་རྒྱའི་འབྲེལ་མཐུད་ལ་བསྐྱར་ཞིབ་ཅིག་བྱ་རོགས</string>
     <!-- The server we are trying to use is not available right now -->
-    <string name="network_service_unavailable">Service is unavailable. Please try again later.</string>
+    <string name="network_service_unavailable">ཞབས་ཞུ་མི་འདུག རྗེས་ནས་བསྐྱར་དུ་ཚོད་ལྟ་བྱོས།</string>
 
     <!-- Login error messages -->
     <!-- Error shown during login when user attempts login without entering a username or e-mail -->
-    <string name="error_enter_email">Please enter your user name or e-mail address and try again.</string>
+    <string name="error_enter_email">ཁྱེད་ཀྱི་སྤྱོད་མིང་དང་ཡང་ན་གློག་འཕྲིན་གང་རུང་ནང་འཇུག་བྱས་ཏེ་བསྐྱར་དུ་ཚོད་ལྟ་བྱ་ཪོགས།</string>
     <!-- Error shown during login when user enters an invalid email address -->
-    <string name="error_invalid_email">Please make sure your e-mail address is formatted correctly and try again.</string>
+    <string name="error_invalid_email">ཁྱེད་རང་གི་གློག་འཕྲིན་གྱི་རྣམ་པ་ལ་གནད་དོན་ཡོད་མེད་གཏན་འཁེལ་བྱས་ཏེ་བསྐྱར་དུ་ཚོད་ལྟ་བྱོས།</string>
     <!-- Error shown during login when user attempts login without entering a password -->
-    <string name="error_enter_password">Please enter your password and try again.</string>
+    <string name="error_enter_password">ཁྱེད་ཀྱིས་རང་གི་གསང་ཚིག་ནང་འཇུག་བྱས་ཏེ་བསྐྱར་དུ་ཚོད་ལྟ་བྱོས།</string>
     <!-- Title of alert shown during login when user attempts login via Facebook without having linked their account -->
-    <string name="error_account_not_linked_title_fb">Facebook account not associated with {platform_name} account</string>
+    <string name="error_account_not_linked_title_fb">ངོ་དེབ་ཀྱི་ཁ་བྱང་ {platform_name} འདི་དང་མཉམ་སྦྲེལ་བྱས་མི་འདུག</string>
     <!-- Content of alert shown during login when user attempts login via Facebook without having linked their account -->
-    <string name="error_account_not_linked_desc_fb">Make sure your Facebook account is associated with your {platform_name} account on {platform_destination}</string>
+    <string name="error_account_not_linked_desc_fb">ཁྱེད་ཀྱིས་རང་གི་ངོ་དེབ་ཀྱི་ཁ་བྱང་ {platform_name} འདི་དང་མཉམ་སྦྲེལ་གྱིས་{platform_destination}འདིར་བཀོད་ཡོད་མེད་གཏན་འཁེལ་བྱོས།</string>
     <!-- Content of alert shown during login when user attempts login via Facebook without having linked their account -->
-    <string name="error_account_not_linked_desc_fb_2">This Facebook account is not linked with any {platform_name} account. Please register.</string>
+    <string name="error_account_not_linked_desc_fb_2">ངོ་དེབ་ཁ་བྱང་འདི་ {platform_name} འདིའི་ནང་ད་སྔ་སྦྲེལ་མཐུད་གང་ཡང་བྱས་མི་འདུག་པས། ཐོ་འགོད་བྱ་རོགས།</string>
     <!-- Title of alert shown during login when user attempts login via Google without having linked their account -->
-    <string name="error_account_not_linked_title_google">Google account not associated with {platform_name} account</string>
+    <string name="error_account_not_linked_title_google">དགོས་དགུའི་ཁ་བྱང་ {platform_name}འདི་དང་སྦྲེལ་མཐུད་བྱས་མི་འདུག</string>
     <!-- Content of alert shown during login when user attempts login via Google without having linked their account -->
-    <string name="error_account_not_linked_desc_google">Make sure your Google account is associated with your {platform_name} account on {platform_destination}</string>
+    <string name="error_account_not_linked_desc_google">ཁྱེད་ཀྱིས་རང་གི་དགོས་དགུའི་ཁ་བྱང་ {platform_name} འདི་དང་མཉམ་སྦྲེལ་གྱིས་ {platform_destination}འདིར་བཀོད་ཡོད་མེད་གཏན་འཁེལ་བྱོས།</string>
     <!-- Content of alert shown during login when user attempts login via Google without having linked their account -->
-    <string name="error_account_not_linked_desc_google_2">This Google account is not linked with any {platform_name} account. Please register.</string>
+    <string name="error_account_not_linked_desc_google_2">དགོས་དགུའི་ཁ་བྱང་འདི་ {platform_name} འདིའི་ནང་ད་སྔ་སྦྲེལ་མཐུད་གང་ཡང་བྱས་མི་འདུག་པས། ཐོ་འགོད་བྱ་རོགས།</string>
     <!-- Title of alert shown during login when user attempts login via Google without having linked their account -->
     <string name="error_account_not_linked_title_microsoft">Microsoft account not associated with {platform_name} account</string>
     <!-- Content of alert shown during login when user attempts login via Google without having linked their account -->

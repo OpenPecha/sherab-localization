@@ -3,51 +3,51 @@
     <!-- Divider between current time and total time. For example  "2:33/5:10" -->
 	<string name="lbl_slash">/</string>
     <!-- Button allowing user to open a web page corresponding to the current screen in a web browser -->
-    <string name="lbl_view_on_web">VIEW ON WEB</string>
+    <string name="lbl_view_on_web">དྲ་ཚིགས་ནང་སྟོན།</string>
     <!-- A button's label that reloads the content on screen -->
-    <string name="lbl_reload">Reload</string>
+    <string name="lbl_reload">བསྐྱར་ལེན་བྱོས།</string>
 
     <!-- Dialog Fragment Labels -->
     <!-- Alert dialog cancel button -->
-    <string name="label_cancel">Cancel</string>
+    <string name="label_cancel">ཕྱིར་འཐེན།</string>
     <!-- Alert dialog No button -->
-    <string name="label_no">No</string>
+    <string name="label_no">མི་འདུག</string>
     <!-- Alert dialog download button -->
-    <string name="label_download">Download</string>
+    <string name="label_download">ཕབ་ལེན།</string>
     <!-- Alert dialog yes confirmation button -->
-    <string name="label_yes">Yes</string>
+    <string name="label_yes">ཡོད།</string>
     <!-- Alert dialog delete confirmation button -->
-    <string name="label_delete">Delete</string>
+    <string name="label_delete">སུབ།</string>
     <!-- Alert dialog okay button -->
-    <string name="label_ok">OK</string>
+    <string name="label_ok">འགྲིག</string>
     <!-- Alert dialog close button -->
-    <string name="label_close">Close</string>
+    <string name="label_close">སྒོ་རྒྱོབས།</string>
     <!-- Alert dialog continue confirmation button -->
-    <string name="label_continue">Continue</string>
+    <string name="label_continue">མུ་མཐུད།</string>
     <!-- Alert dialog submit button -->
-    <string name="label_submit">Submit</string>
+    <string name="label_submit">འབུལ་སྤྲོད།</string>
     <!-- Alert dialog send feedback button -->
-    <string name="label_send_feedback">Send Feedback</string>
+    <string name="label_send_feedback">བསམ་འཆར་ཐོངས།</string>
     <!-- Alert dialog maybe later button -->
-    <string name="label_maybe_later">Maybe Later</string>
+    <string name="label_maybe_later">རྗེས་སུ་བྱེད།</string>
     <!-- Alert dialog rate the app button -->
-    <string name="label_rate_the_app">Rate The App</string>
+    <string name="label_rate_the_app">མཉེན་ཆས་འདིར་རིན་ཚད་ཅིག་སྤྲོད།</string>
     <!-- Alert dialog and snackbar button for opening an app store to update the app to the latest version -->
-    <string name="label_update">Update</string>
+    <string name="label_update">བསྐྱར་གསོ།</string>
     <!-- Alert dialog Don't allow button -->
-    <string name="label_do_not_allow">Don’t allow</string>
+    <string name="label_do_not_allow">མི་འཇུག</string>
     <!-- Alert dialog View Event button -->
-    <string name="label_view_events">View Events</string>
+    <string name="label_view_events">བྱེད་སྒོ་ཁག་སྟོན།</string>
     <!-- Alert dialog Update now button -->
-    <string name="label_update_now">Update Now</string>
+    <string name="label_update_now">ད་ལྟ་རང་བསྐྱར་གསོ་བྱོས།</string>
     <!-- Alert dialog Remove button -->
-    <string name="label_remove">Remove</string>
+    <string name="label_remove">བསུབ།</string>
     <!-- Done button label -->
-    <string name="label_done">Done</string>
+    <string name="label_done">བསྒྲུབས་ཟིན།</string>
     <!-- Undo button label -->
-    <string name="label_undo">Undo</string>
+    <string name="label_undo">ཕྱིར་ལོག</string>
     <!-- Label denoting an error -->
-    <string name="label_error">Error</string>
+    <string name="label_error">གནད་དོན།</string>
     <!-- Customer support text, using as button title for disabled user-->
-    <string name="label_customer_support">Customer Support</string>
+    <string name="label_customer_support">ཚོང་མགྲོན་རམ་འདེགས།</string>
 </resources>

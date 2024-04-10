@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--  Heading of Purchases Field  -->
-    <string name="label_purchase">Purchases</string>
+    <string name="label_purchase">ཉོ་བ།</string>
     <!--  Title of Purchases Field  -->
-    <string name="title_purchase">Restore purchases</string>
+    <string name="title_purchase">ཉོས་ཟིན་བསྐྱར་ལེན།</string>
     <!--  Description of Purchases Field  -->
-    <string name="description_purchase">Sign into the Play Store to restore access to courses you have previously paid to upgrade</string>
+    <string name="description_purchase">ཁྱེད་ཀྱིས་སློབ་ཚན་རིམ་སྤར་བྱ་ཕྱིར་སྔ་མོ་ནས་ཉོས་ཟིན་པའི་སློབ་ཚན་རྣམས་ལ་བསྐྱར་ལྟའི་ཆོག་མཆན་བསྐྱར་གསོ་ཡོང་སླད། Play Store ནང་ནང་འཛུལ་བྱོས།</string>
 
     <!-- Message for successful course purchase -->
-    <string name="purchase_success_message">Thank you for your purchase. Enjoy full access to your course!</string>
+    <string name="purchase_success_message">ཁྱེད་ཀྱིས་སློབ་ཚན་ཉོས་པ་ལ་བཀའ་དྲིན་ཆེ། ཁྱེད་ལ་སློབ་ཚན་བཀོལ་སྤྱོད་ཀྱི་ཆོག་མཆན་ཆ་ཚང་ཐོབ་ཟིན་པས་ལོངས་སུ་སྤྱོད་རོགས།</string>
 
     <!-- Title of Course Upgrade Error Alert -->
-    <string name="title_upgrade_error">An error occurred</string>
+    <string name="title_upgrade_error">གནད་དོན་ཞིག་བྱུང་སོང་།</string>
     <!-- Message for course upgrade error -->
-    <string name="general_error_message">It looks like something went wrong when upgrading your course. If this error continues, please contact Support.</string>
+    <string name="general_error_message">ཁྱེད་ཀྱི་སློབ་ཚན་རིམ་སྤར་བྱེད་སྐབས་ཕལ་ཆེར་གནད་དོན་ཞིག་བྱུང་སོང་བ་འདྲ། གལ་སྲིད་དེ་མུ་མཐུད་ནས་བྱུང་ན་རམ་འདེགས་ཚན་པར་འབྲེལ་བ་བྱེད་རོགས།</string>
     <!-- Email Subject for Course Upgrade Error -->
-    <string name="email_subject_upgrade_error">Error upgrading course in app</string>
+    <string name="email_subject_upgrade_error">མཉེན་ཆས་ནང་སློབ་ཚན་རིམ་སྤར་གྱི་གནད་དོན།</string>
     <!-- Get Help button label -->
-    <string name="label_get_help">Get Help</string>
+    <string name="label_get_help">རམ་འདེགས།</string>
     <!-- Refresh To Retry button label -->
-    <string name="label_refresh_to_retry">Refresh to retry</string>
+    <string name="label_refresh_to_retry">སླར་གསོ་བྱེད་པར་བསྐྱར་སྐོར་ཞིག་བྱོས།</string>
 
     <!--  Error Messages  -->
     <!--  Course didn't found against the course sku in the course upgrade API -->
-    <string name="error_course_not_found">The course you are looking to upgrade could not be found. Please try your upgrade again. If this error continues, contact Support.</string>
+    <string name="error_course_not_found">ཁྱེད་ཀྱིས་ལྟ་བཞིན་པའི་སློབ་ཚན་དེའི་རིམ་སྤར་རྙེད་ཀྱི་མི་འདུག་པས། ཁྱེད་ཀྱི་རིམ་སྤར་བསྐྱར་དུ་ཚོད་ལྟ་ཞིག་བྱོས་དང་། གནད་དོན་དེ་ད་དུང་མུ་མཐུད་ནས་བྱོང་སོང་ན། རམ་འདེགས་ཚན་པར་འབྲེལ་བ་བྱོས།</string>
     <!-- Authentication error in course upgrade API's basket, checkout, execute  -->
-    <string name="error_user_not_authenticated">Your account could not be authenticated. Try signing out and signing back into the app. If this error continues, please contact Support.</string>
+    <string name="error_user_not_authenticated">ཁྱེད་ཀྱི་ཁ་བྱང་གིས་ཁུངས་སྐྱེལ་ཏག་ཏག་ཅིག་བྱེད་ཐུབ་མ་སོང་བས། མཉེན་ཆས་ནས་ཕྱིར་ཐོན་བྱས་ཏེ་བསྐྱར་དུ་ནང་འཛུལ་ཞིག་བྱོས་དང་། གནད་དོན་དེ་ད་དུང་མུ་མཐུད་ནས་བྱོང་སོང་ན། རམ་འདེགས་ཚན་པར་འབྲེལ་བ་བྱོས།</string>
     <!--  The course is already upgraded  -->
     <string name="error_course_already_paid">The course you are looking to upgrade has already been paid for. To update, we need to quickly refresh your app.</string>
     <!--  Course sku or the payment processor didn't found  -->
-    <string name="error_payment_not_processed">Your payment could not be processed at this time. Please try again. For additional help, reach out to Support.</string>
+    <string name="error_payment_not_processed">སྐབས་འདིར་ཁྱེད་ཀྱི་སློབ་རིན་སྤྲོད་ལེན་གྱི་བརྒྱུད་རིམ་སྒྲུབ་ཐུབ་ཀྱི་མི་འདུག་པས་བསྐྱར་དུ་ཚོད་ལྟ་ཞིག་བྱ་རོགས། ཁྱེད་ལ་རམ་འདེགས་འཕར་མ་དགོས་སོང་ན་རམ་འདེགས་ཚན་པར་འབྲེལ་བ་བྱ་རོགས།</string>
     <!--  The native payment is complete but an error occurred while marking the course verified  -->
-    <string name="error_course_not_fullfilled">Something happened when we tried to update your course experience. If this error continues, reach out to Support for help.</string>
+    <string name="error_course_not_fullfilled">ང་ཚོས་ཁྱེད་ཀྱི་སློབ་ཚན་གྱི་ཉམས་མྱོང་རྣམས་ནང་འཇུག་བྱེད་སྐབས་གནད་དོན་ཞིག་བྱུང་སོང་། གལ་སྲིད་གནད་དོན་དེ་མུ་མཐུད་ནས་བྱུང་ཚེ་རམ་འདེགས་ཚན་པར་འབྲེལ་བ་བྱ་རྒྱུ་མ་བརྗེད།</string>
     <!--  The price wasn't fetched from the payment sdk  -->
-    <string name="error_price_not_fetched">Your request could not be completed at this time. If this error continues, please reach out to Support.</string>
+    <string name="error_price_not_fetched">སྐབས་འདིར་ཁྱེད་ཀྱི་རེ་འདུན་དེ་ཆ་ཚང་བ་ཞིག་བསྒྲུབ་ཐུབ་མ་སོང་བས།གལ་སྲིད་གནད་དོན་དེ་མུ་མཐུད་ནས་བྱུང་ཚེ་རམ་འདེགས་ཚན་པར་འབྲེལ་བ་བྱ་རྒྱུ་མ་བརྗེད།</string>
     <!--  The course is upgraded and verified  -->
-    <string name="error_course_paid_and_verified">The course you are looking to upgrade has already been paid for. For additional help, reach out to Support.</string>
+    <string name="error_course_paid_and_verified">ཁྱེད་ཀྱིས་རིམ་སྤར་བྱ་རྩིས་བྱེད་བཞིན་པའི་སློབ་ཚན་དེའི་རིན་འབབ་སྤྲད་ཟིན་འདུག དེའི་ཐད་རམ་འདེགས་འཕར་མ་དགོས་ཚེ་རམ་འདེགས་ཚན་པར་འབྲེལ་བ་བྱ་རྒྱུ་མ་བརྗེད།</string>
 
 
     <!-- Full Screen Loader -->
-    <string name="fullscreen_loader_unlocking">Unlocking</string>
-    <string name="fullscreen_loader_full_access">full access</string>
-    <string name="fullscreen_loader_to_your_course">to your course</string>
+    <string name="fullscreen_loader_unlocking">སྒོ་ཟྭ་འབྱེད་བཞིན་པ།</string>
+    <string name="fullscreen_loader_full_access">ཆོག་མཆན་ཡོངས་རྫོགས།</string>
+    <string name="fullscreen_loader_to_your_course">ཁྱེད་ཀྱི་སློབ་ཚན་ལ་</string>
 
     <!-- Label Course Modal Unlock Graded Assignments -->
-    <string name="course_modal_unlock_graded_assignment">Unlock graded assignments</string>
+    <string name="course_modal_unlock_graded_assignment">གནས་རིམ་ཅན་གྱི་ལས་འགན་རྣམས་ཀྱི་སྒོ་ཟྭ་ཕྱེས།</string>
 
     <!-- Silent Course Upgrade Success Alert -->
     <!-- Silent Course Upgrade Success Alert Title -->
-    <string name="silent_course_upgrade_success_title">New experience available</string>
+    <string name="silent_course_upgrade_success_title">ཉམས་མྱོང་གསར་པ་འདུག</string>
     <!-- Silent Course Upgrade Success Alert Message -->
-    <string name="silent_course_upgrade_success_message">An update is available to unlock a purchased course. To update, we need to quickly refresh your app. If you choose not to update now, we’ll try again later.</string>
+    <string name="silent_course_upgrade_success_message">ཉོས་ཟིན་པའི་སློབ་ཚན་གྱི་སྒོ་ཟྭ་འབྱེད་པ་ལ་བསྐྱར་གསོ་ཞིག་བྱ་དགོས་འདུག བསྐྱར་གསོ་བྱེད་པ་ལ་མྱུར་ཏུ་མཉེན་ཆས་བསྐྱར་སྐོར་ཞིག་བྱ་དགོས། ད་ལྟ་རང་དེ་ལྟར་བྱ་འདོད་མེད་ཚེ་ང་ཚོས་རྗེས་སུ་བྱས་ཀྱང་ཆོག</string>
     <!-- Label Refresh Now -->
-    <string name="label_refresh_now">Refresh now</string>
+    <string name="label_refresh_now">བསྐྱར་སྐོར་ཞིག་བྱོས།</string>
     <!-- Label Continue Without Update -->
-    <string name="label_continue_without_update">Continue without update</string>
+    <string name="label_continue_without_update">བསྐྱར་གསོ་མ་བྱས་པར་མུ་མཐུད་ནས་བཀོལ་སྤྱོད།</string>
     <!-- Title of the dialog to while verifying the incomplete purchases -->
     <string name="title_checking_purchases">Checking purchases\.\.\.</string>
     <!-- Title of the Purchases successfully restored dialog -->
-    <string name="title_purchases_restored">Purchases have been successfully restored</string>
+    <string name="title_purchases_restored">ཉོས་ཟིན་པ་རྣམས་བདེ་ལེགས་ངང་བསྐྱར་གསོ་བྱས་ཟིན།</string>
     <!-- Message for the Purchases successfully restored dialog -->
-    <string name="message_purchases_restored">All purchases are up to date. If you’re not seeing your purchases restored, please try restarting your app to refresh the experience.</string>
+    <string name="message_purchases_restored">ཉོས་ཟིན་པ་ཡོངས་རྫོགས་སླར་གསོ་བྱས་ཟིན། ཁྱེད་ཀྱིས་རང་གིས་ཉོས་ཟིན་པ་སླར་གསོ་བྱས་པ་རྣམས་མཐོང་མ་ཐུབ་ཚེ། ཁྱེད་ཀྱི་མཉེན་ཆས་སྒོ་བརྒྱབ་སྟེ་བསྐྱར་འབྱེད་ཅིག་བྱོས་དང་ཕན་སྲིད།</string>
 </resources>

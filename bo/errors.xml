@@ -48,55 +48,55 @@
     <!-- Content of alert shown during login when user attempts login via Google without having linked their account -->
     <string name="error_account_not_linked_desc_google_2">དགོས་དགུའི་ཁ་བྱང་འདི་ {platform_name} འདིའི་ནང་ད་སྔ་སྦྲེལ་མཐུད་གང་ཡང་བྱས་མི་འདུག་པས། ཐོ་འགོད་བྱ་རོགས།</string>
     <!-- Title of alert shown during login when user attempts login via Google without having linked their account -->
-    <string name="error_account_not_linked_title_microsoft">Microsoft account not associated with {platform_name} account</string>
+    <string name="error_account_not_linked_title_microsoft">Microsoft ཁ་བྱང་ {platform_name} འདི་དང་མཉམ་སྦྲེལ་བྱས་མི་འདུག</string>
     <!-- Content of alert shown during login when user attempts login via Google without having linked their account -->
-    <string name="error_account_not_linked_desc_microsoft">Make sure your Microsoft account is associated with your {platform_name} account on {platform_destination}</string>
+    <string name="error_account_not_linked_desc_microsoft">ཁྱེད་ཀྱིས་རང་གི་Microsoftཡི་ཁ་བྱང་ {platform_name} འདི་དང་མཉམ་སྦྲེལ་གྱིས་ {platform_destination}འདིར་བཀོད་ཡོད་མེད་གཏན་འཁེལ་བྱོས།</string>
     <!-- Content of alert shown during login when user attempts login via Microsoft without having linked their account -->
-    <string name="error_account_not_linked_desc_microsoft_2">This Microsoft account is not linked with any {platform_name} account. Please register.</string>
+    <string name="error_account_not_linked_desc_microsoft_2">Microsoft ཁ་བྱང་འདི་ {platform_name} འདིའི་ནང་ད་སྔ་སྦྲེལ་མཐུད་གང་ཡང་བྱས་མི་འདུག་པས། ཐོ་འགོད་བྱ་རོགས།</string>
 
     <!-- New version available -->
     <!-- Snackbar notification shown when the current version of the app is unsupported -->
-    <string name="app_version_unsupported">Your version of the app is no longer supported.</string>
+    <string name="app_version_unsupported">ཁྱེད་ཀྱིས་སྤྱོད་བཞིན་པའི་མཉེན་ཆས་དེའི་ཐོན་རིམ་ད་ལྟ་བེད་སྤྱོད་མི་འདུག</string>
     <!-- Snackbar notification shown when the current version of the app is deprecated -->
-    <string name="app_version_deprecated" translatable="false">@string/app_version_outdated</string>
+    <string name="app_version_deprecated" translatable="false">@string/appཡི་_ཐོན་རིམ་_གྱི་དུས་ཚོད་ཡོལ་འདུག</string>
     <!-- Snackbar notification shown when the current version of the app is outdated -->
-    <string name="app_version_outdated">A new version of the app is available.</string>
+    <string name="app_version_outdated">མཉེན་ཆས་དེའི་ཐོན་རིམ་གསར་པ་སླེབས་འདུག</string>
     <!-- Toast notification for when the user presses the update action button from the Snackbar
          notifications while no supported app store or browser is installed on the device with which
          the app could be updated -->
-    <string name="app_version_upgrade_app_store_unavailable">No supported app store found on device.</string>
+    <string name="app_version_upgrade_app_store_unavailable">མཉེན་ཆས་ཀྱི་མཛོད་ཁང་བརྒྱུད་ནས་ཕབ་ལེན་བྱ་རྒྱུ་མི་འདུག</string>
 
     <!-- Registration Error Messages -->
 
     <!-- Error prompt shown during registration to indicate an empty field. Argument is a field name -->
-    <string name="error_enter_field">Please enter your %1$s.</string>
+    <string name="error_enter_field">ཁྱེད་ཀྱི་ %1$s ནང་འཇུག་བྱོས།</string>
     <!-- Error prompt shown during registration to indicate a field invalid input. Argument is a field name -->
-    <string name="error_select_or_enter_field">Please select or enter a valid %1$s.</string>
+    <string name="error_select_or_enter_field">ཚུལ་མཐུན་གྱི་རིན་ཐང་ %1$s ཞིག་འདེམ་པ་དང་ནང་འཇུག་གང་རུང་བྱོས།</string>
     <!-- Error prompt shown during registration when a field entry is too short. Arguments are 1) a field name, 2) a number -->
-    <string name="error_min_length">%1$s must have at least %2$d characters.</string>
+    <string name="error_min_length">%1$s འདི་ཆེས་ཉུང་མཐའ་ཡང་ཡིག་འབྲུ་ %2$d ཡོད་དགོས།</string>
     <!-- Error prompt shown during registration when a field entry is too long. Arguments are 1) a field name, 2) a number -->
-    <string name="error_max_length">%1$s cannot have more than %2$d characters.</string>
+    <string name="error_max_length">%1$s མང་མཐའ་ཡང་ཡིག་འབྲུ་ %2$d ལས་མང་མི་ཆོག</string>
 
     <!-- Error message shown when a course hasn't started yet -->
-    <string name="course_not_started">This course hasn’t started yet.</string>
+    <string name="course_not_started">སློབ་ཚན་འདི་ད་དུང་འགོ་འཛུགས་བྱས་མི་འདུག</string>
 
     <!-- Error message shown when a user's access has expired for a course -->
-    <string name="course_access_expired">Your access to this course has expired.</string>
+    <string name="course_access_expired">སློབ་ཚན་འདི་ལེན་པའི་ཁྱེད་རང་གི་ཆོག་མཆན་དུས་ཚོད་ཡོལ་འདུག</string>
 
     <!-- Error message shown when a user can't perform an action on e.g. add a post/response/comment in forums -->
-    <string name="action_not_completed">Your action could not be completed.</string>
+    <string name="action_not_completed">ཁྱེད་ཀྱི་བྱེད་རིམ་ཆ་ཚང་སྒྲུབ་མི་ཐུབ།</string>
 
     <!-- Error dialog message shown when the user try to log in in app with un-supported version  -->
-    <string name="app_version_unsupported_login_msg">Your version of the app is no longer supported. Update to the latest version to log in.</string>
+    <string name="app_version_unsupported_login_msg">ཁྱེད་ཀྱིས་སྤྱོད་བཞིན་པའི་མཉེན་ཆས་དེའི་ཐོན་རིམ་ད་ལྟ་བེད་སྤྱོད་མི་འདུག ཐོན་རིམ་གསར་ཤོས་ལ་རིམ་སྤར་བྱེད་པར་ནང་འཛུལ་བྱོས།</string>
 
     <!-- Error dialog message shown when the user try to register in app with un-supported version -->
-    <string name="app_version_unsupported_register_msg">Your version of the app is no longer supported. Update to the latest version to register.</string>
+    <string name="app_version_unsupported_register_msg">ཁྱེད་ཀྱིས་སྤྱོད་བཞིན་པའི་མཉེན་ཆས་དེའི་ཐོན་རིམ་ད་ལྟ་བེད་སྤྱོད་མི་འདུག ཐོན་རིམ་གསར་ཤོས་ལ་རིམ་སྤར་བྱེད་པར་ནང་འཛུལ་བྱོས།</string>
 
     <!-- Permission Error Messages -->
 
     <!-- Error message shown when a permission is not granted -->
-    <string name="permission_not_granted">Permission not granted</string>
+    <string name="permission_not_granted">ཆོག་མཆན་སྤྲད་མི་འདུག</string>
 
     <!-- This error message will be shown if user tried to login with third party (facebook/google) and server returns 403 status code, Disabled user-->
-    <string name="auth_provider_disabled_user_error">Your account is disabled. Please contact customer support for assistance.</string>
+    <string name="auth_provider_disabled_user_error">ཁྱེད་ཀྱི་སློབ་ཚན་བཀག་འདུག་པས་འབྲེལ་ཡོད་རམ་འདེགས་ཚན་པར་འབྲེལ་བ་གནང་རོགས།</string>
 </resources>

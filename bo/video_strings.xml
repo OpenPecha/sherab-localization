@@ -1,69 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Button text to show user Video Settings screen -->
-    <string name="label_video_settings">Video settings</string>
+    <string name="label_video_settings">བརྙན་གྱི་སྒྲིག་འགོད་ཁག</string>
     <!-- Title of Video Quality Dialog -->
-    <string name="video_download_quality_title">Video download quality</string>
+    <string name="video_download_quality_title">བརྙན་ཕབ་ལེན་གྱི་སྤུས་ཚད།</string>
     <!-- Auto Video Quality option -->
-    <string name="auto_recommended_text">Auto (Recommended)</string>
+    <string name="auto_recommended_text">རང་འགུལ། (Recommended)</string>
     <!-- 360p Video Quality option -->
-    <string name="video_quality_p360">360p (Smallest file size)</string>
+    <string name="video_quality_p360">360p (ཆེ་ཆུང་ཆུང་ཤོས།)</string>
     <!-- 540p Video Quality option -->
     <string name="video_quality_p540">540p</string>
     <!-- 720p Video Quality option -->
-    <string name="video_quality_p720">720p (Best quality)</string>
+    <string name="video_quality_p720">720p (སྤུས་ཚད་ལེགས་ཤོས།)</string>
     <!-- Message shows in Video Quality dialog -->
-    <string name="video_download_quality_message">This setting is for all video downloads in the {platform_name} app.</string>
+    <string name="video_download_quality_message">སྒྲིག་འགོད་འདི་ནི་མཉེན་ཆས་འདིའི་{platform_name} ནང་གི་བརྙན་ཕབ་ལེན་ཡོངས་ལ་ཁྱབ་པ་ཞིག་ཡིན།</string>
 
     <!-- Label for the Download to sd-card setting -->
-    <string name="settings_download_to_sdcard_title">Download Videos to SD Card</string>
+    <string name="settings_download_to_sdcard_title">བརྙན་སྲ་སྡེར་SD ནང་ཕབ་ལེན་བྱེད།</string>
     <!-- Label explaining the download location setting in detail -->
-    <string name="settings_download_to_sdcard_subtitle">Videos will be downloaded to the SD Card if available</string>
+    <string name="settings_download_to_sdcard_subtitle">སྲ་སྡེར་SD མཐུད་ཡོད་ན་བརྙན་རྣམས་ཐད་ཀར་དེའི་ནང་ཕབ་ལེན་བྱེད་ཡོང་བ་ཡིན།</string>
     <!-- Label indicating that the only course content visible in the app is videos -->
-    <string name="lbl_showing_only_videos">Showing only videos</string>
+    <string name="lbl_showing_only_videos">བརྙན་རིགས་ཁོ་ན་སྟོན།</string>
     <!-- Title of prompt indicating issue loading a video -->
-    <string name="network_error_header">Problem loading video</string>
+    <string name="network_error_header">བརྙན་ནང་འདྲེན་བྱེད་པར་དཀའ་ངལ་ཞིག་འདུག</string>
     <!-- Content of prompt indicating issue loading a video -->
-    <string name="network_error_message">Please check your Internet Connection.</string>
+    <string name="network_error_message">ཁྱེད་ཀྱི་དྲ་རྒྱ་མཐུད་ཡོད་མེད་བསྐྱར་ཞིབ་ཅིག་བྱ་རོགས།</string>
 
     <!-- Download error messages -->
     <!-- Label shown on video list item whose download failed -->
-    <string name="error_download_failed">Download failed</string>
+    <string name="error_download_failed">ཕབ་ལེན་བྱེད་ཐུབ་མ་སོང་།</string>
     <!-- Confirmation message shown when attempting to download a large quantity of video data -->
-    <string name="file_size_exceeded">The size of the download exceeds the remaining device storage space.</string>
+    <string name="file_size_exceeded">ཕབ་ལེན་བྱ་རྒྱུའི་ཆེ་ཆུང་གིས་ཐད་ཀར་འཕྲུལ་ཆས་ཀྱི་ཤོངས་ཚད་དང་མགྱོགས་ཚད་ལ་ཤུགས་རྐྱེན་གཏོང་བ་ཡིན།</string>
     <!-- Confirmation message shown when attempting to download a large quantity of video data -->
-    <string name="download_exceed_message">The videos you’ve selected are larger than 1 GB.
-        Do you want to download these videos?</string>
+    <string name="download_exceed_message">ཁྱེད་ཀྱིས་བདམས་ཡོད་པའི་བརྙན་རྣམས་ཀྱི་ཆེ་ཆུང་GB 1 ལས་བརྒལ་འདུག ཁྱེད་ཀྱིས་ཕབ་ལེན་བྱེད་གཏན་འཁེལ་ཡིན་ནམ།</string>
 
     <!-- Message shown when user attempts to download a video over cellular data,
     but has chosen to only allow video downloads over wifi -->
-    <string name="wifi_off_message">Your current download settings only allow downloads over Wi-Fi.
-        \n Please connect to a Wi-Fi network or change your download settings.</string>
+    <string name="wifi_off_message">ཁྱེད་ཀྱི་མིག་སྔའི་ཕབ་ལེན་གྱི་སྒྲིག་འགོད་ནི་སྐུད་མེད་དྲ་རྒྱར་མཐུད་དུས་ཁོ་ན་ཕབ་ལེན་བྱ་རྒྱུ་དེ་རེད། \n དེའི་ཕྱིར་སྐུད་མེད་དྲ་རྒྱར་མཐུད་པ་དང་ཡང་ན་ཕབ་ལེན་གྱི་སྒྲིག་འགོད་བརྗེ་བསྒྱུར་བྱེད་པ་གང་རུང་ཞིག་བྱོས།</string>
 
     <!-- Google Cast -->
     <!-- Description of a button that will cast/un-cast the app to a remote device -->
-    <string name="media_route_menu_title">Play on&#8230;</string>
+    <string name="media_route_menu_title">ཐོངས།&#8230;</string>
     <!-- Google cast Introduction title -->
-    <string name="introducing_cast_text">Introducing Cast</string>
+    <string name="introducing_cast_text">སྟོན་སྟངས་ངོ་སྤྲོད།</string>
     <!-- Text to describe that video is casting on the remote device -->
-    <string name="remote_device_casting_message">Video is casting to remote device</string>
+    <string name="remote_device_casting_message">བརྙན་འཕྲུལ་ཆས་གཉིས་པའི་ནང་སྟོན།</string>
 
     <!-- Label explaining toggle for cellular data access -->
-    <string name="wifi_dialog_message_help">Allow your device to download videos over your cellular connection when Wi-Fi is not available. Data charges may apply.</string>
+    <string name="wifi_dialog_message_help">ཁྱེད་ཀྱི་འཕྲུལ་ཆས་ནང་སྐུད་མེད་དྲ་རྒྱ་མེད་པའི་སྐབས་སུ་རང་གི་ཁ་པར་གྱི་དྲ་རྒྱ་ལ་མཐུད་ནས་བརྙན་ཕབ་ལེན་བྱེད་ཆོག་པ་སྒྲིག རིན་འབབ་སྣོན་མ་སྤྲོད་དགོས་སྲིད།</string>
     <!-- Info message text for to let use know how many videos were deleted -->
     <plurals name="delete_video_snackbar_msg">
-        <item quantity="one">%s video deleted</item>
-        <item quantity="other">%s videos deleted</item>
+        <item quantity="one">%s བརྙན་བསུབ་ཟིན་པ།</item>
+        <item quantity="other">%s བརྙན་བསུབ་ཟིན་པ།</item>
     </plurals>
 
     <!-- Subtitle labels for video durations in hours-->
     <plurals name="video_duration_hour">
-        <item quantity="one">%d hour</item>
-        <item quantity="other">%d hours</item>
+        <item quantity="one">%d ཆུ་ཚོད།</item>
+        <item quantity="other">%d ཆུ་ཚོད།</item>
     </plurals>
     <!-- Subtitle labels for video durations in minutes-->
     <plurals name="video_duration_minutes">
-        <item quantity="one">%d min</item>
-        <item quantity="other">%d mins</item>
+        <item quantity="one">%d སྐར་མ།</item>
+        <item quantity="other">%d སྐར་མ།</item>
     </plurals>
 </resources>

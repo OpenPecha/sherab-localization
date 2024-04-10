@@ -5,10 +5,9 @@
 
 <resources>
     <!-- Dialog Alert title for Open in browser -->
-    <string name="label_leaving_the_app">Leaving the app</string>
+    <string name="label_leaving_the_app">མཉེན་ཆས་ནས་ཐོན་བཞིན་འདུག</string>
     <!-- Dialog Alert Message for Open in browser -->
-    <string name="leaving_the_app_message">You are now leaving the {platform_name} app and opening a browser.</string>
+    <string name="leaving_the_app_message">ད་ལྟ་ཁྱེད་རང་མཉེན་ཆས་{platform_name}ནས་ཐོན་བཞིན་པ་དང་། དྲ་ཚིགས་ནང་སྒོ་འབྱེད་བཞིན་པ་རེད།</string>
     <!-- Message for already registered social user attempting to register again -->
-    <string name="social_registration_became_login_message">You already set up an {platform_name} account with your
-        {social_provider} account. You have been logged in with that account.</string>
+    <string name="social_registration_became_login_message">ཁྱེད་ཀྱིས་སྔ་མོ་ནས་ {platform_name} འདིའི་ནང་ཁ་བྱང་ཞིག་བསྒྲིགས་ཟིན་འདུག ཁ་བྱང་དེ་ནི་{social_provider} འདིའི་ནང་གི་དེ་བེད་སྤྱོད་བྱས་འདུག ཁྱེད་ཀྱིས་རྒྱུན་ཏུ་ཁ་བྱང་དེ་སྤྱད་ནས་ནང་འཛུལ་བྱེད་ཀྱི་འདུག</string>
 </resources>

@@ -165,7 +165,7 @@
     <!-- NOTE: TODO - not final one -->
     <string name="announcement_subtitle">གསར་བརྡ་གསར་ཤོས་རྣམས་ལ་འབྲེལ་རོགས།</string>
     <!-- Subtitle text describing the important dates section on the course dashboard -->
-    <string name="course_dates_subtitle">Keep track of deadlines and stay on track</string>
+    <string name="course_dates_subtitle">དུས་བཀག་གི་ཟླ་ཚེས་སྟོན་ཆས་དེ་རྒྱུན་ཉར་དང་དུས་ལྟར་གནས་རྒྱུ་རྒྱུན་འཁྱོངས་བྱོས།</string>
     <!-- Accessible content description of course name label field -->
     <string name="course_name">སློབ་ཚན་མིང་།</string>
     <!-- Label indicating new course content has been downloaded -->
@@ -218,13 +218,13 @@
     <string name="label_resume">མུ་མཐུད།</string>
 
     <!-- Mobile Payments -->
-    <string name="payments_info_header">Pursue a Verified Certificate!</string>
-    <string name="payments_info_details">Highlight your new knowledge and skills with a verified certificate.\n\nUse this valuable credential to improve your job prospects and advance your career, or highlight your certificate in school applications.</string>
-    <string name="audit_access_expires_on">Audit Access Expires {date}</string>
-    <string name="audit_access_expires_details">You lose all course access, including your progress, on {date}.</string>
-    <string name="upgrade_deadline_details">Upgrade by {date} to get unlimited access to the course as long as it exists on the site.</string>
-    <string name="locked_content_header">Available to verified learners!</string>
-    <string name="locked_content_details">Graded assessments are available to Verified Track Learners. Upgrade below to unlock.</string>
+    <string name="payments_info_header">ཁུངས་སྐྱེལ་ཡོད་པའི་ལག་ཁྱེར་ཞིག་ཐོབ་པར་འབད་བརྩོན་བྱོས།</string>
+    <string name="payments_info_details">རང་ཉིད་ཀྱིས་གསར་དུ་སྦྱངས་པའི་ཡོན་ཏན་དང་ལག་རྩལ་གཉིས་མཚོན་བྱེད་ཀྱི་ཁུངས་སྐྱེལ་ཡོད་པའི་ལག་ཁྱེར་དེ་ཁྱད་དུ་འཕགས་པ་ཞིག་བྱོས།\n\nརང་ཉིད་ཀྱི་ལས་རིགས་དང་འཚོ་བའི་སྤུས་ཚད་ཇེ་ལེགས་སུ་གཏོང་བར་རིན་ཐང་ལྡན་པའི་མཚན་གནས་འདི་བཀོལ་སྤྱད་ཆོག་པ་ཅིང་། ཕྱོགས་གཞན་ཞིག་ནས་ཁྱེད་ཀྱི་ལག་ཁྱེར་དེ་རང་ཉིད་ཀྱི་སློབ་གྲྭའི་སྙན་ཞུའི་ནང་བཅུགས་ན་ཡང་ཁྱད་དུ་འཕགས་པའི་རིན་ཐང་ལྡན་པ་ཡིན།</string>
+    <string name="audit_access_expires_on">Audit ཡི་ཆོག་མཆན་རྫོགས་དུས་ {date}</string>
+    <string name="audit_access_expires_details">ཟླ་ཚེས་ {date}འདིའི་ཉིན་ནས་ཁྱེད་ཀྱི་སློབ་ཚན་བལྟ་ཀློག་གི་ཆོག་མཆན་ཡོད་དོ་ཅོག་དང་དེ་དག་གི་འཕེལ་རྒྱས་ཀྱི་ཚད་གཞི་དང་བཅས་བརླག་འགྲོ།</string>
+    <string name="upgrade_deadline_details">སློབ་ཚན་དེ་དག་ས་ཆ་དེ་ག་རང་ནས་ཚད་བཀག་མེད་པར་བལྟ་ཀློག་གི་ཆོག་མཆན་ཐོབ་འདོད་ན་ {date} འདིའི་ཉིན་རིམ་སྤར་བྱོས།</string>
+    <string name="locked_content_header">ཁུངས་སྐྱེལ་ཡོད་པའི་སློབ་གཉེར་བ་མ་གཏོགས་མེད།</string>
+    <string name="locked_content_details">གནས་རིམ་ཅན་གྱི་བྱེད་སྒོ་རྣམས་ནི་ཁུངས་སྐྱེལ་ཡོད་པའི་སློབ་གཉེར་བ་མ་གཏོགས་བཀོལ་ཐུབ། དེ་དག་བཀོལ་སྤྱོད་བྱེད་འདོད་ན་གཤམ་ནས་རིམ་སྤར་བྱོས།</string>
 
     <!-- Discussion Topics -->
     <!-- Label for the discussion topics page -->
@@ -490,7 +490,7 @@
     <string name="video_player_forward_time_sec">+15</string>
 
     <!-- Button label to bring up course finder -->
-    <string name="find_course_text">Looking for a new challenge?</string>
+    <string name="find_course_text">འབད་བརྩོན་གསར་པ་ཞིག་བྱེད་འདོད་འདུག་གམ།</string>
     <!-- Button label to bring up course finder -->
     <string name="find_course_btn_text">སློབ་ཚན་ཞིག་ཚོལ།</string>
     <!-- Message between sign in button and social login buttons -->
@@ -504,7 +504,7 @@
     <!-- Prompt allowing user to choose email program -->
     <string name="email_chooser_header">འདི་བརྒྱུད་ནས་གློག་འཕྲིན་གཏོང་་་</string>
     <!-- Error shown when user attempts to send email, but has no email app -->
-    <string name="email_client_not_present">No e-mail clients installed</string>
+    <string name="email_client_not_present">གློག་འཕྲིན་གཏང་སའི་མཉེན་ཆས་ཕབ་ལེན་བྱས་མི་འདུག</string>
 
     <!-- Landing Activity text -->
     <!-- Prompt leading user to sign in screen -->
@@ -586,48 +586,48 @@
 
 
     <!-- Discussion/Forum -->
-    <string name="forum_no_results_for_search_query">No results found for “{search_query}”. Try another search term or select a discussion category to browse.</string>
-    <string name="forum_no_results_for_all_posts">There are no posts in this course discussion.</string>
-    <string name="forum_no_results_for_following">You are not following any posts.</string>
-    <string name="forum_no_results_for_filtered_following">Filter results do not include any followed posts.</string>
-    <string name="forum_no_results_in_category">There are no posts in this discussion category.</string>
-    <string name="forum_no_results_with_filter">Try removing your post filter.</string>
-    <string name="forum_post_i_am_following">Posts I’m Following</string>
-    <string name="forum_follow">Follow</string>
-    <string name="forum_unfollow">Unfollow</string>
+    <string name="forum_no_results_for_search_query">བཙལ་བྱ་འདིའི་“{search_query}” བཙལ་འབྲས་གང་ཡང་རྙེད་མ་སོང་། གཞན་ཞིག་འཚོལ་བ་དང་། ཡང་ན་འཆར་སྟོན་བྱེད་པ་ལ་བྱེ་བྲག་གིས་གླེང་མོལ་གྱི་རིགས་ཤིག་བདམས་ཏེ་ཚོད་ལྟ་ཞིག་བྱོས་དང་།</string>
+    <string name="forum_no_results_for_all_posts">སློབ་ཚན་འདིའི་བགྲོ་གླེང་ཚན་པའི་ནང་རྩོམ་ཡིག་མི་འདུག</string>
+    <string name="forum_no_results_for_following">ཁྱེད་ཀྱིས་རྩོམ་ཡིག་གང་ལ་ཡང་རྗེས་འཇུག་བྱས་མི་འདུག</string>
+    <string name="forum_no_results_for_filtered_following">ཚགས་སྒྲིག་བྱས་པའི་བཙལ་འབྲས་ནང་རང་ཉིད་རྗེས་འཇུག་བྱས་ཡོད་པའི་རྩོམ་ཡིག་གཅིག་ཀྱང་མི་ཡོང་།</string>
+    <string name="forum_no_results_in_category">བགྲོ་གླེང་ཚན་པ་འདིའི་ནང་རྩོམ་ཡིག་སྤེལ་མི་འདུག</string>
+    <string name="forum_no_results_with_filter">ཁྱེད་ཀྱི་རྩོམ་ཡིག་ཚགས་སྒྲིག་དེ་མེད་པར་བཟོས་ཏེ་ཚོད་ལྟ་ཞིག་བྱོས་དང་།</string>
+    <string name="forum_post_i_am_following">ངས་རྗེས་འཇུག་བྱེད་བཞིན་པའི་རྩོམ་ཡིག་རྣམས།</string>
+    <string name="forum_follow">རྗེས་འཇུག</string>
+    <string name="forum_unfollow">རྗེས་འཇུག་མི་བྱེད།</string>
 
     <!-- Button that will initiate sharing one of a user's accomplishments -->
-    <string name="share_accomplishment_button">Share your accomplishment</string>
+    <string name="share_accomplishment_button">ཁྱེད་ཀྱི་སྦྱོང་འབྲས་རྣམས་ཐུན་མོང་ལ་མཉམ་སྤྱོད་བྱོས།</string>
     <!-- Text that pre-populates your post/email/SMS when sharing certificate -->
-    <string name="share_accomplishment_message">I just earned a badge on {platform_name}! Check it out: {badge_url}</string>
+    <string name="share_accomplishment_message">ང་ལ་ {platform_name} འདི་ནས་གཟེངས་བསྟོད་ཀྱི་དཔུང་རྟགས་ཤིག་ཐོབ་སོང་། {badge_url} འདི་ནས་གཟིགས་རོགས།</string>
     <!-- Question on the app rating dialog -->
-    <string name="rating_dialog_message">How would you rate the app?</string>
+    <string name="rating_dialog_message">ཁྱེད་ཀྱིས་མཉེན་ཆས་འདི་ལ་རིན་ཐང་གི་ཚད་ག་ཚོད་ཅིག་སྤྲོད་ཐུབ་བམ།</string>
     <!-- Dialog title for positive app review -->
-    <string name="rate_app_dialog_title">Rate the app</string>
+    <string name="rate_app_dialog_title">མཉེན་ཆས་འདི་ལ་རིན་ཐང་གི་ཚད་ཅིག་སྤྲོད།</string>
     <!-- Dialog message for positive app review -->
-    <string name="rate_app_dialog_message">Tell others what you think of the {platform_name} app by writing a quick review</string>
+    <string name="rate_app_dialog_message">མི་གཞན་ལ་སྟོན་ཕྱིར་ཁྱེད་ཀྱིས་མཉེན་ཆས་ {platform_name} འདི་ལ་ལྟ་ཚུལ་ག་འདྲ་ཡོད་མེད་ཀྱི་བསམ་ཚུལ་སྟབས་བདེ་ཞིག་འབྲི་རོགས།</string>
     <!-- Dialog title for negative app review -->
-    <string name="feedback_dialog_title">Send Feedback?</string>
+    <string name="feedback_dialog_title">བསམ་འཆར་རེ་གསུང་རྒྱུ་ཡོད་དམ།</string>
     <!-- Dialog message for negative app review -->
-    <string name="feedback_dialog_message">Help us improve!</string>
+    <string name="feedback_dialog_message">ཇེ་ལེགས་སུ་གཏོང་བར་རམ་འདེགས་ཤིག་བྱོས།</string>
     <!-- accessibility label for rating bar -->
-    <string name="rating_bar">Rating control</string>
+    <string name="rating_bar">རིན་ཐང་གི་ཚད་སྟངས་འཛིན།</string>
     <!-- accessibility label for rating selection on rating bar -->
     <string name="rating_bar_selection">{rating} out of {num_of_stars}</string>
     <!-- Title of the Whats New screen e.g. Version 2.8.1 New Features -->
-    <string name="whats_new_title">What\'s New</string>
+    <string name="whats_new_title">གསར་པ་\'s གང་ཡིན།</string>
     <!-- Title of the selector while the choosing file -->
-    <string name="choose_file_title">Choose Files</string>
+    <string name="choose_file_title">ཡིག་ཆ་ཞིག་འདེམ།</string>
     <!-- Title of the dialog appears on course first Section completion(Celebration Modal) -->
-    <string name="celebratory_modal_title">Congratulations!</string>
+    <string name="celebratory_modal_title">རྟེན་འབྲེལ་ཞུ།</string>
     <!-- Completion message for Celebration Modal -->
-    <string name="celebratory_modal_message">You just completed the first section of your course.</string>
+    <string name="celebratory_modal_message">ཁྱེད་ཀྱིས་རང་གི་སློབ་ཚན་གྱི་སྡེ་ཚན་དང་པོ་ཡོངས་སུ་རྫོགས་པ་སྦྱོང་གྲུབ་སོང་།</string>
     <!-- Celebration message for Celebration Modal -->
-    <string name="celebratory_share_message"><b>You earned it!</b> Take a moment to celebrate and share your progress.</string>
+    <string name="celebratory_share_message"><b>ཁྱེད་ལ་ཐོབ་འོས་པ་དེ་ཐོབ་སོང་།</b> དུས་ཡུན་ཐུང་ཙམ་སྤྱད་དེ་རྟེན་འབྲེལ་ཞུ་ཚིག་ཅིག་དང་རང་ཉིད་ཀྱི་སྦྱོང་འབྲས་ཐུན་མོང་ལ་མཉམ་སྤྱོད་བྱོས།</string>
     <!-- Button title appears on Celebration Modal to continue -->
-    <string name="keep_going_text">Keep going</string>
+    <string name="keep_going_text">མུ་མཐུད་དེ་ཤུགས་རྒྱོབས།</string>
     <!-- Sharing message when user wants to share the celebration -->
-    <string name="celebration_share_message">I\'m on my way to completing {course_name} online with @{platform_name}online. What are you spending your time learning? #my{platform_name}journey</string>
+    <string name="celebration_share_message">ངས་དྲ་་སློབ་ཚན་ {course_name} འདི་སྦྱོང་ནས་མཐར་ཕྱིན་གྲབས་ཡོད།  སློབ་ཚན་ཡོད་ས་ནི་དྲ་ལམ་སྤྱི་སྟེགས་ @{platform_name}འདི་རེད། ཁྱེད་ཀྱིས་ཅི་ཞིག་སྦྱོང་བཞིན་ཡོད། #ངའི་{platform_name}འགྲུལ་བཞུད།</string>
     <!-- accessibility label for section completion-->
-    <string name="course_outline_completion_description">Completed</string>
+    <string name="course_outline_completion_description">ཡོངས་སུ་གྲུབ་སོང་།</string>
 </resources>

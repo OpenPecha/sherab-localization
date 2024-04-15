@@ -80,13 +80,13 @@
 
     <!-- License Agreement related string on Login and Regiser screens -->
     <!-- Create account agreement. Followed by list of agreement names like "End User License Agreement" -->
-    <string name="by_creating_account">By creating an account, you agree to the {license} and {tos_and_honor_code} and you acknowledge that {platform_name} and each Member process your personal data in accordance with the {privacy_policy}.</string>
+    <string name="by_creating_account">ཁྱེད་ཀྱིས་ཁ་བྱང་བཟོ་བཞིན་པ་དེས་ཁྱེད་རང་ཆོག་མཆན་རིགས་ {license} འདི་དང་ {tos_and_honor_code} གཉིས་ལ་མུས་མཐུན་བྱས་པར་མ་ཟད་ཁྱེད་རང་སྒེར་གྱི་ཡིག་ཆ་རྣམས་ {platform_name} འདི་བརྒྱུད་ནས་གསང་རྒྱའི་སྲིད་ཇུས་{privacy_policy} འདིའི་ཆོག་མཆན་གཞིར་བཞག་གིས་ཚོགས་མི་སུས་ཀྱང་སྤྱོད་ཆོག་པར་ངོས་ལེན་བྱས་པ་ཡིན།.</string>
     <!-- Sign In agreement. Followed by list of agreement names like "End User License Agreement" -->
-    <string name="by_signing_in">By signing in to this app, you agree to the {license} and {tos_and_honor_code} and you acknowledge that {platform_name} and each Member process your personal data in accordance with the {privacy_policy}.</string>
+    <string name="by_signing_in">ཁྱེད་ཀྱིས་མཉེན་ཆས་འདིའི་ནང་ནང་འཛུལ་བྱེད་བཞིན་པ་དེས་ཁྱེད་རང་ཆོག་མཆན་རིགས་By signing in to this app, you agree to the {license} འདི་དང་ {tos_and_honor_code} གཉིས་ལ་མུས་མཐུན་བྱས་པར་མ་ཟད་and you acknowledge that {platform_name} འདི་བརྒྱུད་ནས་ཁྱེད་རང་སྒེར་གྱི་ཡིག་ཆ་རྣམས་and each Member process your personal data in accordance with the གསང་རྒྱའི་སྲིད་ཇུས་{privacy_policy}འདིའི་ཆོག་མཆན་གཞིར་བཞག་གིས་ཚོགས་མི་སུས་ཀྱང་སྤྱོད་ཆོག་པར་ངོས་ལེན་བྱས་པ་ཡིན།</string>
     <!-- Label for End User License Agreement -->
-    <string name="licensing_agreement">{platform_name} End User License Agreement</string>
+    <string name="licensing_agreement">{platform_name} སྤྱོད་མཁན་གྱི་ཆོག་མཆན་གན་རྒྱ་མཇུག་རྫོགས་པ།</string>
     <!-- Label for Terms of Service and Honor Code -->
-    <string name="tos_and_honor_code">{platform_name} Terms of Service and Honor Code</string>
+    <string name="tos_and_honor_code">{platform_name} ཞབས་ཞུའི་རྣམ་གྲངས་དང་ཁྲིམས་མཐུན་སྒྲིག་གཞི།</string>
     <!-- Label for Privacy Policy -->
     <string name="privacy_policy">སྒེར་དོན་གསང་རྒྱ།</string>
 
@@ -94,7 +94,7 @@
     <!-- Accessible content description of close button on Sign in and Sign up screen -->
     <string name="close">སྒོ་རྒྱོབས།</string>
     <!-- Accessible content description prefix of dropdowns on Sign up screen, like, country and gender dropdowns -->
-    <string name="dropdown_list_prefix">Dropdown list.</string>
+    <string name="dropdown_list_prefix">རིམ་འདེམ་ཐོ་གཞུང་།</string>
 
     <!-- Navigation Drawer Labels -->
     <!-- Button text to show user current downloads screen -->

@@ -70,7 +70,7 @@
     <!-- Shown when viewing your own profile until you have confirmed you are over the age of consent (13 years old) -->
     <string name="profile_consent_needed_explanation">འདིར་རང་ཉིད་ཀྱི་ངོ་སྤྲོད་ཆ་ཚང་བ་འགོད་མཁན་གྱི་ལོ་ཚད་ནི་ལོ་༡༣ ཡན་ལོན་པ་ཞིག་ངེས་པར་དུ་ཡིན་དགོས།</string>
     <!-- Shown when viewing your own incomplete profile -->
-    <string name="profile_incomplete_explanation">ཁྱེད་ཀྱིས་འདི་འགོ་འཛུགས་བྱེད་པ་ལ་ཁྱེད་ཀྱིས་ངོ་སྤྲོད་ཚན་པ་དེ་ད་དུང་ཆ་ཚང་ཞིག་འགེང་མེད་པ་འདྲ།</string>
+    <string name="profile_incomplete_explanation">ཁྱེད་ཀྱིས་ངོ་སྤྲོད་ཚན་པ་དེ་ད་དུང་ཆ་ཚང་ཞིག་འགེང་མེད་པ་འདྲ། </string>
     <!-- Shown as button below the explanation for incomplete profile; it launches the edit profile screen -->
     <string name="profile_incomplete_edit_button">མགོ་རྩོམ།</string>
     <!-- This text is shown in place of the "About Me" text if the user has not filled in their "About Me" -->

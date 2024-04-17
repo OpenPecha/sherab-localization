@@ -16,7 +16,7 @@
     <!-- Course Discovery -->
 
     <!-- Enroll Now button text-->
-    <string name="enroll_now_button_text">ཐུགས་ཐོ་ཁོད།</string>
+    <string name="enroll_now_button_text">ཞུགས་ཐོ་ཁོད།</string>
     <!-- Invitation Only button text-->
     <string name="invitation_only_button_text">གདན་འདྲེན་ཁོ་ན།</string>
     <!-- Effort field name -->
@@ -27,7 +27,7 @@
     <!-- View Course button text text-->
     <string name="view_course_button_text">སློབ་ཚན་སྟོན།</string>
     <!-- Floating overlay text shown to user when they succeed at enrolling in a course -->
-    <string name="you_are_now_enrolled">ཁྱེད་རང་སློབ་ཚན་འདིར་ཞུགས་ཐོ་བཀོདཡོད</string>
+    <string name="you_are_now_enrolled">ཁྱེད་རང་སློབ་ཚན་འདིར་ཞུགས་ཐོ་བཀོད་ཡོད</string>
     <!-- Floating overlay text shown to user when user already enrolled in a course -->
     <string name="you_are_already_enrolled" tools:ignore="MissingTranslation">ཁྱེད་རང་སློབ་ཚན་འདིར་ཞུགས་ཐོ་བཀོད་ཟིན།</string>
     <!-- Error message shown when dashboard cannot be shown from course detail view -->
@@ -80,9 +80,9 @@
 
     <!-- License Agreement related string on Login and Regiser screens -->
     <!-- Create account agreement. Followed by list of agreement names like "End User License Agreement" -->
-    <string name="by_creating_account">ཁྱེད་ཀྱིས་ཁ་བྱང་བཟོ་བཞིན་པ་དེས་ཁྱེད་རང་ཆོག་མཆན་རིགས་ {license} འདི་དང་ {tos_and_honor_code} གཉིས་ལ་མུས་མཐུན་བྱས་པར་མ་ཟད་ཁྱེད་རང་སྒེར་གྱི་ཡིག་ཆ་རྣམས་ {platform_name} འདི་བརྒྱུད་ནས་གསང་རྒྱའི་སྲིད་ཇུས་{privacy_policy} འདིའི་ཆོག་མཆན་གཞིར་བཞག་གིས་ཚོགས་མི་སུས་ཀྱང་སྤྱོད་ཆོག་པར་ངོས་ལེན་བྱས་པ་ཡིན།.</string>
+    <string name="by_creating_account">ཁྱེད་ཀྱིས་ཁ་བྱང་བཟོ་བཞིན་པ་དེས་ཁྱེད་རང་ཆོག་མཆན་རིགས་ {license} འདི་དང་ {tos_and_honor_code} གཉིས་ལ་མོས་མཐུན་བྱས་པར་མ་ཟད་ཁྱེད་རང་སྒེར་གྱི་ཡིག་ཆ་རྣམས་ {platform_name} འདི་བརྒྱུད་ནས་གསང་རྒྱའི་སྲིད་ཇུས་{privacy_policy} འདིའི་ཆོག་མཆན་གཞིར་བཞག་གིས་ཚོགས་མི་སུས་ཀྱང་སྤྱོད་ཆོག་པར་ངོས་ལེན་བྱས་པ་ཡིན།.</string>
     <!-- Sign In agreement. Followed by list of agreement names like "End User License Agreement" -->
-    <string name="by_signing_in">ཁྱེད་ཀྱིས་མཉེན་ཆས་འདིའི་ནང་ནང་འཛུལ་བྱེད་བཞིན་པ་དེས་ཁྱེད་རང་ཆོག་མཆན་རིགས་By signing in to this app, you agree to the {license} འདི་དང་ {tos_and_honor_code} གཉིས་ལ་མུས་མཐུན་བྱས་པར་མ་ཟད་and you acknowledge that {platform_name} འདི་བརྒྱུད་ནས་ཁྱེད་རང་སྒེར་གྱི་ཡིག་ཆ་རྣམས་and each Member process your personal data in accordance with the གསང་རྒྱའི་སྲིད་ཇུས་{privacy_policy}འདིའི་ཆོག་མཆན་གཞིར་བཞག་གིས་ཚོགས་མི་སུས་ཀྱང་སྤྱོད་ཆོག་པར་ངོས་ལེན་བྱས་པ་ཡིན།</string>
+    <string name="by_signing_in">ཁྱེད་ཀྱིས་མཉེན་ཆས་འདིའི་ནང་ནང་འཛུལ་བྱེད་བཞིན་པ་དེས་ཁྱེད་རང་ཆོག་མཆན་རིགས་ {license} འདི་དང་ {tos_and_honor_code} གཉིས་ལ་མོས་མཐུན་བྱས་པར་མ་ཟད་ {platform_name} འདི་བརྒྱུད་ནས་ཁྱེད་རང་སྒེར་གྱི་ཡིག་ཆ་རྣམས་གསང་རྒྱའི་སྲིད་ཇུས་{privacy_policy}འདིའི་ཆོག་མཆན་གཞིར་བཞག་གིས་ཚོགས་མི་སུས་ཀྱང་སྤྱོད་ཆོག་པར་ངོས་ལེན་བྱས་པ་ཡིན།</string>
     <!-- Label for End User License Agreement -->
     <string name="licensing_agreement">{platform_name} སྤྱོད་མཁན་གྱི་ཆོག་མཆན་གན་རྒྱ་མཇུག་རྫོགས་པ།</string>
     <!-- Label for Terms of Service and Honor Code -->
@@ -98,7 +98,7 @@
 
     <!-- Navigation Drawer Labels -->
     <!-- Button text to show user current downloads screen -->
-    <string name="label_current_downloads">མིག་སྔའི་ཕབ་ལེན་སྟོན།</string>
+    <string name="label_current_downloads">ཕབ་ལེན་བྱེད་བཞིན་པའི་ཡིག་ཆ་ཁག་སྟོན།</string>
     <!-- Title of user's course list screen -->
     <string name="label_my_courses">སློབ་ཚན་ཁག</string>
     <!-- Title of user's program list screen -->
@@ -129,7 +129,7 @@
     <!-- Password reset dialog prompt -->
     <string name="confirm_dialog_message_help">ཁྱེད་ཀྱི་གློག་འཕྲིན་ནང་འཇུག་བྱོས་དང་ང་ཚོས་ཁྱེད་ལ་གསང་གྲངས་བསྐྱར་སྒྲིག་གི་ལམ་སྟོན་བསྐུར་ཆོག</string>
     <!-- Title of agreement users must accept to use the app -->
-    <string name="end_user_title">End User License Agreement</string>
+    <string name="end_user_title">སྤྱོད་མཁན་གྱི་གན་རྒྱ་མཚམས་འཇོག་བྱེད་པ།</string>
     <!-- Title of privacy policy users must accept to use the app -->
     <string name="privacy_policy_title" translatable="false">@string/privacy_policy</string>
     <!-- Title of terms of service & honor code users must accept to use the app -->
@@ -140,7 +140,7 @@
     <string name="courseware_title">སློབ་ཚན།</string>
     <!-- Row of course on dashboard screen -->
     <!-- NOTE: TODO - not final one -->
-    <string name="courseware_subtitle">བརྙན་དང་ལས་འགན་རྣམས་ཀྱི་ཆོག་མཆན།</string>
+    <string name="courseware_subtitle">བརྙན་དང་སྦྱོང་ཚན་ལ་གཟིགས།</string>
     <!-- Row title of videos on dashboard screen -->
     <string name="videos_title">བརྙན།</string>
     <!-- Row subtitle of videos on dashboard screen -->
@@ -201,7 +201,7 @@
     <!-- Label shown when no handouts are available for a course -->
     <string name="no_handouts_to_display">མིག་སྔར་སློབ་ཚན་འདིའི་ཁྲིད་ཆས་མི་འདུག</string>
     <!-- Label shown when no important dates are available for a course -->
-    <string name="no_course_dates_to_display">མིག་སྔར་སློབ་ཚན་གྱི་ཟླ་ཚེས་གང་ཡང་མི་འདུག</string>
+    <string name="no_course_dates_to_display">མིག་སྔར་སློབ་ཚན་དང་འབྲེལ་བའི་་ཟླ་ཚེས་གང་ཡང་མི་འདུག</string>
     <!-- Title of the screen where user can delete videos -->
     <string name="delete_videos_title">བརྙན་སུབ།</string>
     <!-- Label for a course item's due date for same day -->
@@ -209,7 +209,7 @@
     <!-- Label for a course item's due date -->
     <string name="due_date_past_future">དུས་བཀག {due_date}</string>
     <!-- Upgrade banner's description which appears on course outline screen. -->
-    <string name="upgrade_banner_description">ལག་ཁྱེར་ཐོབ་ཕྱིར་ལས་འགན་ཆ་ཚང་བ་སྒྲུབ།</string>
+    <string name="upgrade_banner_description">ལག་ཁྱེར་ཐོབ་ཕྱིར་སྦྱོང་ཚན་ཆ་ཚང་བ་སྒྲུབ།</string>
     <!-- Title upgrade to verified today course outline footer -->
     <string name="upgrade_to_verified_today_title">དེ་རིང་ཁུངས་སྐྱེལ་ཡོད་པའི་སློབ་ཚན་ལ་རིམ་སྤར་བྱོས།</string>
     <!--Title of place order for course upgrade screen-->
@@ -219,7 +219,7 @@
 
     <!-- Mobile Payments -->
     <string name="payments_info_header">ཁུངས་སྐྱེལ་ཡོད་པའི་ལག་ཁྱེར་ཞིག་ཐོབ་པར་འབད་བརྩོན་བྱོས།</string>
-    <string name="payments_info_details">རང་ཉིད་ཀྱིས་གསར་དུ་སྦྱངས་པའི་ཡོན་ཏན་དང་ལག་རྩལ་གཉིས་མཚོན་བྱེད་ཀྱི་ཁུངས་སྐྱེལ་ཡོད་པའི་ལག་ཁྱེར་དེ་ཁྱད་དུ་འཕགས་པ་ཞིག་བྱོས།\n\nརང་ཉིད་ཀྱི་ལས་རིགས་དང་འཚོ་བའི་སྤུས་ཚད་ཇེ་ལེགས་སུ་གཏོང་བར་རིན་ཐང་ལྡན་པའི་མཚན་གནས་འདི་བཀོལ་སྤྱད་ཆོག་པ་ཅིང་། ཕྱོགས་གཞན་ཞིག་ནས་ཁྱེད་ཀྱི་ལག་ཁྱེར་དེ་རང་ཉིད་ཀྱི་སློབ་གྲྭའི་སྙན་ཞུའི་ནང་བཅུགས་ན་ཡང་ཁྱད་དུ་འཕགས་པའི་རིན་ཐང་ལྡན་པ་ཡིན།</string>
+    <string name="payments_info_details">རང་ཉིད་ཀྱིས་གསར་དུ་སྦྱངས་པའི་ཡོན་ཏན་དང་ལག་རྩལ་སོགས་ལ་ཁུངས་ལྡན་གྱི་ལག་འཁྱེར་ཡོད་ན་བཟང་། \n\nརང་ཉིད་ཀྱི་ལས་རིགས་དང་འཚོ་བའི་སྤུས་ཚད་ཇེ་ལེགས་སུ་གཏོང་བར་རིན་ཐང་ལྡན་པའི་ལག་འཁྱེར་འདི་བཀོལ་ཆོག ཕྱོགས་གཞན་ཞིག་ནས་ཁྱེད་ཀྱི་ལག་ཁྱེར་དེ་རང་ཉིད་ཀྱི་སློབ་གྲྭའི་སྙན་ཞུའི་ནང་བཅུགས་ན་ཡང་ཁྱད་དུ་འཕགས་པའི་རིན་ཐང་ལྡན་པ་ཡིན།</string>
     <string name="audit_access_expires_on">Audit ཡི་ཆོག་མཆན་རྫོགས་དུས་ {date}</string>
     <string name="audit_access_expires_details">ཟླ་ཚེས་ {date}འདིའི་ཉིན་ནས་ཁྱེད་ཀྱི་སློབ་ཚན་བལྟ་ཀློག་གི་ཆོག་མཆན་ཡོད་དོ་ཅོག་དང་དེ་དག་གི་འཕེལ་རྒྱས་ཀྱི་ཚད་གཞི་དང་བཅས་བརླག་འགྲོ།</string>
     <string name="upgrade_deadline_details">སློབ་ཚན་དེ་དག་ས་ཆ་དེ་ག་རང་ནས་ཚད་བཀག་མེད་པར་བལྟ་ཀློག་གི་ཆོག་མཆན་ཐོབ་འདོད་ན་ {date} འདིའི་ཉིན་རིམ་སྤར་བྱོས།</string>
@@ -316,7 +316,7 @@
     <!-- Title in adding a new comment -->
     <string name="discussion_add_comment_title">མཆན་འདེབ།</string>
     <!-- Title when adding a new comment is disabled -->
-    <string name="discussion_add_comment_disabled_title">དྲི་ལན་ལ་མཆན་འགོག་མཚམས་བཞག་འདུག</string>
+    <string name="discussion_add_comment_disabled_title">དྲི་ལན་ལ་མཆན་འགོད་མཚམས་བཞག་འདུག</string>
     <!-- Title in showing list of comments -->
     <string name="discussion_comments">མཆན།</string>
     <!-- Add comment button title in adding a new comment -->
@@ -362,8 +362,7 @@
     <!-- Label showing previous unit in a sub-section on assessment navigation bar-->
     <string name="assessment_previous">སྔོན་མ།</string>
     <!-- Label showing assessment only available on website-->
-    <string name="assessment_not_available">ཕན་ཚུན་རམ་
-    དེགས་ཀྱི་གྲུབ་ཆ་འདི་ཁ་པར་ནང་བཀོལ་ཆོག་པ་ཞིག་ད་སྔ་མི་འདུག</string>
+    <string name="assessment_not_available">ཕན་ཚུན་རམ་འདེགས་ཀྱི་གྲུབ་ཆ་འདི་ཁ་པར་ནང་བཀོལ་ཆོག་པ་ཞིག་ད་སྔ་མི་འདུག</string>
     <!-- Label showing assessment only available on website-->
     <string name="assessment_explore_on_web">སློབ་ཚན་འདིའི་ཆ་ཤས་གཞན་རྣམས་འཚོལ་ཞིབ་བྱ་རྒྱུ་ཡིན་ནམ་ཡང་ན་འདི་དྲ་ཚིགས་ཤིག་གི་ནང་བལྟ་རྒྱུ་ཡིན།</string>
     <!-- Button to show wiew on web for assessment-->
@@ -371,7 +370,7 @@
     <!-- Label to show empty assessment -->
     <string name="assessment_empty">སྡེ་ཚན་འདིའི་ནང་སློབ་གཉེར་རྒྱུ་ཆ་མི་འདུག</string>
     <!-- Label to show a course will be starting soon -->
-    <string name="assessment_soon">མི་འགྱོངས་བར་ཐོན།</string>
+    <string name="assessment_soon">མི་འགྱངས་བར་ཐོན།</string>
     <!-- Label to notify user to rotate device for viewing a video in full screen -->
     <string name="assessment_rotate_for_fullscreen">བརྙན་འདི་ཁྱེད་ཀྱི་ཁ་པར་ནང་ཆེན་པོ་ཞིག་འཆར་དགོས་ན་ཁྱེད་ཀྱི་ཁ་པར་འཕྲེད་ལ་ཞོག</string>
     <!-- Label showing only when youtube in-app player produce error -->
@@ -441,7 +440,7 @@
     <!-- Accessibility label of bulk download switch, when its state is OFF and no download is happening -->
     <string name="switch_off_no_downloading">འདི་སྒོ་ཕྱེས་དང་། སློབ་ཚན་འདིའི་བརྙན་ཆ་ཚང་ཕབ་ལེན་བྱེད་ཡོང་།</string>
     <!-- Accessibility label of bulk download switch, when its state is ON and all videos are downloading -->
-    <string name="switch_on_all_downloading">འདི་སྒོ་རྒྱོབས་དང་། ཕབ་ལེན་བྱེད་བཞིན་པའི་སློབ་ཚན་འདིའི་བརྙན་ཆ་ཚངཕྱིར་འཐེན་བྱེད་འགྲོ་བ་དང་ཕབ་ཟིན་པ་དག་ཀྱང་བསུབ་འགྲོ།</string>
+    <string name="switch_on_all_downloading">འདི་སྒོ་རྒྱོབས་དང་། ཕབ་ལེན་བྱེད་བཞིན་པའི་སློབ་ཚན་འདིའི་བརྙན་ཆ་ཚང་ཕྱིར་འཐེན་བྱེད་འགྲོ་བ་དང་ཕབ་ཟིན་པ་དག་ཀྱང་བསུབ་འགྲོ།</string>
     <!-- Accessibility label of bulk download switch, when its state is ON and all videos have been downloaded -->
     <string name="switch_on_all_downloaded">འདི་སྒོ་རྒྱོབས་དང་། ཕབ་ལེན་བྱས་ཟིན་པའི་སློབ་ཚན་འདིའི་བརྙན་ཆ་ཚང་བསུབ་འགྲོ།</string>
     <!-- Accessibility label of full bulk download view when videos are being downloaded -->
@@ -471,7 +470,7 @@
     <!-- Accessibility Label for Previous button of Video Player -->
     <string name="video_player_previous">སྔོན་མ།</string>
     <!-- Accessibility Label for Pause button of Video Player -->
-    <string name="video_player_pause">ངང་འཐེན།</string>
+    <string name="video_player_pause">མཚམས་འཇོག་བྱེད།</string>
     <!-- Accessibility Label for Rewind button on Video Player -->
     <string name="video_player_rewind_button">སྐར་ཆ་༡༠རིང་ཕྱིར་ལྡོག</string>
     <!-- Accessibility Label for Forward button on Video Player -->
@@ -490,7 +489,7 @@
     <string name="video_player_forward_time_sec">+15</string>
 
     <!-- Button label to bring up course finder -->
-    <string name="find_course_text">འབད་བརྩོན་གསར་པ་ཞིག་བྱེད་འདོད་འདུག་གམ།</string>
+    <string name="find_course_text">ཤེས་བྱ་གསར་པ་སྦྱངས་འདོད་འདུག་གམ།</string>
     <!-- Button label to bring up course finder -->
     <string name="find_course_btn_text">སློབ་ཚན་ཞིག་ཚོལ།</string>
     <!-- Message between sign in button and social login buttons -->
@@ -504,7 +503,7 @@
     <!-- Prompt allowing user to choose email program -->
     <string name="email_chooser_header">འདི་བརྒྱུད་ནས་གློག་འཕྲིན་གཏོང་་་</string>
     <!-- Error shown when user attempts to send email, but has no email app -->
-    <string name="email_client_not_present">གློག་འཕྲིན་གཏང་སའི་མཉེན་ཆས་ཕབ་ལེན་བྱས་མི་འདུག</string>
+    <string name="email_client_not_present">གློག་འཕྲིན་གཏོང་སའི་མཉེན་ཆས་ཕབ་ལེན་བྱས་མི་འདུག</string>
 
     <!-- Landing Activity text -->
     <!-- Prompt leading user to sign in screen -->
@@ -513,7 +512,7 @@
     <string name="sign_up_and_learn">འདིའི་ནང་ཁ་བྱང་གསར་བཟོ་བྱས་ཏེ་སློབ་གཉེར་བྱོས།</string>
     <!-- In Register screen -->
     <string name="register_with">་འདི་སྤྱད་དེ་ཐོ་འགོད་བྱོས།</string>
-    <string name="or_register_with_email">་ཡང་ན་གློག་འཕྲིན་སྤྱད་དེ་ཐོ་འགོད་བྱོས།</string>
+    <string name="or_register_with_email">ཡང་ན་གློག་འཕྲིན་སྤྱད་དེ་ཐོ་འགོད་བྱོས།</string>
 
     <!-- New Logistration Launch screen text -->
     <!-- Button leading user to create account screen -->
@@ -586,7 +585,7 @@
 
 
     <!-- Discussion/Forum -->
-    <string name="forum_no_results_for_search_query">བཙལ་བྱ་འདིའི་“{search_query}” བཙལ་འབྲས་གང་ཡང་རྙེད་མ་སོང་། གཞན་ཞིག་འཚོལ་བ་དང་། ཡང་ན་འཆར་སྟོན་བྱེད་པ་ལ་བྱེ་བྲག་གིས་གླེང་མོལ་གྱི་རིགས་ཤིག་བདམས་ཏེ་ཚོད་ལྟ་ཞིག་བྱོས་དང་།</string>
+    <string name="forum_no_results_for_search_query">བཙལ་བྱ་འདིའི་“{search_query}” བཙལ་འབྲས་གང་ཡང་རྙེད་མ་སོང་། བཙལ་བྱའི་ཐ་སྙད་གཞན་ཞིག་གམ་ཡང་ན་བགྲོ་གླེང་གི་བརྗོད་གཞི་ཞིག་བདམས་ཏེ་ཚོད་ལྟ་བྱོས།</string>
     <string name="forum_no_results_for_all_posts">སློབ་ཚན་འདིའི་བགྲོ་གླེང་ཚན་པའི་ནང་རྩོམ་ཡིག་མི་འདུག</string>
     <string name="forum_no_results_for_following">ཁྱེད་ཀྱིས་རྩོམ་ཡིག་གང་ལ་ཡང་རྗེས་འཇུག་བྱས་མི་འདུག</string>
     <string name="forum_no_results_for_filtered_following">ཚགས་སྒྲིག་བྱས་པའི་བཙལ་འབྲས་ནང་རང་ཉིད་རྗེས་འཇུག་བྱས་ཡོད་པའི་རྩོམ་ཡིག་གཅིག་ཀྱང་མི་ཡོང་།</string>
@@ -623,11 +622,11 @@
     <!-- Completion message for Celebration Modal -->
     <string name="celebratory_modal_message">ཁྱེད་ཀྱིས་རང་གི་སློབ་ཚན་གྱི་སྡེ་ཚན་དང་པོ་ཡོངས་སུ་རྫོགས་པ་སྦྱོང་གྲུབ་སོང་།</string>
     <!-- Celebration message for Celebration Modal -->
-    <string name="celebratory_share_message"><b>ཁྱེད་ལ་ཐོབ་འོས་པ་དེ་ཐོབ་སོང་།</b> དུས་ཡུན་ཐུང་ཙམ་སྤྱད་དེ་རྟེན་འབྲེལ་ཞུ་ཚིག་ཅིག་དང་རང་ཉིད་ཀྱི་སྦྱོང་འབྲས་ཐུན་མོང་ལ་མཉམ་སྤྱོད་བྱོས།</string>
+    <string name="celebratory_share_message"><b>རྟེན་འབྲེལ་ཞུ། ཁྱེད་ལ་ཐོབ་སོང་།</b> རང་ཉིད་ལ་རྟེན་འབྲེལ་ཞུ་བ་དང་མཉམ་དུ་རང་ཉིད་ཀྱི་སྦྱོང་འབྲས་གཞན་ལ་མཉམ་སྤྱོད་བྱོས།</string>
     <!-- Button title appears on Celebration Modal to continue -->
     <string name="keep_going_text">མུ་མཐུད་དེ་ཤུགས་རྒྱོབས།</string>
     <!-- Sharing message when user wants to share the celebration -->
-    <string name="celebration_share_message">ངས་དྲ་་སློབ་ཚན་ {course_name} འདི་སྦྱོང་ནས་མཐར་ཕྱིན་གྲབས་ཡོད།  སློབ་ཚན་ཡོད་ས་ནི་དྲ་ལམ་སྤྱི་སྟེགས་ @{platform_name}འདི་རེད། ཁྱེད་ཀྱིས་ཅི་ཞིག་སྦྱོང་བཞིན་ཡོད། #ངའི་{platform_name}འགྲུལ་བཞུད།</string>
+    <string name="celebration_share_message">ངས་དྲ་ཐོག་སློབ་ཚན་ {course_name} འདི་སྦྱོང་ནས་མཐར་ཕྱིན་གྲབས་ཡོད།  སློབ་ཚན་ཡོད་ས་ནི་དྲ་ལམ་སྤྱི་སྟེགས་ @{platform_name}འདི་རེད། ཁྱེད་ཀྱིས་ཅི་ཞིག་སྦྱོང་བཞིན་ཡོད། #ངའི་{platform_name}འགྲུལ་བཞུད།</string>
     <!-- accessibility label for section completion-->
     <string name="course_outline_completion_description">ཡོངས་སུ་གྲུབ་སོང་།</string>
 </resources>

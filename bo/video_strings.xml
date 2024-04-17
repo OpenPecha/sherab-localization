@@ -5,7 +5,7 @@
     <!-- Title of Video Quality Dialog -->
     <string name="video_download_quality_title">བརྙན་ཕབ་ལེན་གྱི་སྤུས་ཚད།</string>
     <!-- Auto Video Quality option -->
-    <string name="auto_recommended_text">རང་འགུལ། (Recommended)</string>
+    <string name="auto_recommended_text">རང་འགུལ། (འཚམས་ཤོས།)</string>
     <!-- 360p Video Quality option -->
     <string name="video_quality_p360">360p (ཆེ་ཆུང་ཆུང་ཤོས།)</string>
     <!-- 540p Video Quality option -->
@@ -16,9 +16,9 @@
     <string name="video_download_quality_message">སྒྲིག་འགོད་འདི་ནི་མཉེན་ཆས་འདིའི་{platform_name} ནང་གི་བརྙན་ཕབ་ལེན་ཡོངས་ལ་ཁྱབ་པ་ཞིག་ཡིན།</string>
 
     <!-- Label for the Download to sd-card setting -->
-    <string name="settings_download_to_sdcard_title">བརྙན་སྲ་སྡེར་SD ནང་ཕབ་ལེན་བྱེད།</string>
+    <string name="settings_download_to_sdcard_title">བརྙན་སྲ་སྡེར་ནང་ཕབ་ལེན་བྱེད།</string>
     <!-- Label explaining the download location setting in detail -->
-    <string name="settings_download_to_sdcard_subtitle">སྲ་སྡེར་SD མཐུད་ཡོད་ན་བརྙན་རྣམས་ཐད་ཀར་དེའི་ནང་ཕབ་ལེན་བྱེད་ཡོང་བ་ཡིན།</string>
+    <string name="settings_download_to_sdcard_subtitle">སྲ་སྡེར་མཐུད་ཡོད་ན་བརྙན་རྣམས་ཐད་ཀར་དེའི་ནང་ཕབ་ལེན་བྱེད་ཡོང་བ་ཡིན།</string>
     <!-- Label indicating that the only course content visible in the app is videos -->
     <string name="lbl_showing_only_videos">བརྙན་རིགས་ཁོ་ན་སྟོན།</string>
     <!-- Title of prompt indicating issue loading a video -->

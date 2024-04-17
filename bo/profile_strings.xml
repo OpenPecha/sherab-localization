@@ -16,13 +16,13 @@
     <!--  Heading of Help Field  -->
     <string name="label_help">རམ་འདེགས།</string>
     <!--  Description of Submit feedback Field  -->
-    <string name="description_submit_feedback">ཁྱེད་ཀྱིས་ང་ཚོའི་མཉེན་ཆས་ནང་ཁྱད་ཆོས་གསར་སྣོན་གྱི་རེ་བ་བྱེད་ཀྱི་ཡོད་དམ་ཡང་ན་བསམ་འཆར་གཞན་གནང་འདོད་ཡོད་དམ།</string>
+    <string name="description_submit_feedback">ཁྱེད་ཀྱིས་ང་ཚོའི་མཉེན་ཆས་ནང་ཁྱད་ཆོས་གསར་སྣོན་ནམ་ཡང་ན་བསམ་འཆར་གཞན་གནང་འདོད་ཡོད་དམ།</string>
     <!--  Label of Submit feedback Button  -->
     <string name="label_submit_feedback_btn">རམ་འདེགས་ཚན་པ་ལ་གློག་འཕྲིན་ཐོངས།</string>
     <!--  Heading of Get Support Field  -->
     <string name="title_get_support">རམ་འདེགས་ཚན་པ།</string>
     <!--  Description of Get Support Field  -->
-    <string name="description_get_support">འདི་ནས་{platform_name} ཁ་པར་མཉེན་ཆས་བཀོལ་སྟངས་དངདེའི་ཐད་ཀྱི་ཤེས་བྱ་ལ་སློབ་སྦྱོང་བྱེད་འདོད་ན། འདི་དང་འབྲེལ་བའི་རྒྱུན་ལྡན་གྱི་དྲི་བ་དྲིས་ལན་གྱི་སྡེ་ཚན་ལ་གཟིགས་རོགས།</string>
+    <string name="description_get_support">འདི་ནས་{platform_name} ཁ་པར་མཉེན་ཆས་བཀོལ་སྟངས་དང་དེའི་ཐད་ཀྱི་ཤེས་བྱ་ལ་སློབ་སྦྱོང་བྱེད་འདོད་ན། རྒྱུན་ལྡན་གྱི་དྲི་བ་དྲིས་ལན་གྱི་སྡེ་ཚན་ལ་གཟིགས་རོགས།</string>
     <!--  Label of Get Support Button  -->
     <string name="label_view_faq_btn">རྒྱུན་ལྡན་གྱི་དྲི་བ་དྲིས་ལན་གྱི་སྡེ་ཚན་སྟོན།</string>
     <!--  Label of Sign out Button  -->

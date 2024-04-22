@@ -27,7 +27,7 @@
     <!-- Authentication error in course upgrade API's basket, checkout, execute  -->
     <string name="error_user_not_authenticated">ཁྱེད་ཀྱི་ཁ་བྱང་གིས་ཁུངས་སྐྱེལ་ཏག་ཏག་ཅིག་བྱེད་ཐུབ་མ་སོང་བས། མཉེན་ཆས་ནས་ཕྱིར་ཐོན་བྱས་ཏེ་བསྐྱར་དུ་ནང་འཛུལ་ཞིག་བྱོས་དང་། གནད་དོན་དེ་ད་དུང་མུ་མཐུད་ནས་བྱོང་སོང་ན། རམ་འདེགས་ཚན་པར་འབྲེལ་བ་བྱོས།</string>
     <!--  The course is already upgraded  -->
-    <string name="error_course_already_paid">The course you are looking to upgrade has already been paid for. To update, we need to quickly refresh your app.</string>
+    <string name="error_course_already_paid">ཁྱེད་ཀྱིས་རིམ་སྤར་བྱ་རྩིས་བྱེད་བཞིན་པའི་སློབ་ཚན་དེའི་རིན་འབབ་སྤྲད་ཟིན་འདུག འདི་བསྐྱར་གསོ་བྱེད་པ་ལ་ཁྱེད་ཀྱི་མཉེན་ཆས་བསྐྱར་སྐོར་ཞིག་བྱ་དགོས་འདུག</string>
     <!--  Course sku or the payment processor didn't found  -->
     <string name="error_payment_not_processed">སྐབས་འདིར་ཁྱེད་ཀྱི་སློབ་རིན་སྤྲོད་ལེན་གྱི་བརྒྱུད་རིམ་སྒྲུབ་ཐུབ་ཀྱི་མི་འདུག་པས་བསྐྱར་དུ་ཚོད་ལྟ་ཞིག་བྱ་རོགས། ཁྱེད་ལ་རམ་འདེགས་འཕར་མ་དགོས་སོང་ན་རམ་འདེགས་ཚན་པར་འབྲེལ་བ་བྱ་རོགས།</string>
     <!--  The native payment is complete but an error occurred while marking the course verified  -->
@@ -56,7 +56,7 @@
     <!-- Label Continue Without Update -->
     <string name="label_continue_without_update">བསྐྱར་གསོ་མ་བྱས་པར་མུ་མཐུད་ནས་བཀོལ་སྤྱོད།</string>
     <!-- Title of the dialog to while verifying the incomplete purchases -->
-    <string name="title_checking_purchases">Checking purchases\.\.\.</string>
+    <string name="title_checking_purchases">ཉོས་ཟིན་པ་རྣམས་བསྐྱར་ཞིབ་བྱེད་བཞིན་ཡོད་\.\.\.</string>
     <!-- Title of the Purchases successfully restored dialog -->
     <string name="title_purchases_restored">ཉོས་ཟིན་པ་རྣམས་བདེ་ལེགས་ངང་བསྐྱར་གསོ་བྱས་ཟིན།</string>
     <!-- Message for the Purchases successfully restored dialog -->

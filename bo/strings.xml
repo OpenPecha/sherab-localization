@@ -106,7 +106,7 @@
     <!-- Title of native Find Courses Screen -->
     <string name="label_find_courses">སློབ་ཚན་ཚོལ།</string>
     <!-- Title of Find Courses tab on Main Dashboard screen -->
-    <string name="label_discovery">གསལ་སྟོན།</string>
+    <string name="label_discovery">གསར་རྙེད།</string>
     <!-- Button allowing users to send an email for feedback -->
     <string name="label_submit_feedback">བསམ་འཆར་འབུལ་སྤྲོད།</string>
     <!-- Toggle switch on state label -->

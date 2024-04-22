@@ -33,7 +33,7 @@
     <!--  The native payment is complete but an error occurred while marking the course verified  -->
     <string name="error_course_not_fullfilled">ང་ཚོས་ཁྱེད་ཀྱི་སློབ་ཚན་གྱི་ཉམས་མྱོང་རྣམས་ནང་འཇུག་བྱེད་སྐབས་གནད་དོན་ཞིག་བྱུང་སོང་། གལ་སྲིད་གནད་དོན་དེ་མུ་མཐུད་ནས་བྱུང་ཚེ་རམ་འདེགས་ཚན་པར་འབྲེལ་བ་བྱ་རྒྱུ་མ་བརྗེད།</string>
     <!--  The price wasn't fetched from the payment sdk  -->
-    <string name="error_price_not_fetched">སྐབས་འདིར་ཁྱེད་ཀྱི་རེ་འདུན་དེ་ཆ་ཚང་བ་ཞིག་བསྒྲུབ་ཐུབ་མ་སོང་བས།གལ་སྲིད་གནད་དོན་དེ་མུ་མཐུད་ནས་བྱུང་ཚེ་རམ་འདེགས་ཚན་པར་འབྲེལ་བ་བྱ་རྒྱུ་མ་བརྗེད།</string>
+    <string name="error_price_not_fetched">སྐབས་འདིར་ཁྱེད་ཀྱི་རེ་འདུན་དེ་ཆ་ཚང་བ་ཞིག་བསྒྲུབ་ཐུབ་མ་སོང་བས། གལ་སྲིད་གནད་དོན་དེ་མུ་མཐུད་ནས་བྱུང་ཚེ་རམ་འདེགས་ཚན་པར་འབྲེལ་བ་བྱ་རྒྱུ་མ་བརྗེད།</string>
     <!--  The course is upgraded and verified  -->
     <string name="error_course_paid_and_verified">ཁྱེད་ཀྱིས་རིམ་སྤར་བྱ་རྩིས་བྱེད་བཞིན་པའི་སློབ་ཚན་དེའི་རིན་འབབ་སྤྲད་ཟིན་འདུག དེའི་ཐད་རམ་འདེགས་འཕར་མ་དགོས་ཚེ་རམ་འདེགས་ཚན་པར་འབྲེལ་བ་བྱ་རྒྱུ་མ་བརྗེད།</string>
 
@@ -44,7 +44,7 @@
     <string name="fullscreen_loader_to_your_course">ཁྱེད་ཀྱི་སློབ་ཚན་ལ་</string>
 
     <!-- Label Course Modal Unlock Graded Assignments -->
-    <string name="course_modal_unlock_graded_assignment">གནས་རིམ་ཅན་གྱི་ལས་འགན་རྣམས་ཀྱི་སྒོ་ཟྭ་ཕྱེས།</string>
+    <string name="course_modal_unlock_graded_assignment">སྦྱོང་ཚན་བྱེད་ཐུབ་པ་བཟོས།</string>
 
     <!-- Silent Course Upgrade Success Alert -->
     <!-- Silent Course Upgrade Success Alert Title -->

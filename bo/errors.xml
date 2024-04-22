@@ -10,7 +10,7 @@
     <!-- Title of alert shown when course enrollment request fails -->
     <string name="enrollment_error_title">ཞུགས་ཐོར་གནད་དོན་བྱུང་སོང་།</string>
     <!-- Error message shown in alert when course enrollment request fails -->
-    <string name="enrollment_error_message">ང་ཚོས་ཁ་པར་གྱི་མ་ལག་{platform_name} འདི་སྦྱད་དེ་ད་ཐེངས་ཁྱེད་རང་སློབ་ཚན་འདིའི་ནང་ཞུགས་ཐོར་བཀོད་ཐུབ་མ་སོང་བས། དྲ་ཚིགས་འདིའི་ནང་བསྐྱར་དུ་ཚོད་ལྟ་ཞིག་བྱ་རོགས།</string>
+    <string name="enrollment_error_message">ཁ་པར་གྱི་མ་ལག་{platform_name} འདི་བརྒྱུད་ནས་སློབ་ཚན་འདིའི་ནང་ཞུགས་ཐོར་བཀོད་ཐུབ་མ་སོང་བས། ཤེས་རབ་དྲ་ཚིགས་བརྒྱུད་ནས་ཚོད་ལྟ་བྱ་རོགས།</string>
     <!-- Error message shown when a course section is not available on mobile -->
     <string name="not_available_on_mobile">ཁ་པར་ནང་བཀོལ་ཆོག་པ་ཞིག་མི་འདུག</string>
 
@@ -26,7 +26,7 @@
     <!-- An error ocurred due to some kind of network failure -->
     <string name="network_connected_error">དྲ་རྒྱ་དང་མཐུད་རྒྱུར་གནད་དོན་བྱུང་སོང་། དྲ་རྒྱའི་འབྲེལ་མཐུད་ལ་བསྐྱར་ཞིབ་ཅིག་བྱ་རོགས</string>
     <!-- The server we are trying to use is not available right now -->
-    <string name="network_service_unavailable">ཞབས་ཞུ་མི་འདུག རྗེས་ནས་བསྐྱར་དུ་ཚོད་ལྟ་བྱོས།</string>
+    <string name="network_service_unavailable">དྲ་རྒྱ་མི་འདུག རྗེས་ནས་བསྐྱར་དུ་ཚོད་ལྟ་བྱོས།</string>
 
     <!-- Login error messages -->
     <!-- Error shown during login when user attempts login without entering a username or e-mail -->

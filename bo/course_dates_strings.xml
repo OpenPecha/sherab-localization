@@ -8,7 +8,7 @@
     <!-- Label used when an assignment is completed -->
     <string name="date_type_completed">ཆ་ཚང་གྲུབ་ཟིན་པ།Completed</string>
     <!-- Label used when an assignment is past due -->
-    <string name="date_type_past_due">དུས་བཀག་ཡོལ་ཞིན་པ།</string>
+    <string name="date_type_past_due">དུས་བཀག་ཡོལ་ཟིན་པ།</string>
     <!-- Label used when an assignment is due next -->
     <string name="date_type_due_next">དུས་བཀག་རྗེས་མ།</string>
     <!-- Label used when an assignment is not yet released -->

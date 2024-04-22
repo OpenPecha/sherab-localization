@@ -6,14 +6,14 @@
     <string name="course_modal_heading">རིམ་སྤར་བྱོས། {course_name}</string>
     <!-- Label Course Modal features -->
     <string name="course_modal_earn_certificate">ཁྱེད་ཀྱི་ཤེས་འཇོན་ལག་རྩལ་གྱི་ངོ་སྤྲོད་རེའུ་མིག་ resumé ནང་སྟོན་རྒྱུར་བསླབ་པ་མཐར་སོན་པའི་ཁུངས་སྐྱེལ་ལག་ཁྱེར་ཡོད་པ་ཞིག་ལ་སྦྱོང་བ་བྱོས།</string>
-    <string name="course_modal_unlock_access">གནས་རིམ་ཅན་གྱི་ལས་འགན་ཁག་འདུས་པའི་སློབ་ཚན་གྱི་བྱེད་སྒོ་ཡོངས་སུ་རྫོགས་པ་ལ་བལྟ་ཀློག་བྱེད་པའི་ཆོག་པ་བཟོས།</string>
+    <string name="course_modal_unlock_access">ནང་སྦྱོང་་སློབ་ཚན་གྱི་བྱེད་སྒོ་ཡོངས་སུ་རྫོགས་པ་ལ་བལྟ་ཀློག་བྱེད་ཆོག་པ་བཟོས།</string>
     <string name="course_modal_full_access_course">སློབ་ཚན་དེ་མཇུག་རྫོགས་རུང་སློབ་ཚན་དེའི་ནང་དོན་དང་སློབ་ཚན་རྒྱུ་ཆ་ཁག་དུས་རྟག་ཏུ་བལྟ་ཀློག་གི་ཆོག་མཆན་ཆ་ཚང་ཡོད་པ་བཟོས།</string>
     <!-- Label Course Upgrade button  -->
     <string name="label_upgrade_course_button"> འདི་{price}ལ་རིམ་སྤར་བྱོས།</string>
     <!-- Title Course Locked Modal  -->
     <string name="course_locked_modal_title">སྒོ་ཕྱེས་མེད་པའི་ཁྱད་ཆོས་ཁག་ལ་རྒྱུས་ལོན་མང་ཙམ་བྱོས།</string>
     <!-- Label Course Modal Graded Assignments Locked -->
-    <string name="course_modal_graded_assignment_locked">གནས་རིམ་ཅན་གྱི་ལས་འགན་རྣམས་ལ་ཟྭ་བརྒྱབ་འདུག</string>
+    <string name="course_modal_graded_assignment_locked">སྦྱོང་ཚན་ཁག་ལ་བལྟ་ཀློག་གི་ཆོག་མཆན་མི་འདུག</string>
     <!-- Label Course Modal Graded Assignments Locked description -->
     <string name="course_modal_graded_assignment_locked_description">སྒོ་ཕྱེས་མེད་པའི་ཁྱད་ཆོས་འཕར་མ་རྣམས་བཀོལ་སྤྱོད་བྱེད་ཆོག་པ་དང་སློབ་ཚན་སྦྱོང་སྟབས་བདེ་བོ་ཡོང་ཕྱིར་རིམ་སྤར་བྱོས།</string>
     <!-- Label Course Modal Graded Assignments show more -->

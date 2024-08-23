@@ -1,0 +1,54 @@
+# edX translation file
+# Copyright (C) 2024 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2024.
+# 
+# Translators:
+# Tashi Dhondup <dhonduptiger658@gmail.com>, 2023
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1a\n"
+"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
+"POT-Creation-Date: 2024-01-21 20:43+0000\n"
+"PO-Revision-Date: 2019-01-20 20:43+0000\n"
+"Last-Translator: Tashi Dhondup <dhonduptiger658@gmail.com>, 2023\n"
+"Language-Team: Tibetan (https://app.transifex.com/open-edx/teams/6205/bo/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+"Language: bo\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: edx_proctoring_proctortrack/backends/proctortrack_rest.py:32
+msgid ""
+"Click on the \"Start System Check\" link below to download and run the "
+"proctoring software."
+msgstr ""
+"གཤམ་གསལ་གྱི་དྲ་ཐག་གི་ \"Start System Check\" "
+"ཟེར་བ་དེར་བསྣུན་ཏེ་ཕབ་ལེན་དང་ལྟ་རྟོག་ཡོད་པའི་ཡིག་རྒྱུགས་མཉེན་ཆས་འཇུག་སྤྲོད་བཅས་བྱོས།"
+
+#: edx_proctoring_proctortrack/backends/proctortrack_rest.py:33
+msgid ""
+"Once you have verified your identity and reviewed the exam guidelines in "
+"Proctortrack, you will be redirected back to this page."
+msgstr ""
+"Proctortrackནང་ལ་ཁྱེད་ཀྱིས་ཐེངས་ཤིག་རང་ཉིད་ཀྱི་ID "
+"ཁུངས་སྐྱེལ་བྱས་པ་དང་ཡིག་རྒྱུགས་དེའི་ལམ་སྟོན་ཁག་ལ་བསྐྱར་ཞིབ་བྱས་རྗེས། "
+"ཁྱེད་རང་ཕྱིར་ཤོག་ངོས་འདིར་ཁྲིད་ཡོང་བ་ཡིན།"
+
+#: edx_proctoring_proctortrack/backends/proctortrack_rest.py:34
+msgid ""
+"To confirm that proctoring has started, make sure your webcam feed and the "
+"blue Proctortrack box are both visible on your screen."
+msgstr ""
+"ལྟ་རྟོག་ཡོད་པའི་ཡིག་རྒྱུགས་འགོ་རྩོམ་ཡོད་མེད་གཏན་འཁེལ་བྱེད་པ་ལ། "
+"ཁྱེད་ཀྱི་འཆར་ངོས་སུ་བརྙན་མིག་མཐུད་ཡོད་པ་དང་Proctortrack "
+"ཡི་སྒམ་སྔོན་པོ་གཉིས་ཆ་འཆར་ཡོད་དགོས།"
+
+#: edx_proctoring_proctortrack/backends/proctortrack_rest.py:35
+msgid "Click on the \"Start Proctored Exam\" button below to continue."
+msgstr ""
+"མུ་མཐུད་ནས་འགྲོ་བ་ལ་གཤམ་གསལ་གྱི་ \"Start Proctored Exam\" "
+"ཟེར་བའི་སྒང་ལ་བསྣུན་དགོས།"

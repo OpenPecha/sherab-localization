@@ -1,0 +1,38 @@
+{
+  "course-authoring.plugin.whole-course-translation.appDescription": {
+    "string": "Leverage AI to translate your entire course into dozens of languages"
+  },
+  "course-authoring.plugin.whole-course-translation.appTitle": {
+    "string": "Whole Course Translation"
+  },
+  "course-authoring.plugin.whole-course-translation.button.retry": {
+    "string": "བསྐྱར་དུ་ཚོད་ལྟ་བྱོས།"
+  },
+  "course-authoring.plugin.whole-course-translation.button.save": {
+    "string": "ཉར་ཚགས།"
+  },
+  "course-authoring.plugin.whole-course-translation.button.saving": {
+    "string": "ཉར་ཚགས་བྱེད་མུས།"
+  },
+  "course-authoring.plugin.whole-course-translation.enabled": {
+    "string": "ནུས་ལྡན་བྱས་ཡོད།"
+  },
+  "course-authoring.plugin.whole-course-translation.help-link": {
+    "string": "Learn more about whole course translation"
+  },
+  "course-authoring.plugin.whole-course-translation.modalFormEnableField": {
+    "string": "Turn on whole course translation"
+  },
+  "course-authoring.plugin.whole-course-translation.modalHeading": {
+    "string": "Configure Whole Course Translation"
+  },
+  "course-authoring.plugin.whole-course-translation.save-error.message": {
+    "string": "Please check your entries and try again."
+  },
+  "course-authoring.plugin.whole-course-translation.save-error.title": {
+    "string": "We couldn't apply your changes."
+  },
+  "course-authoring.plugin.whole-course-translation.settings.button": {
+    "string": "བཀོད་སྒྲིག"
+  }
+}

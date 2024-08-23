@@ -1,0 +1,50 @@
+{
+  "unit-translation-selector-plugin.feedbackWidget.gratitudeText": {
+    "developer_comment": "Title for secondary action row.",
+    "string": "Thank you! Your feedback matters."
+  },
+  "unit-translation-selector-plugin.feedbackWidget.rateTranslationText": {
+    "developer_comment": "Title for the feedback widget action row.",
+    "string": "Rate this page translation"
+  },
+  "unit-translation-selector-plugin.translationSelection.cancelButtonText": {
+    "developer_comment": "Button text for the translation modal.",
+    "string": "ཕྱིར་འཐེན།"
+  },
+  "unit-translation-selector-plugin.translationSelection.dismissButtonText": {
+    "developer_comment": "Button text for the translation modal.",
+    "string": "ཕྱིར་ལྡོག"
+  },
+  "unit-translation-selector-plugin.translationSelection.googleTranslateDisclaimer": {
+    "developer_comment": "Text for the translation modal.",
+    "string": "This content has been translated using an AI-powered tool and may contain errors or inaccuracies."
+  },
+  "unit-translation-selector-plugin.translationSelection.googleTranslateLogoAlt": {
+    "developer_comment": "Alt text for the Google Translate logo.",
+    "string": "Google translate logo"
+  },
+  "unit-translation-selector-plugin.translationSelection.languageSelectionModalTitle": {
+    "developer_comment": "Title for the translation modal.",
+    "string": "Translate this course"
+  },
+  "unit-translation-selector-plugin.translationSelection.poweredBy": {
+    "developer_comment": "Powered text for the translation modal.",
+    "string": "Powered by"
+  },
+  "unit-translation-selector-plugin.translationSelection.submitButtonText": {
+    "developer_comment": "Button text for the translation modal.",
+    "string": "འབུལ་སྤྲོད།"
+  },
+  "unit-translation-selector-plugin.translationSelection.translationTourModalBody": {
+    "developer_comment": "Body for the translation modal.",
+    "string": "Now you can easily translate course content."
+  },
+  "unit-translation-selector-plugin.translationSelection.translationTourModalTitle": {
+    "developer_comment": "Title for the translation modal.",
+    "string": "New translation feature!"
+  },
+  "unit-translation-selector-plugin.translationSelection.tryItButtonText": {
+    "developer_comment": "Button text for the translation modal.",
+    "string": "Try it"
+  }
+}

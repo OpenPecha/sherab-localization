@@ -1,0 +1,1426 @@
+# edX translation file
+# Copyright (C) 2024 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# 
+# Translators:
+# Tashi Dhondup <dhonduptiger658@gmail.com>, 2023
+msgid ""
+msgstr ""
+"Project-Id-Version: edx-platform\n"
+"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
+"POT-Creation-Date: 2024-01-21 20:43+0000\n"
+"PO-Revision-Date: 2014-02-06 03:04+0000\n"
+"Last-Translator: Tashi Dhondup <dhonduptiger658@gmail.com>, 2023\n"
+"Language-Team: Tibetan (http://app.transifex.com/open-edx/edx-platform/language/bo/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+"Language: bo\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: wiki/admin.py:80 wiki/models/article.py:31
+msgid "created"
+msgstr "བཟོས་ཟིན།"
+
+#: wiki/apps.py:9
+msgid "Wiki notifications"
+msgstr "ཝེ་ཁེའི་གསར་བརྡ།"
+
+#: wiki/apps.py:15
+msgid "Wiki images"
+msgstr "ཝེ་ཁེའི་འདྲ་པར།"
+
+#: wiki/apps.py:21
+msgid "Wiki attachments"
+msgstr "ཝེ་ཁེའི་ཟུར་སྦྱར་ཡིག་ཆ།"
+
+#: wiki/forms.py:34
+msgid "Only localhost... muahahaha"
+msgstr "Only localhost... muahahaha"
+
+#: wiki/forms.py:40 wiki/forms.py:48 wiki/forms.py:209
+#: wiki/templates/wiki/dir.html:54
+msgid "Title"
+msgstr "མཚན་བྱང་།"
+
+#: wiki/forms.py:40
+msgid "Initial title of the article. May be overridden with revision titles."
+msgstr "རྩོམ་ཡིག་དེའི་ཐོག་མའི་མཚན་བྱང་དེ་བཟོ་བཅོས་པར་གཞིའི་མཚན་བྱང་གིས་བརྗེ་བསྒྱུར་བྱ་ཆོག"
+
+#: wiki/forms.py:41
+msgid "Type in some contents"
+msgstr "ནང་དོན་འགའ་ཤས་ཕྲིས།"
+
+#: wiki/forms.py:42
+msgid ""
+"This is just the initial contents of your article. After creating it, you "
+"can use more complex features like adding plugins, meta data, related "
+"articles etc..."
+msgstr "འདི་ནི་ཁྱེད་ཀྱི་རྩོམ་ཡིག་གི་ཐོག་མའི་མཚན་བྱང་དེ་རེད། དེ་བཟོས་རྗེས་སུ་ཁྱེད་ཀྱིས་སྤྱོད་སྒོ་ཆེ་བའི་མཁོ་ཆས་མང་པོ་ཞིག་བཀོལ་ཆོག་སྟེ། དཔེར་ན། plugins དང་གཞི་གྲངས་རྒྱས་པ། འབྲེལ་ཡོད་ཀྱི་རྩོམ་ཡིག་སོགས་གསར་སྣོན་བྱེད་ཆོག་པ་ཡིན།"
+
+#: wiki/forms.py:49 wiki/forms.py:212
+msgid "Contents"
+msgstr "ནང་དོན།"
+
+#: wiki/forms.py:52 wiki/forms.py:215
+msgid "Summary"
+msgstr "སྙིང་བསྡུས།"
+
+#: wiki/forms.py:52
+msgid ""
+"Give a short reason for your edit, which will be stated in the revision log."
+msgstr "རྩོམ་སྒྲིག་བྱེད་དགོས་པའི་རྒྱུ་རྐྱེན་ཐུང་ངུ་ཞིག་འགོད་རོགས། དེ་བཟོ་བཅོས་དྲ་ངོས་སུ་འཆར་ཡོང་།"
+
+#: wiki/forms.py:101
+msgid ""
+"While you were editing, someone else changed the revision. Your contents "
+"have been automatically merged with the new contents. Please review the text"
+" below."
+msgstr "ཁྱེད་ཀྱིས་རྩོམ་སྒྲིག་བྱེད་བཞིན་པའི་སྐབས་མི་གཞན་ཞིག་གིས་བཟོ་བཅོས་པར་གཞི་དེ་འགྱུར་བ་བཏང་བ་ཡིན་ན། ཁྱེད་ཀྱི་ནང་དོན་དེ་རང་འགུལ་གྱིས་ནང་དོན་གསར་པ་དེ་དང་ཟླ་སྒྲིལ་བྱེད་འགྲོ། གཤམ་གསལ་གྱི་ཡིག་ཆ་ལ་བསྐྱར་ཞིབ་ཅིག་བྱ་རོགས།"
+
+#: wiki/forms.py:103
+msgid "No changes made. Nothing to save."
+msgstr "བསྒྱུར་བཅོས་གང་ཡང་བྱས་མི་འདུག་པས་གསར་དུ་ཉར་རྒྱུ་མི་འདུག"
+
+#: wiki/forms.py:165
+msgid "Select an option"
+msgstr "གདམ་ཀ་ཞིག་འདེམ།"
+
+#: wiki/forms.py:210 wiki/templates/wiki/dir.html:55
+msgid "Slug"
+msgstr "Slug"
+
+#: wiki/forms.py:210
+msgid ""
+"This will be the address where your article can be found. Use only "
+"alphanumeric characters and - or _. Note that you cannot change the slug "
+"after creating the article."
+msgstr "འདི་ནི་ཁྱེད་ཀྱི་རྩོམ་ཡིག་འཇོག་གནས་ཀྱི་ཁ་བྱང་ཡིན། འཇོག་སྟངས་དེ་གསལ་བྱེད་དང་ཨང་གྲངས་གཉིས་ཀྱི་གོ་རིམ་A ནས་ Z དང་ཡང་ན་ 0 ནས་ 9 བཞིན་འཇོག་དགོས། ངེས་དགོས་པ་ཞིག་ལ་ཁྱེད་ཀྱིས་རྩོམ་ཡིག་དེ་སྤེལ་ཟིན་རྗེས་slug འགྱུར་བ་གཏོང་མི་ཐུབ།"
+
+#: wiki/forms.py:215
+msgid "Write a brief message for the article's history log."
+msgstr "རྩོམ་ཡིག་དེའི་ལོ་རྒྱུས་ཤོག་ངོས་སུ་འགོད་རྒྱུའི་འཕྲིན་ཐུང་ཞིག་ཕྲིས།"
+
+#: wiki/forms.py:225
+msgid "A slug may not begin with an underscore."
+msgstr "ཕལ་ཆེར་ slug ཞིག་གི་འགོ་རུ་underscore བཞག་མེད་པ་འདྲ།"
+
+#: wiki/forms.py:234
+#, python-format
+msgid "A deleted article with slug \"%s\" already exists."
+msgstr "བསུབ་ཟིན་པའི་རྩོམ་ཡིག་ཅིག་གི་ slug \"%s\" ད་དུང་ལྷག་འདུག"
+
+#: wiki/forms.py:236
+#, python-format
+msgid "A slug named \"%s\" already exists."
+msgstr "མིང་འདི་ཡོད་པའི་slug \"%s\" ད་དུང་ལྷག་འདུག"
+
+#: wiki/forms.py:249
+msgid "Yes, I am sure"
+msgstr "འགྲིག གཏན་འཁེལ་ཡིན།"
+
+#: wiki/forms.py:251 wiki/templates/wiki/deleted.html:46
+msgid "Purge"
+msgstr "གཙང་བཤེར།"
+
+#: wiki/forms.py:252
+msgid ""
+"Purge the article: Completely remove it (and all its contents) with no undo."
+" Purging is a good idea if you want to free the slug such that users can "
+"create new articles in its place."
+msgstr "རྩོམ་ཡིག་གཙང་སེལ་ནི། ཕྱིར་འཐེན་མེད་པར་ཆ་ཚང་གཙང་སེལ་ (ནང་དོན་ཆ་ཚང་།) བྱེད་ན། གཙང་སེལ་ནི་slug དང་བཅས་པ་གཙང་སེལ་བྱེད་པའི་ཐབས་ཤེས་ཡག་ཤོས་དེ་རེད། དེ་ལྟར་བྱས་ན་ད་གཟོད་སྤྱོད་མཁན་རྣམས་ཀྱིས་ས་ཆ་དེར་རྩོམ་ཡིག་གསར་པ་སྤེལ་ཐུབ་པ་ཡིན།"
+
+#: wiki/forms.py:259 wiki/plugins/attachments/forms.py:27
+#: wiki/plugins/images/forms.py:65
+msgid "You are not sure enough!"
+msgstr "ཁྱེད་ཀྱིས་གཏན་འཁེལ་བྱེད་ཐུབ་མི་འདུག"
+
+#: wiki/forms.py:261
+msgid "While you tried to delete this article, it was modified. TAKE CARE!"
+msgstr "ཁྱེད་ཀྱིས་རྩོམ་ཡིག་འདི་བསུབ་རྩིས་བྱེད་སྐབས་བཟོ་བཅོས་བརྒྱབ་འདུག ཐུགས་སྣང་གནང་རོགས།!"
+
+#: wiki/forms.py:267
+msgid "Lock article"
+msgstr "རྩོམ་ཡིག་ལ་ཟྭ་རྒྱོབས།"
+
+#: wiki/forms.py:267
+msgid "Deny all users access to edit this article."
+msgstr "སྤྱོད་མཁན་ཡོངས་ལ་རྩོམ་ཡིག་འདི་རྩོམ་སྒྲིག་བྱེད་པའི་ཆོག་མཆན་མེད།"
+
+#: wiki/forms.py:270
+msgid "Permissions"
+msgstr "ཆོག་མཆན།"
+
+#: wiki/forms.py:274
+msgid "Owner"
+msgstr "བདག་པོ།"
+
+#: wiki/forms.py:275
+msgid "Enter the username of the owner."
+msgstr "བདག་པའི་སྤྱོད་མིང་ནང་འཇུག་བྱོས།"
+
+#: wiki/forms.py:276
+msgid "(none)"
+msgstr "(none)"
+
+#: wiki/forms.py:281
+msgid "Inherit permissions"
+msgstr "ཆོག་མཆན་ཐོབ་པ།"
+
+#: wiki/forms.py:281
+msgid ""
+"Check here to apply the above permissions recursively to articles under this"
+" one."
+msgstr "གཤམ་བཀོད་ཀྱི་རྩོམ་ཡིག་ལ་གོང་མཚུངས་ཀྱི་ཆོག་མཆན་ཞུ་ན་འདིར་འགྲིག་རྟགས་རྒྱོབས།"
+
+#: wiki/forms.py:286
+msgid "Permission settings for the article were updated."
+msgstr "སྤེལ་ཟིན་པའི་རྩོམ་ཡིག་རྣམས་ཀྱི་ཆོག་མཆན་སྒྲིག་འགོད།"
+
+#: wiki/forms.py:288
+msgid "Your permission settings were unchanged, so nothing saved."
+msgstr "ཁྱེད་ཀྱི་ཆོག་མཆན་སྒྲིག་འགོད་ནང་འགྱུར་བ་གང་ཡང་བཏང་མི་འདུག་པས། ཉར་ཚགས་གསར་པ་གང་ཡང་མི་འདུག"
+
+#: wiki/forms.py:327
+msgid "No user with that username"
+msgstr "མིང་འདི་ཡོད་པའི་སྤྱོད་མཁན་ཞིག་མི་འདུག"
+
+#: wiki/forms.py:349
+msgid "Article locked for editing"
+msgstr "རྩོམ་ཡིག་རྩོམ་སྒྲིག་ལ་ཟྭ་བརྒྱབ་འདུག"
+
+#: wiki/forms.py:356
+msgid "Article unlocked for editing"
+msgstr "རྩོམ་ཡིག་རྩོམ་སྒྲིག་གིཟྭ་ཕྱེས་འདུག"
+
+#: wiki/forms.py:369
+msgid "Filter"
+msgstr "ཚགས་སྒྲིག"
+
+#: wiki/core/plugins/base.py:47
+msgid "Settings for plugin"
+msgstr "plugin འདིའི་སྒྲིག་འགོད།"
+
+#: wiki/models/article.py:26 wiki/models/pluginbase.py:162
+#: wiki/plugins/attachments/models.py:22
+msgid "current revision"
+msgstr "མིག་སྔའི་བསྒྱུར་བཅོས་ཀྱི་པར་གཞི།"
+
+#: wiki/models/article.py:28
+msgid ""
+"The revision being displayed for this article. If you need to do a roll-"
+"back, simply change the value of this field."
+msgstr "བཟོ་བཅོས་པར་གཞི་དེ་རྩོམ་ཡིག་འདིའི་ཐད་འཆར་ཡོང་། གལ་སྲིད་ཕྱིར་ལྡོག་དགོས་ན་གཤམ་གྱི་ཚན་པའི་ནང་གི་རིན་ཐང་འགྱུར་བ་ཐོངས།"
+
+#: wiki/models/article.py:32
+msgid "modified"
+msgstr "བཅོས་སྒྲིག་ཟིན་པ།"
+
+#: wiki/models/article.py:33
+msgid "Article properties last modified"
+msgstr "རྩོམ་ཡིག་ཉེ་སྔོན་བཟོ་བཅོས་བྱས་པའི་གནས་ཚུལ་ཞིབ་ཕྲ།"
+
+#: wiki/models/article.py:35
+msgid "owner"
+msgstr "བདག་པོ།"
+
+#: wiki/models/article.py:37
+msgid ""
+"The owner of the article, usually the creator. The owner always has both "
+"read and write access."
+msgstr "རྩོམ་ཡིག་གི་བདག་པོ། ནམ་རྒྱུན་སྤེལ་མཁན་དེ་ཡིན། བདག་པོ་ལ་འབྲི་ཀློག་གཉིས་ཀའི་ཆོག་མཆན་ཡོད།"
+
+#: wiki/models/article.py:39
+msgid "group"
+msgstr "ཚོགས་ཆུང་།"
+
+#: wiki/models/article.py:41
+msgid ""
+"Like in a UNIX file system, permissions can be given to a user according to "
+"group membership. Groups are handled through the Django auth system."
+msgstr "UNIX ཡིག་ཆའི་མ་ལག་ནང་ལ་མཚོན་ན། སྤྱོད་མཁན་ལ་ཆོག་མཆན་སྤྲོད་ཐབས་ནི་ཚོགས་མའི་གནས་བབས་ལ་ལྟོས་པ་དང་། ཚོགས་པ་རྣམས་ Django auth མ་ལག་བརྒྱུད་ནས་དོ་དམ་བྱེད་ཀྱི་ཡོད།"
+
+#: wiki/models/article.py:43
+msgid "group read access"
+msgstr "ཚོགས་པའི་དཔེ་ཀློག་ཆོག་མཆན།"
+
+#: wiki/models/article.py:44
+msgid "group write access"
+msgstr "ཚོགས་པའི་འབྲི་བའི་ཆོག་མཆན།"
+
+#: wiki/models/article.py:45
+msgid "others read access"
+msgstr "གཞན་དག་གི་དཔེ་ཀློག་ཆོག་མཆན།"
+
+#: wiki/models/article.py:46
+msgid "others write access"
+msgstr "གཞན་དག་གི་འབྲི་བའི་ཆོག་མཆན།"
+
+#: wiki/models/article.py:177
+#, python-format
+msgid "Article without content (%(id)d)"
+msgstr "རྩོམ་ཡིག་ནང་དོན་མེད་པ་ (%(id)d)"
+
+#: wiki/models/article.py:205
+msgid "content type"
+msgstr "ནང་དོན་གྱི་རིགས།"
+
+#: wiki/models/article.py:207
+msgid "object ID"
+msgstr "དངོས་རིགས་ ID"
+
+#: wiki/models/article.py:213
+msgid "Article for object"
+msgstr "ཡུལ་ཞིག་གི་རྩོམ་ཡིག"
+
+#: wiki/models/article.py:214
+msgid "Articles for object"
+msgstr "ཡུལ་ཞིག་གི་རྩོམ་ཡིག་ཁག"
+
+#: wiki/models/article.py:223
+msgid "revision number"
+msgstr "བསྐྱར་བཅོས་ཀྱི་གྲངས།"
+
+#: wiki/models/article.py:229
+msgid "IP address"
+msgstr "IP ཡི་ཁ་བྱང་།"
+
+#: wiki/models/article.py:236
+msgid "user"
+msgstr "སྤྱོད་མཁན།"
+
+#: wiki/models/article.py:249
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:22
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:20
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:39
+#: wiki/templates/wiki/includes/revision_info.html:15
+msgid "deleted"
+msgstr "བསུབ་ཟིན།"
+
+#: wiki/models/article.py:250 wiki/templates/wiki/article.html:22
+#: wiki/templates/wiki/includes/revision_info.html:21
+msgid "locked"
+msgstr "ཟྭ་བརྒྱབ་ཟིན་པ།"
+
+#: wiki/models/article.py:269 wiki/models/pluginbase.py:42
+msgid "article"
+msgstr "རྩོམ་ཡིག"
+
+#: wiki/models/article.py:272
+msgid "article contents"
+msgstr "རྩོམ་ཡིག་ནང་དོན།"
+
+#: wiki/models/article.py:276
+msgid "article title"
+msgstr "རྩོམ་ཡིག་ཁ་བྱང་།"
+
+#: wiki/models/article.py:277
+msgid ""
+"Each revision contains a title field that must be filled out, even if the "
+"title has not changed"
+msgstr "མཚན་བྱང་བསྒྱུར་བཅོས་བྱས་མིན་ལ་མ་ལྟོས་པར་བསྐྱར་བཅོས་པར་གཞི་རེ་རེའི་ནང་ངེས་པར་དུ་སྐོང་དགོས་པའི་མཚན་བྱང་གི་ཚན་པ་ཞིག་ཡོད་དགོས།"
+
+#: wiki/models/pluginbase.py:78
+msgid "original article"
+msgstr "རྩོམ་ཡིག་མ་ཕྱི།"
+
+#: wiki/models/pluginbase.py:79
+msgid "Permissions are inherited from this article"
+msgstr "རྩོམ་ཡིག་འདིའི་ཆོག་མཆན་སྤྲད་ཡོད།"
+
+#: wiki/models/pluginbase.py:137
+msgid "A plugin was changed"
+msgstr "plugin ཞིག་འགྱུར་བ་བཏང་འདུག"
+
+#: wiki/models/pluginbase.py:164
+msgid ""
+"The revision being displayed for this plugin.If you need to do a roll-back, "
+"simply change the value of this field."
+msgstr "བཟོ་བཅོས་པར་གཞི་དེ་plugin འདིའི་ནང་སྟོན་རྒྱུར་བསྒྲིགས་འདུག གལ་སྲིད་ཕྱིར་ལྡོག་དགོས་ན་གཤམ་གྱི་ཚན་པ་དེའི་རིན་ཐང་བརྗེས་པ་ཙམ་གྱིས་ཆོག"
+
+#: wiki/models/urlpath.py:43
+msgid "Cache lookup value for articles"
+msgstr "Cache lookup value for articles"
+
+#: wiki/models/urlpath.py:49
+msgid "slug"
+msgstr "slug"
+
+#: wiki/models/urlpath.py:139
+msgid "(root)"
+msgstr "(root)"
+
+#: wiki/models/urlpath.py:149
+msgid "URL path"
+msgstr "URL ཡོང་ཁུངས།"
+
+#: wiki/models/urlpath.py:150
+msgid "URL paths"
+msgstr "URL ཡོང་ཁུངས་ཁག"
+
+#: wiki/models/urlpath.py:155
+msgid "Sorry but you cannot have a root article with a slug."
+msgstr "དགོངས་དག slug འདིའི་ནང་ཁྱེད་ཀྱིས་སྒེར་དབང་རྩོམ་ཡིག་རྙེད་མི་ཐུབ།"
+
+#: wiki/models/urlpath.py:157
+msgid "A non-root note must always have a slug."
+msgstr "སྒེར་དབང་མ་ཡིན་པའི་མཆན་འགྲེལ་ཁག་ལ་ངེས་པར་དུ་ slug རེ་ཡོད་དགོས།"
+
+#: wiki/models/urlpath.py:160
+#, python-format
+msgid "There is already a root node on %s"
+msgstr "འདིའི་ %s སྒང་ལ་ད་སྔ་ནས་སྒེར་དབང་རྩོམ་ཡིག་ཅིག་འདུག"
+
+#: wiki/models/urlpath.py:265
+msgid ""
+"Articles who lost their parents\n"
+"===============================\n"
+"\n"
+"The children of this article have had their parents deleted. You should probably find a new home for them."
+msgstr "མ་རྩོམ་བོར་ཟིན་པའི་རྩོམ་ཡིག་ཁག\n===============================\n\nབུ་རྩོམ་འདི་དག་གི་མ་རྩོམ་བསུབ་ཚར་འདུག་པས། ཁྱེད་ཀྱིས་ངེས་པར་དུ་དེ་དག་འཇོག་གནས་གསར་བ་ཞིག་འཚོལ་དགོས།"
+
+#: wiki/models/urlpath.py:268
+msgid "Lost and found"
+msgstr "བོར་བ་དང་རྙེད་པ།"
+
+#: wiki/plugins/attachments/forms.py:12
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:13
+msgid "Description"
+msgstr "འགྲེལ་བཤད།"
+
+#: wiki/plugins/attachments/forms.py:13
+msgid "A short summary of what the file contains"
+msgstr "ཡིག་ཆ་དེའི་ནང་གང་ཡོད་ཀྱི་སྙིང་བསྡུས་ཐུང་ངུ་ཞིག"
+
+#: wiki/plugins/attachments/forms.py:22
+msgid "Yes I am sure..."
+msgstr "ཡིན། གཏན་འཁེལ་ཡིན།"
+
+#: wiki/plugins/attachments/markdown_extensions.py:36
+msgid "Click to download file"
+msgstr "ཡིག་ཆ་ཕབ་ལེན་བྱེད་པར་འདིར་སྣུན།"
+
+#: wiki/plugins/attachments/models.py:24
+msgid ""
+"The revision of this attachment currently in use (on all articles using the "
+"attachment)"
+msgstr "ཟུར་སྦྱར་ཡིག་ཆ་འདིའི་བཟོ་བཅོས་པར་གཞི་དེ་ད་ལྟ་སྤྱོད་བཞིན་འདུག (on all articles using the attachment)"
+
+#: wiki/plugins/attachments/models.py:28
+msgid "original filename"
+msgstr "ཡིག་ཆའི་མ་གཞིའི་མིང་།"
+
+#: wiki/plugins/attachments/models.py:40
+msgid "attachment"
+msgstr "ཟུར་སྦྱར་མ།"
+
+#: wiki/plugins/attachments/models.py:41
+msgid "attachments"
+msgstr "ཟུར་སྦྱར་མ།"
+
+#: wiki/plugins/attachments/models.py:83
+msgid "file"
+msgstr "ཡིག་ཆ།"
+
+#: wiki/plugins/attachments/models.py:89
+msgid "attachment revision"
+msgstr "ཟུར་སྦྱར་མའི་བཟོ་བཅོས་པར་གཞི།"
+
+#: wiki/plugins/attachments/models.py:90
+msgid "attachment revisions"
+msgstr "ཟུར་སྦྱར་མའི་བཟོ་བཅོས་པར་གཞི་ཁག"
+
+#: wiki/plugins/attachments/views.py:51
+#, python-format
+msgid "%s was successfully added."
+msgstr "%s ནི་བདེ་ལེགས་ངང་བསྣན་སོང་།"
+
+#: wiki/plugins/attachments/views.py:53 wiki/plugins/attachments/views.py:118
+#, python-format
+msgid "Your file could not be saved: %s"
+msgstr "ཁྱེད་ཀྱི་ཡིག་ཆ་ཉར་ཚགས་བྱེད་ཐུབ་ས་མ་རེད་ %s"
+
+#: wiki/plugins/attachments/views.py:55 wiki/plugins/attachments/views.py:122
+msgid ""
+"Your file could not be saved, probably because of a permission error on the "
+"web server."
+msgstr "ཁྱེད་ཀྱི་ཡིག་ཆ་ཉར་ཚགས་བྱེད་ཐུབ་ས་མ་རེད། ཕལ་ཆེར་དྲ་ཚིགས་དེའི་གསོག་མཛོད་ཀྱི་ཆོག་མཆན་ཐད་ཀྱི་གནད་དོན་ཞིག་ཡིན་པ་འདྲ།"
+
+#: wiki/plugins/attachments/views.py:116
+#, python-format
+msgid "%s uploaded and replaces old attachment."
+msgstr "%s འདི་ཙམ་ནང་འཇུག་བྱས་ཟིན་པ་དང་ཟུར་སྦྱར་རྙིང་པ་བསྐྱར་བརྗེ་བྱེད་འགྲོ།"
+
+#: wiki/plugins/attachments/views.py:130
+msgid ""
+"Your new file will automatically be renamed to match the file already "
+"present. Files with different extensions are not allowed."
+msgstr "ཁྱེད་ཀྱི་ཡིག་ཆ་གསར་པ་དེ་ལ་ད་སྔ་ཡོད་བསྡད་པའི་ཡིག་དེ་དང་མཐུན་པར་རང་འགུལ་གྱིས་མིང་འདོགས་འགྲོ་བ་དང་།  ཡིག་ཆའི་རྣམ་སྒྲིག་མི་འདྲ་བ་རྣམས་ངོས་ལེན་མི་བྱེད་པ་ཡིན།"
+
+#: wiki/plugins/attachments/views.py:184
+#, python-format
+msgid "Current revision changed for %s."
+msgstr "མིག་སྔའི་བཟོ་བཅོས་པར་གཞི་ %s འདི་ལ་བརྗེ་བསྒྱུར་བྱས་འདུག"
+
+#: wiki/plugins/attachments/views.py:205
+#, python-format
+msgid "Added a reference to \"%(att)s\" from \"%(art)s\"."
+msgstr "འདིར་རྒྱུ་ཆ་ཞིག་འདིར་ \"%(att)s\" བཞག་ཡོད། ཡོང་ཁུངས་ \"%(art)s\" འདི་ཡིན།"
+
+#: wiki/plugins/attachments/views.py:235
+#, python-format
+msgid "The file %s was deleted."
+msgstr "ཡིག་ཆ་ %s དེ་བསུབ་འདུག"
+
+#: wiki/plugins/attachments/views.py:238
+#, python-format
+msgid "This article is no longer related to the file %s."
+msgstr "རྩོམ་ཡིག་འདི་ཡིག་ཆ་ %sདེ་དང་འབྲེལ་བ་མེད།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:4
+#: wiki/plugins/attachments/wiki_plugin.py:31
+msgid "Attachments"
+msgstr "ཡིག་ཆ།"
+
+#: wiki/plugins/attachments/wiki_plugin.py:37
+#, python-format
+msgid "A file was changed: %s"
+msgstr "ཡིག་ཆ་བསྒྱུར་ཟིན་པ་ནི་ %s"
+
+#: wiki/plugins/attachments/wiki_plugin.py:37
+#, python-format
+msgid "A file was deleted: %s"
+msgstr "ཡིག་ཆ་བསུབ་ཟིན་པ་ནི་ %s"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html:4
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html:9
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:35
+#: wiki/templates/wiki/delete.html:7
+msgid "Delete"
+msgstr "སུབ།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html:13
+msgid ""
+"The file may be referenced on other articles. Deleting it means that they "
+"will loose their references to this file. The following articles reference "
+"this file:"
+msgstr "ཡིག་ཆ་དེ་རྩོམ་ཡིག་གཞན་གྱི་ནང་ལུང་འདྲེན་བྱས་འདུག་པས། དེ་བསུབ་ན་འདིའི་ནང་གཔྱད་གཞིར་དྲངས་པ་རྣམས་ཀྱང་ཡལ་འགྲོ་བ་ཡིན། འདི་དཔྱད་གཞིར་དྲངས་པའི་རྩོམ་ཡིག་རྣམས་གཤམ་གསལ།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html:26
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html:47
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:48
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/replace.html:33
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:70
+#: wiki/plugins/images/templates/wiki/plugins/images/purge.html:20
+#: wiki/plugins/images/templates/wiki/plugins/images/revision_add.html:20
+#: wiki/templates/wiki/create.html:51 wiki/templates/wiki/delete.html:11
+#: wiki/templates/wiki/delete.html:48
+msgid "Go back"
+msgstr "ཕྱིར་ལྡོག"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html:30
+msgid "Delete it!"
+msgstr "དེ་སུབ།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html:36
+msgid "Remove"
+msgstr "སུབ།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html:40
+msgid ""
+"You can remove a reference to a file, but it will retain its references on "
+"other articles."
+msgstr "ཁྱེད་ཀྱིས་དཔྱད་གཞིའི་ཡིག་ཆ་ཞིག་བསུབ་ཆོག་པ་ཡིན། ཡིན་ན་ཡང་རྩོམ་ཡིག་གཞན་པའི་ནང་གི་དེ་མུ་མཐུད་ནས་ཉར་འདུག་པ་ཡིན།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/delete.html:51
+msgid "Remove reference"
+msgstr "དཔྱད་གཞིའི་ཡིག་ཆ་སུབ།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:4
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:8
+msgid "History of"
+msgstr "དེའི་ལོ་རྒྱུས།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:11
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:23
+msgid "Date"
+msgstr "ཟླ་ཚེས།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:12
+msgid "User"
+msgstr "སྤྱོད་མཁན།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:14
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:21
+msgid "File"
+msgstr "ཡིག་ཆ།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:15
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:28
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:25
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:21
+msgid "Size"
+msgstr "ཆེ་ཆུང་།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:16
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:26
+msgid "Action"
+msgstr "བྱ་བ།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:27
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:32
+msgid "<em>No description</em>"
+msgstr "<em>འགྲེལ་བཤད་མེད་པ།</em>"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:35
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:50
+msgid "Download"
+msgstr "ཕབ་ལེན།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/history.html:40
+msgid "Use this!"
+msgstr "འདི་བཀོལ།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:9
+msgid ""
+"The following files are available for this article. Copy the markdown tag to"
+" directly refer to a file from the article text."
+msgstr "The following files are available for this article. Copy the markdown tag to directly refer to a file from the article text."
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:26
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:19
+msgid "Markdown tag"
+msgstr "Markdown tag"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:27
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:24
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:20
+msgid "Uploaded by"
+msgstr "བརྒྱུད་ནས་ནང་འཇུག་བྱས།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:33
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/replace.html:4
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/replace.html:8
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html:31
+msgid "Replace"
+msgstr "བརྗེ་བསྒྱུར།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:37
+msgid "Detach"
+msgstr "ཁ་བྲལ་བ།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:44
+#: wiki/templates/wiki/deleted.html:24 wiki/templates/wiki/deleted.html:29
+msgid "Restore"
+msgstr "བསྐྱར་འཇོག"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:54
+msgid "File history"
+msgstr "ཡིག་ཆའི་ལོ་རྒྱུས།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:54
+msgid "revisions"
+msgstr "བསྐྱར་བཅོས།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:69
+msgid "There are no attachments for this article."
+msgstr "རྩོམ་ཡིག་འདིའི་ཟུར་སྦྱར་ཡིག་ཆ་མི་འདུག"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:83
+msgid "Upload new file"
+msgstr "ཡིག་ཆ་གསར་པ་ནང་འཇུག"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:95
+msgid "Upload file"
+msgstr "ཡིག་ཆ་ནང་འཇུག"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:106
+msgid "Search and add file"
+msgstr "འཚོལ་ཞིབ་དང་ཡིག་ཆ་ཞོག"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:112
+msgid ""
+"You can reuse files from other articles. These files are subject to updates "
+"on other articles which may or may not be a good thing."
+msgstr "You can reuse files from other articles. These files are subject to updates on other articles which may or may not be a good thing."
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:117
+msgid "Search"
+msgstr "འཚོལ་ཞིབ།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/replace.html:13
+#, python-format
+msgid ""
+"Replacing an attachment means adding a new file that will be used in its "
+"place. All references to the file will be replaced by the one you upload and"
+" the file will be downloaded as <strong>%(filename)s</strong>. Please note "
+"that this attachment is in use on other articles, you may distort contents. "
+"However, do not hestitate to take advantage of this and make replacements "
+"for the listed articles where necessary. This way of working is more "
+"efficient...."
+msgstr "མཉམ་སྦྱར་ཡིག་ཆ་ཚབ་བརྗེ་ཟེར་བ་ནི་དེའི་འཇོག་གནས་སུ་ཡིག་ཆ་གསར་པ་གཞན་ཞིག་ནང་འཇུག་བྱས་ཏེ་དེ་སྔ་མ་དེའི་ཚབ་ལ་བཀོལ་སྤྱོད་བྱས་པའི་དོན་ཡིན། ཡིག་ཆ་དེའི་ནང་དཔྱད་གཞིར་དྲངས་པ་ཡོངས་རྫོགས་ཁྱེད་ཀྱིས་ནང་འཇུག་བྱས་པའི་ཡིག་ཆ་གསར་པ་དེས་ཚབ་བརྗེ་བྱེད་འགྲོ་བ་དང་། ཡིག་ཆ་དེ་ཡང་ <strong>%(filename)s</strong> འདི་ལྟར་ཕབ་ལེན་བྱེད་ཡོང་བ་ཡིན། དོ་སྣང་བྱ་དགོས་པ་ཞིག་ནི་མཉམ་སྦྱར་ཡིག་ཆ་འདི་རྩོམ་ཡིག་གཞན་ཞིག་གི་ནང་བཀོལ་སྤྱོད་བྱེད་བཞིན་འདུག་པས། ཁྱེད་ཀྱིས་རང་གི་ནང་དོན་གྱི་རྣམ་པ་ཡང་དཀྲུགས་སྲིད། གང་ལྟར་དོགས་འཛེམ་མེད་པར་གོ་སྐབས་དམ་འཛིན་གྱིས་ཚབ་བརྗེ་དགོས་ངེས་ཀྱི་རྩོམ་ཡིག་ཐོ་རུ་བཀོད་པ་རྣམས་ཚབ་བརྗེ་བྱོས། བྱེད་ཐབས་འདི་ནི་ལས་ཆོད་ཆེ་ཤོས་ཀྱི་ཐབས་ཤིག་ཡིན།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/replace.html:15
+msgid "Articles using"
+msgstr "རྩོམ་ཡིག་བཀོལ་སྤྱོད།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/replace.html:24
+#, python-format
+msgid ""
+"Replacing an attachment means adding a new file that will be used in its "
+"place. All references to the file will be replaced by the one you upload and"
+" the file will be downloaded as <strong>%(filename)s</strong>."
+msgstr "མཉམ་སྦྱར་ཡིག་ཆ་ཚབ་བརྗེ་ཟེར་བ་ནི་དེའི་འཇོག་གནས་སུ་ཡིག་ཆ་གསར་པ་གཞན་ཞིག་ནང་འཇུག་བྱས་ཏེ་དེ་སྔ་མ་དེའི་ཚབ་ལ་བཀོལ་སྤྱོད་བྱས་པའི་དོན་ཡིན། ཡིག་ཆ་དེའི་ནང་དཔྱད་གཞིར་དྲངས་པ་ཡོངས་རྫོགས་ཁྱེད་ཀྱིས་ནང་འཇུག་བྱས་པའི་ཡིག་ཆ་གསར་པ་དེས་ཚབ་བརྗེ་བྱེད་འགྲོ་བ་དང་། ཡིག་ཆ་དེ་ཡང་  <strong>%(filename)s</strong> འདི་ལྟར་ཕབ་ལེན་བྱེད་ཡོང་བ་ཡིན།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/replace.html:37
+#: wiki/plugins/images/templates/wiki/plugins/images/revision_add.html:24
+msgid "Upload replacement"
+msgstr "ཚབ་བྱེད་ནང་འཇུག་བྱེད།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:4
+msgid "Add file to"
+msgstr "ཡིག་ཆ་སྣོན།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:8
+msgid "Add attachment from other article"
+msgstr "རྩོམ་ཡིག་གཞན་པ་ནས་ཟུར་སྦྱར་སྣོན།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:14
+msgid "Search files and articles"
+msgstr "ཡིག་ཆ་དང་རྩོམ་ཡིག་འཚོལ་ཞིབ།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:22
+msgid "Main article"
+msgstr "རྩོམ་ཡིག་གཙོ་བོ།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:54
+msgid "Add to article"
+msgstr "རྩོམ་ཡིག་ནང་སྣོན།"
+
+#: wiki/plugins/attachments/templates/wiki/plugins/attachments/search.html:62
+msgid "Your search did not return any results"
+msgstr "ཁྱེད་ཀྱི་བཙལ་བྱ་དེར་བཙལ་འབྲས་གང་ཡང་རྙེད་མ་སོང་།"
+
+#: wiki/plugins/help/wiki_plugin.py:15
+msgid "Help"
+msgstr "རམ་འདེགས།"
+
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html:1
+msgid "Adding new articles"
+msgstr "རྩོམ་ཡིག་གསར་པ་སྣོན་བཞིན་པ།"
+
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html:3
+msgid ""
+"To create a new wiki article, create a link to it. Clicking the link gives "
+"you the creation page."
+msgstr "ཝེ་ཁེ་རྩོམ་ཡིག་གསར་བ་སྤེལ་བར་དེ་ལ་སྦྲེལ་ཐག་ཅིག་བཟོ་དགོས། སྦྲེལ་ཐག་དེའི་སྟེང་བསྣུན་ན་ཁྱེད་ལ་ལས་ཀའི་ཤོག་ངོས་དེ་སྤྲད་ཡོང་།"
+
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html:6
+#: wiki/plugins/links/templates/wiki/plugins/links/sidebar.html:19
+msgid "An external link"
+msgstr "ཕྱི་ལོགས་ཀྱི་དྲ་ཐག་ཅིག"
+
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html:9
+msgid "Headers"
+msgstr "མགོ་འདྲེན།"
+
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html:10
+msgid ""
+"Use these codes for headers and to automatically generate Tables of "
+"Contents."
+msgstr "འགོ་འདྲེན་དང་རང་འགུལ་གྱིས་ནང་དོན་རེའུ་མིག་བཟོ་བར་ཨང་བརྡ་འདི་དག་བཀོལ་སྤྱོད་བྱེད།"
+
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html:25
+msgid "Typography"
+msgstr "Typography"
+
+#: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html:30
+msgid "Lists"
+msgstr "ཐོ་གཞུང་།"
+
+#: wiki/plugins/images/forms.py:17
+#, python-format
+msgid ""
+"New image %s was successfully uploaded. You can use it by selecting it from "
+"the list of available images."
+msgstr "འདྲ་པར་གསར་པ་ %s བདེ་ལེགས་ངང་ནང་འཇུག་བྱས་ཟིན། ཁྱེད་ཀྱིས་ད་སྔ་ཡོད་བསྡད་པའི་འདྲ་པར་རྣམས་ཀྱི་ཐོ་གཞུང་ནས་དེ་བདམས་ཏེ་བཀོལ་ཆོག"
+
+#: wiki/plugins/images/forms.py:60
+msgid "Are you sure?"
+msgstr "ཐག་ཆོད་ཡིན་ནམ།"
+
+#: wiki/plugins/images/models.py:44
+msgid "image"
+msgstr "འདྲ་པར།"
+
+#: wiki/plugins/images/models.py:45
+msgid "images"
+msgstr "འདྲ་པར་ཁག"
+
+#: wiki/plugins/images/models.py:49
+#, python-format
+msgid "Image: %s"
+msgstr "འདྲ་པར་ནི་ %s"
+
+#: wiki/plugins/images/models.py:49
+msgid "Current revision not set!!"
+msgstr "མིག་སྔའི་བསྐྱར་བཅོས་བསྒྲིགས་མི་འདུག"
+
+#: wiki/plugins/images/models.py:97
+msgid "image revision"
+msgstr "འདྲ་པར་བསྐྱར་བཅོས་པར་གཞི།"
+
+#: wiki/plugins/images/models.py:98
+msgid "image revisions"
+msgstr "འདྲ་པར་བསྐྱར་བཅོས་པར་གཞི་ཁག"
+
+#: wiki/plugins/images/models.py:103
+#, python-format
+msgid "Image Revsion: %d"
+msgstr "འདྲ་པར་བསྐྱར་བཅོས་པར་གཞི་ནི་ %d"
+
+#: wiki/plugins/images/views.py:65
+#, python-format
+msgid "%s has been restored"
+msgstr "%s སླར་གསོ་བྱེད་མུས།"
+
+#: wiki/plugins/images/views.py:67
+#, python-format
+msgid "%s has been marked as deleted"
+msgstr "%s བསུབ་ཟིན་པའི་རྟགས་བརྒྱབ་འདུག"
+
+#: wiki/plugins/images/views.py:121
+#, python-format
+msgid "%(file)s has been changed to revision #%(revision)d"
+msgstr "%(file)sདེ་འདི་ #%(revision)d ལ་བསྒྱུར་འདུག"
+
+#: wiki/plugins/images/views.py:159
+#, python-format
+msgid "%(file)s has been saved."
+msgstr "%(file)s ཉར་ཚགས་བྱས་འདུག"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:4
+#: wiki/plugins/images/wiki_plugin.py:16
+msgid "Images"
+msgstr "འདྲ་པར་ཁག"
+
+#: wiki/plugins/images/wiki_plugin.py:27
+#, python-format
+msgid "An image was added: %s"
+msgstr "བསྣན་ཟིན་པའི་འདྲ་པར་ནི་ %s"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:7
+msgid ""
+"The following images are available for this article. Copy the markdown tag "
+"to directly refer to an image from the article text."
+msgstr "གཤམ་གསལ་གྱི་འདྲ་པར་རྣམས་རྩོམ་ཡིག་འདིའི་ནང་བཀོལ་ཆོག markdown ཡི་མཚོན་རྟགས་དེ་ཐད་ཀར་ངོ་བཤུ་བྱས་ཏེ་ཡིག་ཆའི་ནང་ཡོད་པའི་འདྲ་པར་གྱི་མཚམས་སུ་ཞོག"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:11
+msgid "Back to edit page"
+msgstr "རྩོམ་སྒྲིག་ཤོག་ངོས་སུ་ཕེབས།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:18
+msgid "No file"
+msgstr "ཡིག་ཆ་མི་འདུག"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:34
+msgid "Upload new image"
+msgstr "འདྲ་པར་གསར་པ་ནང་འཇུག་བྱེད།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:39
+msgid "Restore image"
+msgstr "འདྲ་པར་སླར་གསོ་བྱེད།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:44
+msgid "Remove image"
+msgstr "འདྲ་པར་སུབ།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:51
+msgid "Completely delete"
+msgstr "གཙང་སུབ་བྱེད།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:65
+#: wiki/templates/wiki/history.html:4
+msgid "History"
+msgstr "ལོ་རྒྱུས།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:84
+msgid "Revert to this version"
+msgstr "པར་གཞི་འདིར་ཕྱིར་ལྡོག་བྱེད།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/index.html:97
+msgid "There are no images for this article."
+msgstr "རྩོམ་ཡིག་འདི་ལ་འདྲ་པར་མི་འདུག"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/purge.html:4
+#: wiki/templates/wiki/deleted.html:39
+msgid "Purge deletion"
+msgstr "བསུབ་པ་གཙང་སེལ་བྱེད།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/purge.html:13
+msgid "Purge image: Completely remove image file and all revisions."
+msgstr "འདྲ་པར་གཙང་བཟོ་ནི། འདྲ་པར་དང་བསྐྱར་བཟོ་ཆ་ཚང་གཙང་སེལ་བྱེད།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/purge.html:24
+msgid "Remove it completely!"
+msgstr "དེ་གཙང་སུབ་བྱེད།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/render.html:14
+msgid "Image not found"
+msgstr "འདྲ་པར་རྙེད་མ་སོང་།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/revision_add.html:4
+msgid "Replace image"
+msgstr "འདྲ་པར་བསྐྱར་བརྗེ།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/revision_add.html:13
+msgid "Choose an image file to replace current image."
+msgstr "ད་ཡོད་ཀྱི་འདྲ་པར་བསྐྱར་བརྗེ་བྱེད་པར་འདྲ་པར་གཞན་ཞིག་འདེམ།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html:27
+msgid "Image id"
+msgstr "འདྲ་པར་གྱི་ id"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html:29
+#: wiki/plugins/links/templates/wiki/plugins/links/sidebar.html:13
+msgid "Insert"
+msgstr "ནང་འཇུག"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html:45
+msgid "No images found for this article"
+msgstr "རྩོམ་ཡིག་འདིའི་འདྲ་པར་རྙེད་མ་སོང་།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html:54
+msgid "Manage images"
+msgstr "འདྲ་པར་དོ་དམ།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html:60
+msgid "Add new image"
+msgstr "འདྲ་པར་གསར་སྣོན་བྱེད།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html:96
+msgid "Add image"
+msgstr "འདྲ་པར་སྣོན།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html:104
+msgid "You do not have permissions to add images."
+msgstr "ཁྱེད་ལ་འདྲ་པར་སྣོན་པའི་ཆོག་མཆན་མི་འདུག"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html:111
+msgid "How to use images"
+msgstr "འདྲ་པར་བཀོལ་ཐབས།"
+
+#: wiki/plugins/images/templates/wiki/plugins/images/sidebar.html:114
+msgid ""
+"After uploading an image, it is attached to this particular artice and can "
+"be used only here. Other users may replace the image, but older versions are"
+" kept. You probably want to show the image with a nice caption. To achieve "
+"this, press the Insert button and fill in the caption fields and possibly "
+"choose to have you image floating right or left of the content. You can use "
+"Markdown in the caption. The markdown code syntax for images looks like "
+"this, possible values for align are left/center/right:"
+msgstr "འདྲ་པར་ཞིག་ནང་འཇུག་བྱས་རྗེས་དེ་དམིགས་བསལ་གྱི་རྩོམ་ཡིག་འདི་དང་མཉམ་སྦྱར་བྱེད་འགྲོ་བ་དང་དེ་གནས་འདི་ཁོ་ནར་བཀོལ་སྤྱོད་བྱེད་པ་ཡིན། སྤྱོད་མཁན་གཞན་དག་གིས་ཀྱང་འདྲ་པར་དེ་ཚབ་བརྗེ་བྱེད་སྲིད་པ་རེད། ཡིན་ན་ཡང་པར་རྙིང་ཁག་མུ་མཐུད་དེ་བདག་ཉར་བྱེད་འགྲོ། ཁྱེད་རང་ཕལ་ཆེར་འདྲ་པར་དེ་དང་ལྷན་དུ་བརྙན་ཡིག་སྤུས་ལེགས་ཤིག་ཀྱང་སྟོན་འདོད་ཡོད་སྲིད་པ་རེད། དེ་ལྟར་བྱེད་པ་ལ་བརྙན་ཡིག་ནང་འཇུག་གི་ཐེབས་དེར་བསྣུན་ཏེ་བརྙན་ཡིག་གི་ཚན་པ་དེ་ཁ་སྐོང་དགོས། དེ་ནས་འདྲ་པར་དེ་ནང་དོན་གྱི་གཡས་གཡོན་གང་ལ་འཇོག་དགོས་མིན་འདེམ་གསེས་བྱ་ཆོག བརྙན་ཡིག་འཇོག་སྐབས་Markdown བཀོལ་སྤྱོད་བྱ་ཆོག འདྲ་པར་འཇོག་བྱེད་ཀྱི་code ནི་དཔེར་ན། འདི་འདྲ་ཞིག་རེད། གཡས་གཡོན་དཀྱིལ་གང་ལ་འཇོག་མིན་འདི་ལྟར་སྒྲིག་ཆོག left/center/right:"
+
+#: wiki/plugins/links/wiki_plugin.py:22
+msgid "Links"
+msgstr "དྲ་ཐག་ཁག"
+
+#: wiki/plugins/links/templates/wiki/plugins/links/sidebar.html:2
+msgid "Link to another wiki page"
+msgstr "ཝེ་ཁེའི་ཤོག་ངོས་གཞན་ལ་སྤྲེལ་བ།"
+
+#: wiki/plugins/links/templates/wiki/plugins/links/sidebar.html:5
+msgid ""
+"Type in something from another wiki page's title and auto-complete will help"
+" you create a tag for you wiki link. Tags for links look like this:"
+msgstr "འདིར་ཝེ་ཁེའི་ཤོག་ངོས་གཞན་ཞིག་གི་མཚན་བྱང་ནས་ཅི་ཞིག་ཕྲིས། auto-complete ཟེར་བ་དེས་ཁྱེད་ཀྱིས་ཝེ་ཁེའི་དྲ་ཐག་གི་ tag བཟོ་བར་རམ་འདེགས་བྱེད།  དྲ་ཐག་གི་ tag ཟེར་བ་དེ་འདི་འངྲ་ཞིག་ཡིན། "
+
+#: wiki/plugins/links/templates/wiki/plugins/links/sidebar.html:22
+msgid ""
+"You can link to another website simply by inserting an address example.com "
+"or http://example.com or by using the markdown syntax:"
+msgstr "ཁྱེད་ཀྱིས་དྲ་ཚིགས་གཞན་ཞིག་གི་དྲ་བྱང་ཞིག་བཞག་སྟེ་ཕན་ཚུན་མཐུད་སྦྱོར་བྱ་ཆོག དཔེར་ན། example.com དང་ཡང་ན་ http://example.com ལྟ་བུ། markdown ཡི་འགྲོ་སྟངས་བྱེད་དགོས།"
+
+#: wiki/plugins/notifications/forms.py:15
+msgid "Notifications"
+msgstr "བརྡ་ཁྱབ་ཁག"
+
+#: wiki/plugins/notifications/forms.py:19
+msgid "When this article is edited"
+msgstr "རྩོམ་ཡིག་འདི་རྩོམ་སྒྲིག་བྱེད་དུས།"
+
+#: wiki/plugins/notifications/forms.py:20
+msgid "Also receive emails about article edits"
+msgstr "རྩོམ་ཡིག་རྩོམ་སྒྲིག་སྐོར་གྱི་གློག་འཕྲིན་ཡང་འབྱོར།"
+
+#: wiki/plugins/notifications/forms.py:43
+msgid "Your notification settings were updated."
+msgstr "ཁྱེད་ཀྱི་གསར་བརྡའི་སྒྲིག་འགོད་རྣམས་རིམ་སྤར་བྱས་འདུག"
+
+#: wiki/plugins/notifications/forms.py:45
+msgid "Your notification settings were unchanged, so nothing saved."
+msgstr "ཁྱེད་ཀྱི་གསར་བརྡའི་སྒྲིག་འགོད་རྣམས་འགྱུར་བ་བཏང་མི་འདུག་པས། གསར་དུ་ཉར་རྒྱུ་མི་འདུག"
+
+#: wiki/plugins/notifications/models.py:19
+#, python-format
+msgid "%(user)s subscribing to %(article)s (%(type)s)"
+msgstr "%(user)s subscribing to %(article)s (%(type)s)"
+
+#: wiki/plugins/notifications/models.py:42
+#, python-format
+msgid "Article deleted: %s"
+msgstr "རྩོམ་ཡིག་བསུབ་ཟིན་པ་ནི་ %s"
+
+#: wiki/plugins/notifications/models.py:45
+#, python-format
+msgid "Article modified: %s"
+msgstr "རྩོམ་ཡིག་བསྒྱུར་བཅོས་བྱས་པ་ནི་ %s"
+
+#: wiki/plugins/notifications/models.py:48
+#, python-format
+msgid "New article created: %s"
+msgstr "རྩོམ་ཡིག་གསར་པ་སྤེལ་འདུག %s"
+
+#: wiki/plugins/notifications/templates/wiki/plugins/notifications/menubaritem.html:12
+msgid "notifications"
+msgstr "གསར་བརྡ་ཁག"
+
+#: wiki/plugins/notifications/templates/wiki/plugins/notifications/menubaritem.html:17
+msgid "No notifications"
+msgstr "གསར་བརྡ་མི་འདུག"
+
+#: wiki/plugins/notifications/templates/wiki/plugins/notifications/menubaritem.html:19
+msgid "Clear notifications list"
+msgstr "གསར་བརྡའི་ཐོ་གཞུང་གཙང་སེལ།"
+
+#: wiki/templates/wiki/article.html:39
+msgid "This article was last modified:"
+msgstr "རྩོམ་ཡིག་འདི་མཇུག་མཐཪ་བཟོ་བཅོས་བྱས་འདུག:"
+
+#: wiki/templates/wiki/base.html:113
+msgid "Search..."
+msgstr "འཚོལ་བཞིན་་་་"
+
+#: wiki/templates/wiki/base.html:129
+msgid "Log out"
+msgstr "སྒོ་གཏན།"
+
+#: wiki/templates/wiki/accounts/login.html:3
+#: wiki/templates/wiki/accounts/signup.html:3
+#: wiki/templates/wiki/base.html:138
+msgid "Log in"
+msgstr "ནང་འཛུལ།"
+
+#: wiki/templates/wiki/accounts/login.html:18
+#: wiki/templates/wiki/accounts/signup.html:6
+#: wiki/templates/wiki/base.html:141
+msgid "Sign up"
+msgstr "ཞུགས་ཐོ་གསར་བཟོ།"
+
+#: wiki/templates/wiki/create.html:4 wiki/templates/wiki/create.html:44
+msgid "Add new article"
+msgstr "རྩོམ་ཡིག་གསར་པ་ཞོག"
+
+#: wiki/templates/wiki/create.html:55
+msgid "Create article"
+msgstr "རྩོམ་ཡིག་གསར་སྤེལ།"
+
+#: wiki/templates/wiki/delete.html:4 wiki/templates/wiki/delete.html:52
+#: wiki/templates/wiki/edit.html:41
+msgid "Delete article"
+msgstr "རྩོམ་ཡིག་སུབ།"
+
+#: wiki/templates/wiki/delete.html:10
+msgid "You cannot delete a root article."
+msgstr "ཁྱེད་ཀྱིས་རྩ་བའི་རྩོམ་ཡིག་བསུབ་མི་ཐུབ།"
+
+#: wiki/templates/wiki/delete.html:16
+msgid ""
+"You cannot delete this article because you do not have permission to delete "
+"articles with children. Try to remove the children manually one-by-one."
+msgstr "ཁྱེད་ཀྱིས་རྩོམ་ཡིག་འདི་བསུབ་མི་ཐུབ། རྒྱུ་མཚན་ནི་ཁྱེད་ཚོར་བྱིས་པ་དང་མཉམ་དུ་ཡོད་པའི་རྩོམ་ཡིག་བསུབ་པའི་ཆོག་མཆན་མེད། བྱིས་པ་ཚོ་རེ་རེ་བཞིན་ལག་པས་གཙང་སེལ་བྱ་རོགས།"
+
+#: wiki/templates/wiki/delete.html:22
+msgid ""
+"You are deleting an article. This means that its children will be deleted as"
+" well. If you choose to purge, children will also be purged!"
+msgstr "ཁྱེད་ཀྱིས་རྩོམ་ཡིག་ཅིག་སུབ་བཞིན་འདུག འདིས་ད་དུང་བྱིས་པ་ཡང་བསུབ་འགྲོ་བ་ཡིན། གལ་ཏེ་ཁྱོད་ཀྱིས་གཙང་སེལ་བདམས་ན་བྱིས་པ་ཡང་གཙང་སེལ་བྱེད་འགྲོ་བ་ཡིན།"
+
+#: wiki/templates/wiki/delete.html:24
+msgid "Articles that will be deleted"
+msgstr "རྩོམ་ཡིག་དེ་དག་བསུབ་འགྲོ།"
+
+#: wiki/templates/wiki/delete.html:30
+msgid "...and more!"
+msgstr "...དང་དེ་ལས་མང་བ།"
+
+#: wiki/templates/wiki/delete.html:38
+msgid "You are deleting an article. Please confirm."
+msgstr "ཁྱེད་ཀྱིས་རྩོམ་ཡིག་ཅིག་སུབ་བཞིན་འདུག གཏན་འཁེལ་བྱོས།"
+
+#: wiki/templates/wiki/deleted.html:4
+msgid "Article deleted"
+msgstr "རྩོམ་ཡིག་བསུབ་ཟིན་པ།"
+
+#: wiki/templates/wiki/deleted.html:13
+msgid "Article Deleted"
+msgstr "རྩོམ་ཡིག་བསུབ་ཟིན་པ།"
+
+#: wiki/templates/wiki/deleted.html:16
+msgid "The article you were looking for has been deleted."
+msgstr "ཁྱེད་ཀྱིས་འཚོམ་བཞིན་པའི་རྩོམ་ཡིག་དེ་བསུབ་ཟིན་འདུག"
+
+#: wiki/templates/wiki/deleted.html:25
+msgid "You may restore this article and its children by clicking restore."
+msgstr "ཁྱེད་ཀྱིས་སླར་གསོ་ཟེར་བ་དེའི་སྒང་ལ་བསྣུན་ཏེ་རྩོམ་ཡིག་འདི་དང་འདིའི་འབྲེལ་ཡོད་རྣམས་སླར་གསོ་བྱེད།"
+
+#: wiki/templates/wiki/deleted.html:40
+msgid ""
+"You may remove this article and any children permanently and free their "
+"slugs by clicking the below button. This action cannot be undone."
+msgstr "ཁྱེད་ཀྱིས་རྩོམ་ཡིག་འདི་དང་དེའི་བུ་རྩོམ་གང་རུང་དང་བཅས་གཏན་སུབ་བྱ་ཆོག དེ་བཞིན་གཤམ་ཐེབས་ལ་བསྣུན་ན་རིན་མེད་ཀྱི་slugs ཡོད། བྱེད་ནུས་འདིར་ཕྱིར་འཐེན་གྱི་ཁྱད་ཆོད་མེད།"
+
+#: wiki/templates/wiki/dir.html:4
+msgid "Listing articles in"
+msgstr "ནང་རྩོམ་ཡིག་རྣམས་ཐོ་རུ་འགོད་བཞིན་ཡོད།"
+
+#: wiki/templates/wiki/dir.html:16
+msgid "Up one level"
+msgstr "རིམ་པ་གཅིག་ཡར་སྤོར།"
+
+#: wiki/templates/wiki/dir.html:21
+msgid "Add article"
+msgstr "རྩོམ་ཡིག་སྣོན།"
+
+#: wiki/templates/wiki/dir.html:28
+msgid "clear"
+msgstr "གཙང་བཟོ་བྱེད།"
+
+#: wiki/templates/wiki/dir.html:40 wiki/templates/wiki/dir.html:44
+msgid "article,articles"
+msgstr "རྩོམ་ཡིག,རྩོམ་ཡིག་ཁག"
+
+#: wiki/templates/wiki/dir.html:40
+msgid "matches,match"
+msgstr "མཐུན་པ་ཁག,མཐུན་པ།"
+
+#: wiki/templates/wiki/dir.html:42
+#, python-format
+msgid "%(cnt)s %(articles_plur)s in this level %(match_plur)s your search."
+msgstr "%(cnt)s %(articles_plur)sརིམ་པ་འདིའི་ནང་གི་%(match_plur)s ཁྱེད་ཀྱི་བཙལ་བྱ།"
+
+#: wiki/templates/wiki/dir.html:44
+msgid "is,are"
+msgstr "is,are"
+
+#: wiki/templates/wiki/dir.html:46
+#, python-format
+msgid "There %(articles_plur_verb)s %(cnt)s %(articles_plur)s in this level."
+msgstr "འདིར་ %(articles_plur_verb)s %(cnt)s %(articles_plur)s རིམ་པ་འདིའི་ནང་ཡོད།"
+
+#: wiki/templates/wiki/dir.html:56
+msgid "Last modified"
+msgstr "སྔོན་མ་བསྐྱར་བཅོས་བྱས་པ།"
+
+#: wiki/templates/wiki/edit.html:4
+#: wiki/templates/wiki/includes/article_menu.html:34
+msgid "Edit"
+msgstr "རྩོམ་སྒྲིག"
+
+#: wiki/templates/wiki/edit.html:31
+msgid "Preview"
+msgstr "སྔོན་བལྟ།"
+
+#: wiki/templates/wiki/edit.html:35 wiki/templates/wiki/edit.html:57
+#: wiki/templates/wiki/settings.html:15
+msgid "Save changes"
+msgstr "བརྗེ་བསྒྱུར་ཉོར།"
+
+#: wiki/templates/wiki/edit.html:53
+msgid "Back to editor"
+msgstr "ཕྱིར་རྩོམ་སྒྲིག་ལ་ལོག"
+
+#: wiki/templates/wiki/history.html:55
+msgid ""
+"Click each revision to see a list of edited lines. Click the Preview button "
+"to see how the article looked at this stage. At the bottom of this page, you"
+" can change to a particular revision or merge an old revision with the "
+"current one."
+msgstr "Click each revision to see a list of edited lines. Click the Preview button to see how the article looked at this stage. At the bottom of this page, you can change to a particular revision or merge an old revision with the current one."
+
+#: wiki/templates/wiki/history.html:74
+msgid "no log message"
+msgstr "ཉར་བའི་འཕྲིན་ཐུང་འདྲ་མི་འདུག"
+
+#: wiki/templates/wiki/history.html:86 wiki/templates/wiki/history.html:91
+msgid "Preview this revision"
+msgstr "བསྐྱར་བཅོས་འདི་ཡི་སྔོན་ལྟ།"
+
+#: wiki/templates/wiki/history.html:105
+msgid "Auto log:"
+msgstr "རང་འགུལ་ནང་འཛུལ།:"
+
+#: wiki/templates/wiki/history.html:113
+msgid "Change"
+msgstr "བསྒྱུར་བཅོས།"
+
+#: wiki/templates/wiki/history.html:131
+msgid "Merge selected with current..."
+msgstr "ཟླ་སྒྲིལ་གཏོང་རྒྱུ་ནི་བདམས་ཟིན་པ་དང་ད་ལྟའི་..."
+
+#: wiki/templates/wiki/history.html:135
+msgid "Switch to selected version"
+msgstr "བདམས་ཡོད་པའི་ཐོན་རིམ་ལ་སྤོར།"
+
+#: wiki/templates/wiki/history.html:151 wiki/templates/wiki/history.html:178
+msgid "Back to history view"
+msgstr "ཕྱིར་ལོ་རྒྱུས་བལྟ་སར་ལོག"
+
+#: wiki/templates/wiki/history.html:156 wiki/templates/wiki/history.html:161
+msgid "Switch to this version"
+msgstr "ཐོན་རིམ་འདི་ལ་སྤོར།"
+
+#: wiki/templates/wiki/history.html:169
+msgid "Merge with current"
+msgstr "ད་ལྟའི་དེ་དང་མཉམ་དུ་ཟླ་སྒྲིལ་གཏོང་།"
+
+#: wiki/templates/wiki/history.html:170
+msgid ""
+"When you merge a revision with the current, all data will be retained from "
+"both versions and merged at its approximate location from each revision."
+msgstr "When you merge a revision with the current, all data will be retained from both versions and merged at its approximate location from each revision."
+
+#: wiki/templates/wiki/history.html:170
+msgid "After this, it's important to do a manual review."
+msgstr "འདིའི་རྗེས་ནས་ལག་སྒྲིག་བསྐྱར་ཞིབ་ཞིག་བྱ་རྒྱུ་ནི་གལ་ཆེ།"
+
+#: wiki/templates/wiki/history.html:183 wiki/templates/wiki/history.html:188
+msgid "Create new merged version"
+msgstr "ཟླ་སྒྲིལ་བྱས་པའི་ཐོན་རིམ་གསར་པ་ཞིག་བཟོས།"
+
+#: wiki/templates/wiki/permission_denied.html:7
+msgid "Permission Denied"
+msgstr "ཆོག་མཆན་ངོས་ལེན་བྱས་མ་སོང་།"
+
+#: wiki/templates/wiki/permission_denied.html:9
+msgid "Sorry, you don't have permission to view this page."
+msgstr "དགོངས་དག ཁྱེད་ལ་ཤོག་ངོས་འདིར་ལྟ་བའི་ཆོག་མཆན་མི་འདུག"
+
+#: wiki/templates/wiki/preview_inline.html:8
+msgid "Previewing revision"
+msgstr "བཟོ་བཅོས་པར་གཞིའི་སྔོན་ལྟ།"
+
+#: wiki/templates/wiki/preview_inline.html:15
+msgid "Previewing merge between"
+msgstr "བར་ལ་ཟླ་སྒྲིལ་སྔོན་ལྟ།"
+
+#: wiki/templates/wiki/preview_inline.html:17
+msgid "and"
+msgstr "དང་"
+
+#: wiki/templates/wiki/preview_inline.html:26
+msgid "This revision has been deleted."
+msgstr "བསྐྱར་བཅོས་འདི་བསུབས་ཟིན་འདུག"
+
+#: wiki/templates/wiki/preview_inline.html:27
+msgid "Restoring to this revision will mark the article as deleted."
+msgstr "ལེགས་བཅོས་འདི་བསྐྱར་གསོ་བྱས་པས་རྩོམ་ཡིག་དེ་བསུབས་ཟིན་པའི་རྟགས་འགོད་འགྲོ།"
+
+#: wiki/templates/wiki/includes/article_menu.html:9
+#: wiki/templates/wiki/settings.html:4
+msgid "Settings"
+msgstr "སྒྲིག་འགོད་ཁག"
+
+#: wiki/templates/wiki/source.html:4
+msgid "Source of"
+msgstr "ཀྱི་ཁུངས།"
+
+#: wiki/templates/wiki/source.html:9
+msgid "This article is currently locked for editing."
+msgstr "ད་ལྟའི་ཆར་རྩོམ་ཡིག་འདི་རྩོམ་སྒྲིག་གི་ཆོག་མཆན་བཀག་འདུག"
+
+#: wiki/templates/wiki/accounts/login.html:6
+msgid "Please log in"
+msgstr "ནང་འཛུལ་བྱ་རོགས།"
+
+#: wiki/templates/wiki/accounts/login.html:12
+msgid "Log me in..."
+msgstr "ང་ནང་འཇུག་བྱ་རོགས།"
+
+#: wiki/templates/wiki/accounts/login.html:18
+msgid "Don't have an account?"
+msgstr "ད་སྔ་ཁ་བྱང་བཟོས་མེད་དམ།"
+
+#: wiki/templates/wiki/accounts/signup.html:12
+msgid "Sign me up..."
+msgstr "ང་ལ་ཁ་བྱང་གསར་བཟོ་བྱ་རོགས།"
+
+#: wiki/templates/wiki/article/create_root.html:4
+msgid "Create root article"
+msgstr "རྨང་གཞིའི་རྩོམ་ཡིག་སྤེལ།"
+
+#: wiki/templates/wiki/article/create_root.html:22
+msgid "Congratulations!"
+msgstr "རྟེན་འབྲེལ་ཞུ།"
+
+#: wiki/templates/wiki/article/create_root.html:24
+msgid ""
+"You have django-wiki installed... but there are no articles. So it's time to"
+" create the first one, the root article. In the beginning, it will only be "
+"editable by administrators, but you can define permissions after."
+msgstr "ཁྱེད་ཀྱིས་ django-wiki འཇུག་སྤྲོད་བྱས་འདུག་མོད་ཀྱང་། རྩོམ་ཡིག་གཅིག་ཀྱང་སྤེལ་མི་འདུག ད་ནི་རྩོམ་ཡིག་ཐོག་མ་འམ་རྩོམ་ཡིག་རགས་ཟིན་ཞིག་སྤེལ་བའི་དུས་ལ་བབས་འདུག ཐོག་མར་འགོ་རྩོམ་པའི་སྐབས་སུ་འཛིན་སྐྱོང་བས་རྩོམ་སྒྲིག་བྱེད་ཐུབ་པ་ཞིག་ཡིན། འོན་ཀྱང་རྗེས་ཀྱི་ཆོག་མཆན་སྤྲོད་མིན་ཐད་དོ་བདག་གིས་ཐག་གཅོད་བྱ་ཆོག"
+
+#: wiki/templates/wiki/article/create_root.html:27
+msgid "Root article"
+msgstr "རྨང་གཞིའི་རྩོམ་ཡིག"
+
+#: wiki/templates/wiki/article/create_root.html:34
+msgid "Create root"
+msgstr "རྨང་གཞི་གསར་བཟོ།"
+
+#: wiki/templates/wiki/includes/anonymous_blocked.html:8
+#, python-format
+msgid ""
+"You need to <a href=\"%(login_url)s\">log in</a> or <a "
+"href=\"%(signup_url)s\">sign up</a> to use this function."
+msgstr "ཁྱད་ཆོས་འདི་བཀོལ་སྤྱོད་བྱེད་པ་ལ་ཐོག་མར་ཁྱེད་ཀྱིས་ <a href=\"%(login_url)s\">ནང་འཛུལ་</a> དང་ཡང་ན་ <a href=\"%(signup_url)s\">ཁ་བྱང་གསར་བཟོ་</a> བྱ་དགོས།"
+
+#: wiki/templates/wiki/includes/anonymous_blocked.html:10
+msgid "You need to log in og sign up to use this function."
+msgstr "ཁྱད་ཆོས་འདི་བཀོལ་སྤྱོད་བྱེད་པ་ལ་ཐོག་མར་ཁྱེད་ཀྱིས་ནང་འཛུལ་དང་ཡང་ན་ཁ་བྱང་གསར་བཟོ་བྱ་དགོས།"
+
+#: wiki/templates/wiki/includes/article_menu.html:26
+msgid "Changes"
+msgstr "བསྒྱུར་བཅོས།"
+
+#: wiki/templates/wiki/includes/article_menu.html:41
+msgid "View Source"
+msgstr "ཁུངས་སྟོན།"
+
+#: wiki/templates/wiki/includes/article_menu.html:49
+msgid "View"
+msgstr "སྟོན།"
+
+#: wiki/templates/wiki/includes/breadcrumbs.html:16
+#: wiki/templates/wiki/includes/breadcrumbs.html:42
+msgid "Sub-articles for"
+msgstr "ནང་གསེས་རྩོམ་ཡིག"
+
+#: wiki/templates/wiki/includes/breadcrumbs.html:28
+msgid "No sub-articles"
+msgstr "ནང་གསེས་རྩོམ་ཡིག་མ་ཡིན་པ།"
+
+#: wiki/templates/wiki/includes/breadcrumbs.html:31
+msgid "...and more"
+msgstr "དང་དེ་ལས་མང་བ་་་"
+
+#: wiki/templates/wiki/includes/breadcrumbs.html:35
+msgid "Browse articles in this level"
+msgstr "རིམ་པ་འདིའི་ནང་རྩོམ་ཡིག་མིག་བཤེར་བྱོས།"
+
+#: wiki/templates/wiki/includes/breadcrumbs.html:51
+msgid "New article next to"
+msgstr "རྗེས་ཀྱི་རྩོམ་ཡིག་གསར་པ།"
+
+#: wiki/templates/wiki/includes/breadcrumbs.html:56
+msgid "New article below"
+msgstr "གཤམ་གྱི་རྩོམ་ཡིག་གསར་པ།"
+
+#: wiki/templates/wiki/includes/revision_info.html:10
+msgid "by"
+msgstr "ནས་"
+
+#: wiki/templates/wiki/includes/revision_info.html:10
+msgid "anonymous (IP logged)"
+msgstr "མིང་ཁ་གསལ་མེད་པའི་ (IP logged)"
+
+#: wiki/templates/wiki/includes/revision_info.html:18
+msgid "restored"
+msgstr "སླར་གསོ་བྱས་ཡོད།"
+
+#: wiki/templates/wiki/includes/revision_info.html:24
+msgid "unlocked"
+msgstr "ཟྭ་ཕྱེས་ཡོད།"
+
+#: wiki/views/accounts.py:28
+msgid "You are now sign up... and now you can sign in!"
+msgstr "ཁྱེད་ཀྱི་ཁ་བྱང་གསར་བཟོ་འགྲུབ་སོང་བས། ད་ནས་ནང་འཛུལ་བྱ་ཆོག"
+
+#: wiki/views/accounts.py:35
+msgid "You are no longer logged in. Bye bye!"
+msgstr "ཁྱེད་རང་ཕྱིར་ཐོན་སོང་། རྗེས་སུ་མཇལ་ཡོང་།"
+
+#: wiki/views/accounts.py:60
+msgid "You are now logged in! Have fun!"
+msgstr "ཁྱེད་རང་ནང་འཛུལ་བྱས་སོང་། སྤྲོ་བོ་ཡོང་བར་ཤོག"
+
+#: wiki/views/article.py:91
+#, python-format
+msgid "New article '%s' created."
+msgstr "རྩོམ་ཡིག་གསར་པ་ '%s' སྤེལ་སོང་།"
+
+#: wiki/views/article.py:96
+#, python-format
+msgid "There was an error creating this article: %s"
+msgstr "རྩོམ་ཡིག་འདི་སྤེལ་བར་གནད་དོན་ཞིག་བྱུང་སོང་བ་ནི་ %s"
+
+#: wiki/views/article.py:98
+msgid "There was an error creating this article."
+msgstr "རྩོམ་ཡིག་འདི་སྤེལ་བར་གནད་དོན་ཞིག་བྱུང་སོང་།"
+
+#: wiki/views/article.py:179
+msgid ""
+"This article cannot be deleted because it has children or is a root article."
+msgstr "རྩོམ་ཡིག་འདི་ལ་ཡན་ལག་གི་རྩོམ་ཡིག་དང་ཡང་ན་མ་རྩོམ་གང་རུང་ཞིག་ཡིན་པ་འདྲ། བསུབ་ཐུབ་ཀྱི་མི་འདུག"
+
+#: wiki/views/article.py:190
+msgid ""
+"This article together with all its contents are now completely gone! Thanks!"
+msgstr "རྩོམ་ཡིག་འདི་དང་འབྲེལ་བའི་ནང་དོན་ཡོངས་རྫོགས་སོང་ཟིན། ཐུགས་རྗེ་ཆེ།"
+
+#: wiki/views/article.py:197
+#, python-format
+msgid ""
+"The article \"%s\" is now marked as deleted! Thanks for keeping the site "
+"free from unwanted material!"
+msgstr "རྩོམ་ཡིག་དེར་\"%s\" བསུབ་ཟིན་པའི་རྟགས་བརྒྱབ་ཡོད། མཁོ་མེད་ཀྱི་རྒྱུ་ཆ་བསུབ་ཏེ་ས་ཆ་གཙང་ཉར་བྱས་པར་ཐུགས་རྗེ་ཆེ།"
+
+#: wiki/views/article.py:280
+msgid "Your changes were saved."
+msgstr "ཁྱེད་ཀྱི་བསྒྱུར་བཅོས་རྣམས་ཉར་ཚགས་བྱས་ཡོད།"
+
+#: wiki/views/article.py:303
+msgid "A new revision of the article was successfully added."
+msgstr "རྩོམ་ཡིག་དེའི་བཟོ་བཅོས་པར་གཞི་གསར་པ་དེ་བསྣན་ཟིན།"
+
+#: wiki/views/article.py:360
+msgid "Restoring article"
+msgstr "རྩོམ་ཡིག་སླར་གསོ།"
+
+#: wiki/views/article.py:362
+#, python-format
+msgid "The article \"%s\" and its children are now restored."
+msgstr "མ་རྩོམ་ \"%s\" དེ་དང་དེའི་བུ་རྩོམ་དང་བཅས་པ་སླར་གསོ་བྱས་ཡོད།"
+
+#: wiki/views/article.py:546
+#, python-format
+msgid ""
+"The article %(title)s is now set to display revision #%(revision_number)d"
+msgstr "ད་སྐབས་རྩོམ་ཡིག་དེ %(title)sའི་བཟོ་བཅོས་པར་གཞི་ #%(revision_number)d སྟོན་རྒྱུར་བསྒྲིགས་ཡོད།"
+
+#: wiki/views/article.py:611
+msgid "New title"
+msgstr "མཚན་བྱང་གསར་པ།"
+
+#: wiki/views/article.py:635
+#, python-format
+msgid "Merge between Revision #%(r1)d and Revision #%(r2)d"
+msgstr "བཟོ་བཅོས་པར་གཞི་ #%(r1)d འདི་དང་ #%(r2)d འདི་གཉིས་ཟླ་སྒྲིལ་བྱེད།"
+
+#: wiki/views/article.py:639
+#, python-format
+msgid ""
+"A new revision was created: Merge between Revision #%(r1)d and Revision "
+"#%(r2)d"
+msgstr "བཟོ་བཅོས་པར་གཞི་གསར་པ་ཞིག་བཟོས་པའི་པར་གཞི་ #%(r1)d འདི་དང་ #%(r2)d འདི་གཉིས་ཟླ་སྒྲིལ་བྱེད།"
